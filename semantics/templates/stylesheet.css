@@ -1,0 +1,39 @@
+body {
+    background-color: #ececd4;
+    background-size: cover;
+}
+
+#header {
+    padding-top: 35px;
+    color: #7b6f3d;
+    font-family: "Garamond, serif";
+    font-size: 32px;
+    text-align: center;
+    font-variant: small-caps;
+}
+#footer {
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    width: 50%;
+    text-align: center;
+    font-family: "Garamond, serif";
+    color: #493e24;
+    font-size: small;
+}
+
+.box {
+    position: relative;
+    color: #2f2d13;
+    font-family: "Garamond, serif";
+    background-color: rgba(258,258,258,0.5);
+    border-color: #7b6f3d;
+    padding: 20px;
+    width: 65%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+#value {
+    font-variant: small-caps;
+}
