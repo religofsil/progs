@@ -109,7 +109,7 @@ a:link {
 }
 
 a:hover {
-    text-decoration: dashed;
+    border-bottom: dashed 1px #a39954;
     color: #a39954;
 }
 
