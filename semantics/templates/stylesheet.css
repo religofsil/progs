@@ -24,6 +24,12 @@ input {
     text-align: center;
     font-variant: small-caps;
 }
+
+#header:hover {
+    border-bottom: none;
+    color: #a39954;
+}
+
 #footer {
     display: block;
     position: static;
@@ -109,7 +115,7 @@ a:link {
 }
 
 a:hover {
-    border-bottom: dashed 1px #a39954;
+    border-bottom: dashed 1px rgba(163, 153, 84, 0.4);
     color: #a39954;
 }
 
