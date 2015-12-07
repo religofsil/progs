@@ -6,7 +6,7 @@ import sqlite3, codecs
 conn = sqlite3.connect('test.db')
 
 c = conn.cursor() #создала точку соприкосновения с базой
-#c.execute('''CREATE TABLE cat (id, text, year)''') #создали пустой лист с тремя колонками
+c.execute('''CREATE TABLE cat (id, text, year)''') #создали пустой лист с тремя колонками
 table = codecs.open('tab.csv', 'r', 'utf-8')
 for line in table:
     line = line.strip()
