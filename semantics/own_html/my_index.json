@@ -1,0 +1,8 @@
+{
+  "mappings": {
+    "primer": {
+      "properties": {
+        "text":    { "type": "string"  }
+    }
+  }
+}

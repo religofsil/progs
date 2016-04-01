@@ -64,7 +64,7 @@ def main():
     with open('person-k.html') as f:
         html = f.read().decode('utf-8')
     blocks = persons_blocks_lxml(html)
-    print len(blocks)
+    print blocks[0].nameandoccupation
 
 
 main()
