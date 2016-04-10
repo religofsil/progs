@@ -5,25 +5,40 @@ import codecs, json
 def writedict(arr):
     f = codecs.open('slovar2.json', 'w', 'utf-8')
     d = {}  # финальный словарь
-    subd=[] # служебный массив
-    subd2={}
-    arr.sort() # сортировка по тайским словам
+    subd = []  # служебный массив
+    subd2 = {}  # служебный словарь
+    arr.sort()  # сортировка по тайским словам
     for i in arr:
-        subd2[i]=[i.translation, i.pos, i.translit]
-        subd.append([i.translation, i.pos, i.translit]) # делаем служебный словарь: каждому объекту ставим в соответствие перевод, часть речи и транслит
-    keyss=[i.thaiword for i in arr]
-    keyss=list(set(keyss))
-    keyss.sort()
-    count2=0
+        print i.thaiword
+        subd2[i] = [i.translation, i.pos,
+                    i.translit]  # делаем служебный словарь: каждому объекту ставим в соответствие перевод, часть речи и транслит
+        subd.append(
+            [i.translation, i.pos, i.translit])  # делаем служебный массив значений, отсортированный по тайским словам
+    print '---------------------------'
+    keyss = [i.thaiword for i in arr]
+    keyss = list(set(keyss))
+    keyss.sort()  # отсортированный массив тайских слов
+    print keyss
+    print '---------------------------'
+    count2 = 0
+    print [n.translation for n in arr]
+    print '---------------------------'
     for i in keyss:
-        count2=keyss.index(i)
-        d[i]={}
-        count=1
-        for n in subd[count2:-1]:
-            if subd2[n].get().thaiword==i:
-                d[i][count]=subd[n]
-                count+=1
+        print '---------------------------'
+        c = 1
+        d[i] = {}
         print i, d[i]
+        print '---'
+        for n in arr[count2::]:
+            print 'starting with a word ', count2
+            if i == n.thaiword:
+                d[i][c] = [n.translation, n.pos, n.translit]
+                print i, d[i]
+                c += 1
+            else:
+                count2 = arr.index(n)
+                print "i'm breaking ", count2
+                break
     json.dump(d, f, ensure_ascii=False, indent=2)
     f.close()
 
