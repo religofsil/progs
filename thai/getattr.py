@@ -10,8 +10,10 @@ class Word:
             self.thaiword = 'NO'
         try:
             self.pos = root.xpath('./td[@class="pos"]')[0].text_content().split(', ')
+            if self.pos == ['']:
+                self.pos = ["pos is missing"]
         except:
-            self.pos = [""]
+            self.pos = ["pos is missing"]
         if self.thaiword != 'NO':
             self.translit = root.xpath('./td')[1].text_content()
         else:
@@ -54,7 +56,7 @@ class Word:
         }
         for i in self.pos:
             if i in changedict:
-                if i == 'VI' or i == 'VT' or i=='ADV   V':
+                if i == 'VI' or i == 'VT':
                     self.pos.extend(changedict[i].split(', '))
                 else:
                     self.pos.append(changedict[i])
@@ -72,16 +74,8 @@ def readdict():
             words = root.xpath('//table[@class="gridtable"]/tr')
             words = words[1:-1]
             for i in words:
-                arrwords.append(Word(i))
+                arrwords.append(Word(i).pos)
     return arrwords
-
-
-def deletedubs(arr):
-    arr2 = []
-    for i in arr:
-        if i not in arr2:
-            arr2.append(i)
-    return arr2
 
 
 def yaitron():
@@ -95,67 +89,39 @@ def yaitron():
         i = Word()
         i.pos = [word.xpath('./pos')[0].text]
         i.thaiword = word.xpath('./headword')[0].text
-        i.translit = ''
+        i.translit = 'NO'
         i.translation = word.xpath('./translation')[0].text
         i = i.posmerge()
-        final_arr.append(i)
+        final_arr.append(i.pos)
         i = None
     words = root.xpath("//entry[@lang='eng']")
     for word in words:
         i = Word()
-        i.pos = [""]
+        try:
+            i.pos = word.xpath('./pos')[0].text.split(', ')
+        except:
+            i.pos = [""]
         i.translation = word.xpath('./headword')[0].text
-        i.translit = ''
+        i.translit = 'NO'
         i.thaiword = word.xpath('./translation')[0].text
         i = i.posmerge()
-        final_arr.append(i)
+        final_arr.append(i.pos)
         i = None
     return final_arr
 
 
-def writedict(arr):
-    import json
-    f = codecs.open('slovar5.json', 'w', 'utf-8')
-    d = {}  # финальный словарь
-    subd = []  # служебный массив
-    subd2 = {}  # служебный словарь
-    arr.sort()  # сортировка по тайским словам
-    for i in arr:
-        subd2[i] = [i.translation, i.pos,
-                    i.translit]  # делаем служебный словарь: каждому объекту ставим в соответствие перевод, часть речи и транслит
-        subd.append(
-            [i.translation, i.pos, i.translit])  # делаем служебный массив значений, отсортированный по тайским словам
-    keyss = [i.thaiword for i in arr]
-    keyss = list(set(keyss))
-    keyss.sort()  # отсортированный массив тайских слов
-    count2 = 0
-    for i in keyss:
-        c = 1
-        d[i] = {}
-        for n in arr[count2::]:
-            if i == n.thaiword:
-                d[i][c] = [n.translation, n.pos, n.translit]
-                c += 1
-            else:
-                count2 = arr.index(n)
-                break
-    json.dump(d, f, ensure_ascii=False, indent=2)
-    f.close()
-
-
 def main():
-    arrwords = readdict()
-    final_arr = yaitron()
-    final_arr.extend(arrwords)
-    for i in final_arr:
-        if i.thaiword == "NO":
-            i.thaiword = final_arr[final_arr.index(i) - 1].thaiword
-            i.translit = final_arr[final_arr.index(i) - 1].translit
-    final_arr = set(final_arr)
-    final_arr = list(final_arr)
-    final_arr.sort()
-    writedict(final_arr)
-    return final_arr
+    arr = readdict()
+    arr.extend(yaitron())
+    attr = codecs.open('attributes.txt', 'w', 'utf-8')
+    trash=[]
+    for i in arr:
+        for n in i:
+            if n not in trash:
+                attr.write(n)
+                attr.write('\r')
+                trash.append(n)
+    attr.close()
 
 
 main()
