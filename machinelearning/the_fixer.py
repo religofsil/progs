@@ -43,4 +43,4 @@ def createfile(filename):
             hash(i[2])) + ' 4:' + str(hash(i[3])) + ' 5:' + str(hash(i[4])) + '\n')
 
 
-reader('rawishcorp.txt')
+reader(raw_input('Please type the name of the file: '))
