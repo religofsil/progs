@@ -1,0 +1,2 @@
+username: new_words
+password: c0rp_uPg5MK2

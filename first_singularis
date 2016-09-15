@@ -1,0 +1,7 @@
+word=raw_input("type something please:")
+while word!="!":
+    letters=list(word)
+    if letters[-1:]=="o":
+        print ("1sg.praes.ind.act.")
+    else:
+        print ("not 1sg.praes.ind.act.")  

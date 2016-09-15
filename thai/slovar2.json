@@ -1,0 +1,39 @@
+{
+  "yTHAIWORD": {
+    "1": [
+      "TRANSLATION", 
+      [
+        "POS", 
+        "hfkhg", 
+        "vtyktk"
+      ], 
+      "TRANSLIT"
+    ]
+  }, 
+  "THAIWORD": {
+    "1": [
+      "TRANSLATION3", 
+      [
+        "POS3"
+      ], 
+      "TRANSLIT3"
+    ], 
+    "2": [
+      "TRANSLATION5", 
+      [
+        "POS3"
+      ], 
+      "TRANSLIT3"
+    ]
+  }, 
+  "THAIWORD2": {
+    "1": [
+      "TRANSLATION2", 
+      [
+        "POS2", 
+        "kyfk"
+      ], 
+      "TRANSLIT2"
+    ]
+  }
+}

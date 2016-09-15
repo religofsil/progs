@@ -1,0 +1,873 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="LF Aligner"
+    creationtoolversion="4.1"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="RU"
+    srclang="RU"
+    o-tmf="TW4Win 2.0 Format"
+  >
+  </header>
+  <body>
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Однажды весною, в час небывало жаркого заката, в Москве, на Патриарших прудах, появились два гражданина.</seg></tuv>
+<tuv xml:lang="EN"><seg>At the sunset hour of one warm spring day two men were to be seen at Patriarch&apos;s Ponds.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Первый из них, одетый в летнюю серенькую пару, был маленького роста, упитан, лыс, свою приличную шляпу пирожком нес в руке, а на хорошо выбритом лице его помещались сверхъестественных размеров очки в черной роговой оправе, второй - плечистый, рыжеватый, вихрастый молодой человек в заломленной на затылок клетчатой кепке - был в ковбойке, жеваных белых брюках и в черных тапочках.</seg></tuv>
+<tuv xml:lang="EN"><seg>The first of them-aged about forty, dressed in a greyish summer suit-was short, dark-haired, well-fed and bald. He carried his decorous pork-pie hat by the brim and his neatly shaven face was embellished by black hornrimmed spectacles of preternatural dimensions. The other, a broad-shouldered young man with curly reddish hair and a check cap pushed back to the nape of his neck, was wearing a tartan shirt, chewed white trousers and black sneakers.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Первый был не кто иной, как Михаил Александрович Берлиоз, председатель правления одной из крупнейших московских литературных ассоциаций, сокращенно именуемой Массолит, и редактор толстого художественного журнала, а молодой спутник его - поэт Иван Николаевич Понырев, пишущий под псевдонимом Бездомный.</seg></tuv>
+<tuv xml:lang="EN"><seg>The first was none other than Mikhail Alexandrovich Berlioz, editor of a highbrow literary magazine and chairman of the management cofnmittee of one of the biggest Moscow literary clubs, known by its abbreviation as massolit; his young companion was the poet Ivan Nikolayich Poniryov who wrote under the pseudonym of Bezdomny.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Попав в тень чуть зеленеющих лип, писатели первым долгом бросились к пестро раскрашенной будочке с надписью &quot;Пиво и Воды&quot;.</seg></tuv>
+<tuv xml:lang="EN"><seg>Reaching the shade of the budding lime trees, the two writers went straight to a gaily-painted kiosk labelled &apos;Beer and Minerals&apos;.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Да, следует отметить первую странность этого страшного майского вечера. Не только у будочки, но и во всей аллее, параллельной Малой Бронной улице, не оказалось ни одного человека.</seg></tuv>
+<tuv xml:lang="EN"><seg>There was an oddness about that terrible day in May which is worth recording : not only at the kiosk but along the whole avenue parallel to Malaya Bronnaya Street there was not a person to be seen.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>В тот час, когда уж, кажется, и сил не было дышать, когда солнце, раскалив Москву, в сухом тумане валилось куда-то за Садовое кольцо, - никто не пришел под липы, никто не сел на скамейку, пуста была аллея.</seg></tuv>
+<tuv xml:lang="EN"><seg>It was the hour of the day when people feel too exhausted to breathe, when Moscow glows in a dry haze as the sun disappears behind the Sadovaya Boulevard-yet no one had come out for a walk under the limes, no one was sitting on a bench, the avenue was empty.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Дайте нарзану, - попросил Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;A glass of lemonade, please,&apos;said Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Нарзану нету, - ответила женщина в будочке и почему-то обиделась.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;There isn&apos;t any,&apos;replied the woman in the kiosk. For some reason the request seemed to offend her.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Пиво есть? - Сиплым голосом осведомился Бездомный.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Got any beer?&apos; enquired Bezdomny in a hoarse voice.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Пиво привезут к вечеру, - ответила женщина.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Beer&apos;s being delivered later this evening&apos; said the woman.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-А что есть? - Спросил Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Well what have you got?&apos; asked Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Абрикосовая, только теплая, - сказала женщина.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Apricot juice, only it&apos;s warm&apos; was the answer.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Ну, давайте, давайте, давайте!..</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;All right, let&apos;s have some.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Абрикосовая дала обильную желтую пену, и в воздухе запахло парикмахерской.</seg></tuv>
+<tuv xml:lang="EN"><seg>The apricot juice produced a rich yellow froth, making the air smell like a hairdresser&apos;s.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Напившись, литераторы немедленно начали икать, расплатились и уселись на скамейке лицом к пруду и спиной к Бронной.</seg></tuv>
+<tuv xml:lang="EN"><seg>After drinking it the two writers immediately began to hiccup. They paid and sat down on a bench facing the pond, their backs to Bronnaya Street.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Тут приключилась вторая странность, касающаяся одного Берлиоза.</seg></tuv>
+<tuv xml:lang="EN"><seg>Then occurred the second oddness, which affected Berlioz alone.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Он внезапно перестал икать, сердце его стукнуло и на мгновенье куда-то провалилось, потом вернулось, но с тупой иглой, засевшей в нем.</seg></tuv>
+<tuv xml:lang="EN"><seg>He suddenly stopped hiccuping, his heart thumped and for a moment vanished, then returned but with a blunt needle sticking into it.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Кроме того, Берлиоза охватил необоснованный, но столь сильный страх, что ему захотелось тотчас же бежать с Патриарших без оглядки.</seg></tuv>
+<tuv xml:lang="EN"><seg>In addition Berlioz was seized by a fear that was groundless but so powerful that he had an immediate impulse to run away from Patriarch&apos;s Ponds without looking back.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Берлиоз тоскливо оглянулся, не понимая, что его напугало.</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz gazed miserably about him, unable to say what had frightened him.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Он побледнел, вытер лоб платком, подумал: &quot;Что это со мной?</seg></tuv>
+<tuv xml:lang="EN"><seg>He went pale, wiped his forehead with his handkerchief and thought: &apos; What&apos;s the matter with me?</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Этого никогда не было...</seg></tuv>
+<tuv xml:lang="EN"><seg>This has never happened before...</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Сердце шалит...</seg></tuv>
+<tuv xml:lang="EN"><seg>Heart playing tricks...</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Я переутомился.</seg></tuv>
+<tuv xml:lang="EN"><seg>I&apos;m overstrained ...</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Пожалуй, пора бросить все к черту и в Кисловодск...&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>I think it&apos;s time to chuck everything up and go and take the waters at Kislovodsk. .&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И тут знойный воздух сгустился перед ним, и соткался из этого воздуха прозрачный гражданин престранного вида.</seg></tuv>
+<tuv xml:lang="EN"><seg>Just then the sultry air coagulated and wove itself into the shape of a man-a transparent man of the strangest appearance.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>На маленькой головке жокейский картузик, клетчатый кургузый воздушный же пиджачок...</seg></tuv>
+<tuv xml:lang="EN"><seg>On his small head was a jockey-cap and he wore a short check bum-freezer made of air.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Гражданин ростом в сажень, но в плечах узок, худ неимоверно, и физиономия, прошу заметить, глумливая.</seg></tuv>
+<tuv xml:lang="EN"><seg>The man was seven feet tall but narrow in the shoulders, incredibly thin and with a face made for derision.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Жизнь Берлиоза складывалась так, что к необыкновенным явлениям он не привык.</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz&apos;s life was so arranged that he was not accustomed to seeing unusual phenomena.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Еше более побледнев, он вытаращил глаза и в смятении подумал: &quot;Этого не может быть!..&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>Paling even more, he stared and thought in consternation : &apos; It can&apos;t be!&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Но это, увы, было, и длинный, сквозь которого видно, гражданин, не касаясь земли, качался перед ним и влево и вправо.</seg></tuv>
+<tuv xml:lang="EN"><seg>But alas it was, and the tall, transparent gentleman was swaying from left to right in front of him without touching the ground.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Тут ужас до того овладел Берлиозом, что он закрыл глаза.</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz was so overcome with horror that he shut his eyes.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>А когда он их открыл, увидел, что все кончилось, марево растворилось, клетчатый исчез, а заодно и тупая игла выскочила из сердца.</seg></tuv>
+<tuv xml:lang="EN"><seg>When he opened them he saw that it was all over, the mirage had dissolved, the chequered figure had vanished and the blunt needle had simultaneously removed itself from his heart.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Фу ты черт! - Воскликнул редактор, - ты знаешь, Иван, у меня сейчас едва удар от жары не сделался!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;The devil! &apos; exclaimed the editor. &apos; D&apos;you know, Ivan, the heat nearly gave me a stroke just then!</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Даже что-то вроде галлюцинации было, - он попытался усмехнуться, но в глазах его еще прыгала тревога, и руки дрожали.</seg></tuv>
+<tuv xml:lang="EN"><seg>I even saw something like a hallucination . &apos; He tried to smile but his eyes were still blinking with fear and his hands trembled.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Однако постепенно он успокоился, обмахнулся платком и, произнеся довольно бодро: &quot;Ну-с, итак...&quot; - повел речь, прерванную питьем абрикосовой.</seg></tuv>
+<tuv xml:lang="EN"><seg>However he gradually calmed down, flapped his handkerchief and with a brave enough &apos; Well, now. &apos; carried on the conversation that had been interrupted by their drink of apricot juice.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Речь эта, как впоследствии узнали, шла об Иисусе Христе.</seg></tuv>
+<tuv xml:lang="EN"><seg>They had been talking, it seemed, about Jesus Christ.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Дело в том, что редактор заказал поэту для очередной книжки журнала большую антирелигиозную поэму.</seg></tuv>
+<tuv xml:lang="EN"><seg>The fact was that the editor had commissioned the poet to write a long anti-religious poem for one of the regular issues of his magazine.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Эту поэму Иван Николаевич сочинил, и в очень короткий срок, но, к сожалению, ею редактора нисколько не удовлетворил.</seg></tuv>
+<tuv xml:lang="EN"><seg>Ivan Nikolayich had written this poem in record time, but unfortunately the editor did not care for it at all.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Очертил Бездомный главное действующее лицо своей поэмы, то есть Иисуса, очень черными красками, и тем не менее всю поэму приходилось, по мнению редактора, писать заново.</seg></tuv>
+<tuv xml:lang="EN"><seg>Bezdomny had drawn the chief figure in his poem, Jesus, in very black colours, yet in the editor&apos;s opinion the whole poem had to be written again.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И вот теперь редактор читал поэту нечто вроде лекции об Иисусе, с тем чтобы подчеркнуть основную ошибку поэта.</seg></tuv>
+<tuv xml:lang="EN"><seg>And now he was reading Bezdomny a lecture on Jesus in order to stress the poet&apos;s fundamental error.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Трудно сказать, что именно подвело Ивана Николаевича - изобразительная ли сила его таланта или полное незнакомство с вопросом, по которому он собирался писать, - но Иисус в его изображении получился ну совершенно как живой, хотя и не привлекающий к себе персонаж.</seg></tuv>
+<tuv xml:lang="EN"><seg>It was hard to say exactly what had made Bezdomny write as he had-whether it was his great talent for graphic description or complete ignorance of the subject he was writing on, but his Jesus had come out, well, completely alive, a Jesus who had really existed, although admittedly a Jesus who had every possible fault.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Берлиоз же хотел доказать поэту, что главное не в том, каков был Иисус, плох ли, хорош ли, а в том, что Иисуса-то этого, как личности, вовсе не существовало на свете и что все рассказы о нем - простые выдумки, самый обыкновенный миф.</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz however wanted to prove to the poet that the main object was not who Jesus was, whether he was bad or good, but that as a person Jesus had never existed at all and that all the stories about him were mere invention, pure myth.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Надо заметить, что редактор был человеком начитанным и очень умело указывал в своей речи на древних историков, например, на знаменитого Филона Александрийского, на блестяще образованного Иосифа Флавия, никогда ни словом не упоминавших о существовании Иисуса.</seg></tuv>
+<tuv xml:lang="EN"><seg>The editor was a well-read man and able to make skilful reference to the ancient historians, such as the famous Philo of Alexandria and the brilliantly educated Josephus Flavius, neither of whom mentioned a word of Jesus&apos; existence.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Обнаруживая солидную эрудицию, Михаил Александрович сообщил поэту, между прочим, и о том, что то место в 15-й книге, в главе 44-й знаменитых тацитовых &quot;Анналов&quot;, где говорится о казни Иисуса, - есть не что иное, как позднейшая поддельная вставка.</seg></tuv>
+<tuv xml:lang="EN"><seg>With a display of solid erudition, Mikhail Alexandrovich informed the poet that incidentally, the passage in Chapter 44 of the fifteenth book of Tacitus&apos; Annals, where he describes the execution of Jesus, was nothing but a later forgery.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Поэт, для которого все, сообщаемое редактором, являлось новостью, внимательно слушал Михаила Александровича, уставив на него свои бойкие зеленые глаза, и лишь изредка икал, шепотом ругая абрикосовую воду.</seg></tuv>
+<tuv xml:lang="EN"><seg>The poet, for whom everything the editor was saying was a novelty, listened attentively to Mikhail Alexandrovich, fixing him with his bold green eyes, occasionally hiccuping and cursing the apricot juice under his breath.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Нет ни одной восточной религии, - говорил Берлиоз, - в которой, как правило непорочная дева не произвела бы на свет бога.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;There is not one oriental religion,&apos; said Berlioz, &apos; in which an immaculate virgin does not bring a god into the world.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И христиане, не выдумав ничего нового, точно так же создали своего Иисуса, которого на самом деле никогда не было в живых.</seg></tuv>
+<tuv xml:lang="EN"><seg>And the Christians, lacking any originality, invented their Jesus in exactly the same way. In fact he never lived at all.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Вот на это-то и нужно сделать главный упор...</seg></tuv>
+<tuv xml:lang="EN"><seg>That&apos;s where the stress has got to lie.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Высокий тенор Берлиоза разносился в пустынной аллее, и по мере того, как Михаил Александрович забирался в дебри, в которые может забираться, не рискуя свернуть себе шею, лишь очень образованный человек, - поэт узнавал все больше и больше интересного и полезного и про египетского озириса, благостного бога и сына неба и земли, и про финикийского бога фаммуза, и про мардука, и даже про менее известного грозного бога вицлипуцли, которого весьма почитали некогда ацтеки в Мексике.</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz&apos;s high tenor resounded along the empty avenue and as Mikhail Alexandrovich picked his way round the sort of historical pitfalls that can only be negotiated safely by a highly educated man, the poet learned more and more useful and instructive facts about the Egyptian god Osiris, son of Earth and Heaven, about the Phoenician god Thammuz, about Marduk and even about the fierce little-known god Vitzli-Putzli, who had once been held in great veneration by the Aztecs of Mexico.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Вот как раз в то время, когда Михаил Александрович рассказывал поэту о том, как ацтеки лепили из теста фигурку вицлипуцли, в аллее показался первый человек.</seg></tuv>
+<tuv xml:lang="EN"><seg>At the very moment when Mikhail Alexandrovich was telling the poet how the Aztecs used to model figurines of Vitzli-Putzli out of dough- the first man appeared in the avenue.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Впоследствии, когда, откровенно говоря, было уже поздно, разные учреждения представили свои сводки с описанием этого человека.</seg></tuv>
+<tuv xml:lang="EN"><seg>Afterwards, when it was frankly too late, various bodies collected their data and issued descriptions of this man.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Что касается зубов, то с левой стороны у него были платиновые коронки, а с правой - золотые.</seg></tuv>
+<tuv xml:lang="EN"><seg>As to his teeth, he haid platinum crowns on his left side and gold ones on his tight.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Он был в дорогом сером костюме, в заграничных, в цвет костюма, туфлях.</seg></tuv>
+<tuv xml:lang="EN"><seg>He wore an expensive grey suit and foreign shoes of the same colour as his suit.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Серый берет он лихо заломил на ухо, под мышкой нес трость с черным набалдашником в виде головы пуделя.</seg></tuv>
+<tuv xml:lang="EN"><seg>His grey beret was stuck jauntily over one ear and under his arm he carried a walking-stick with a knob in the shape of a poodle&apos;s head.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>По виду - лет сорока с лишним.</seg></tuv>
+<tuv xml:lang="EN"><seg>He looked slightly over forty.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Рот какой-то кривой.</seg></tuv>
+<tuv xml:lang="EN"><seg>Crooked sort of mouth.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Выбрит гладко.</seg></tuv>
+<tuv xml:lang="EN"><seg>Clean-shav-n.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Брюнет.</seg></tuv>
+<tuv xml:lang="EN"><seg>Dark hair.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Правый глаз черный, левый почему-то зеленый.</seg></tuv>
+<tuv xml:lang="EN"><seg>Right eye black, left ieye for some reason green.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Брови черные, но одна выше другой.</seg></tuv>
+<tuv xml:lang="EN"><seg>Eyebrows black, but one higher than the other.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Словом иностранец.</seg></tuv>
+<tuv xml:lang="EN"><seg>In short-a foreigner.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Пройдя мимо скамьи, на которой помещались редактор и поэт, иностранец покосился на них, остановился и вдруг уселся на соседней скамейке, в двух шагах от приятелей.</seg></tuv>
+<tuv xml:lang="EN"><seg>As he passed the bench occupied by the editor and the poet, the foreigner gave them a sidelong glance, stopped and suddenly sat down on the next bench a couple of paces away from the two friends.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Немец&quot;, - Подумал Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;A German,&apos;&apos; thought Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Англичанин, - подумал Бездомный, - ишь, и не жарко ему в перчатках&quot;.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; An Englishman...&apos; thought Bezdomny. &apos; Phew, he must be hot in those gloves!&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>А иностранец окинул взглядом высокие дома, квадратом окаймлявшие пруд, причем заметно стало, что видит это место он впервые и что оно его заинтересовало.</seg></tuv>
+<tuv xml:lang="EN"><seg>The stranger glanced round the tall houses that formed a square round the pond, from which it was obvious that he seeing this locality for the first time and that it interested him.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Он остановил свой взор на верхних этажах, ослепительно отражающих в стеклах изломанное и навсегда уходящее от Михаила Александровича солнце, затем перевел его вниз, где стекла начали предвечерне темнеть, чему-то снисходительно усмехнулся, прищурился, руки положил на набалдашник, а подбородок на руки.</seg></tuv>
+<tuv xml:lang="EN"><seg>His gaze halted on the upper storeys, whose panes threw back a blinding, fragmented reflection of the sun which was setting on Mikhail Alexandrovich for ever ; he then looked downwards to where the windows were turning darker in the early evening twilight, smiled patronisingly at something, frowned, placed his hands on the knob of his cane and laid his chin on his hands.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Ты, Иван, - говорил Берлиоз, - очень хорошо и сатирически изобразил, например, рождение иисуса, сына божия, но соль-то в том, что еще до иисуса родился еще ряд сынов божиих, как, скажем, фригийский аттис, коротко же говоря, ни один из них не рождался и никого не было, в том числе и иисуса, и необходимо, чтобы ты, вместо рождения и, скажем, прихода волхвов, описал нелепые слухи об этом рождении...</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;You see, Ivan,&apos; said Berlioz,&apos; you have written a marvellously satirical description of the birth of Jesus, the son of God, but the whole joke lies in the fact that there had already been a whole series of sons of God before Jesus, such as the Phoenician Adonis, the Phrygian Attis, the Persian Mithras. Of course not one of these ever existed, including Jesus, and instead of the nativity or the arrival of the Magi you should have described the absurd rumours about their arrival.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>А то выходит по твоему рассказу, что он действительно родился!..</seg></tuv>
+<tuv xml:lang="EN"><seg>But according to your story the nativity really took place! &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Тут Бездомный сделал попытку прекратить замучившую его икоту, задержав дыхание, отчего икнул мучительнее и громче, и в этот же момент Берлиоз прервал свою речь, потому что иностранец вдруг поднялся и направился к писателям.</seg></tuv>
+<tuv xml:lang="EN"><seg>Here Bezdomny made an effort to stop his torturing hiccups and held his breath, but it only made him hiccup more loudly and painfully. At that moment Berlioz interrupted his speech because the foreigner suddenly rose and approached the two writers.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Те поглядели на него удивленно.</seg></tuv>
+<tuv xml:lang="EN"><seg>They stared at him in astonishment.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Извините меня, пожалуйста, - заговорил подошедший с иностранным акцентом, но не коверкая слов, - что я, не будучи знаком, позволяю себе... Но предмет вашей ученой беседы настолько интересен, что...</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Excuse me, please,&apos; said the stranger with a foreign accent, although in correct Russian, &apos; for permitting myself, without an introduction...but the subject of your learned conversation was so interesting that...&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Тут он вежливо снял берет, и друзьям ничего не оставалось, как приподняться и раскланяться.</seg></tuv>
+<tuv xml:lang="EN"><seg>Here he politely took off his beret and the two friends had no alternative but to rise and bow.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Нет, скорее француз...&quot;- Подумал Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;No, probably a Frenchman...&apos; thought Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Поляк?..&quot;- Подумал Бездомный.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;A Pole,&apos; thought Bezdomny.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Необходимо добавить, что на поэта иностранец с первых же слов произвел отвратительное впечатление, а Берлиозу скорее понравился, то есть не то чтобы понравился, а... Как бы выразиться... Заинтересовал, что ли.</seg></tuv>
+<tuv xml:lang="EN"><seg>I should add that the poet had found the stranger repulsive from first sight, although Berlioz had liked the look of him, or rather not exactly liked him but, well...been interested by him.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Разрешите мне присесть?- Вежливо попросил иностранец, и приятели как-то невольно раздвинулись; иностранец ловко уселся между ними и тотчас вступил в разговор.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;May I join you? &apos; enquired the foreigner politely, and as the two friends moved somewhat unwillingly aside he adroitly placed himself &apos;between them and at once joined the conversation.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Если я не ослышался, вы изволили говорить, что Иисуса не было на свете?- Спросил иностранец, обращая к Берлиозу свой левый зеленый глаз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; If I am not mistaken, you were saying that Jesus never existed, were you not? &apos; he asked, turning his green left eye on Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Нет, вы не ослышались, - учтиво ответил Берлиоз, - именно это я и говорил.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;No, you were not mistaken,&apos; replied Berlioz courteously. &apos; I did indeed say that.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Ах, как интересно!- Воскликнул иностранец.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Ah, how interesting! &apos; exclaimed the foreigner.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;А какого черта ему надо?&quot;- Подумал Бездомный и нахмурился.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;What the hell does he want?&apos; thought Bezdomny and frowned.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-А вы соглашались с вашим собеседником?- Осведомился неизвестный, повернувшись вправо к Бездомному.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;And do you agree with your friend? &apos; enquired the unknown man, turning to Bezdomny on his right.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-На все сто!- Подтвердил тот, любя выражаться вычурно и фигурально.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;A hundred per cent! &apos; affirmed the poet, who loved to use pretentious numerical expressions.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Изумительно!- Воскликнул непрошеный собеседник и, почемуто воровски оглянувшись и приглушив свой низкий голос, сказал:простите мою навязчивость, но я так понял, что вы помимо всего прочего, еще и не верите в бога?- Он сделал испуганные глаза и прибавил:- клянусь, я никому не скажу.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Astounding! &apos; cried their unbidden companion. Glancing furtively round and lowering his voice he said : &apos; Forgive me for being so rude, but am I right in thinking that you do not believe in God either? &apos; He gave a horrified look and said: &apos; I swear not to tell anyone! &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Да, мы не верим в бога, - чуть улыбнувшись испугу интуриста, ответил Берлиоз.- Но об этом можно говорить совершенно свободно.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Yes, neither of us believes in God,&apos; answered Berlioz with a faint smile at this foreign tourist&apos;s apprehension. &apos; But we can talk about it with absolute freedom.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Иностранец откинулся на спинку скамейки и спросил, даже привизгнув от любопытства: - вы атеисты?!</seg></tuv>
+<tuv xml:lang="EN"><seg>The foreigner leaned against the backrest of the bench and asked, in a voice positively squeaking with curiosity : &apos;Are you ...atheists? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Да, мы атеисты, - улыбаясь, ответил Берлиоз, а Бездомный подумал, рассердившись: &quot;вот прицепился, заграничный гусь!&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Yes, we&apos;re atheists,&apos; replied Berlioz, smiling, and Bezdomny thought angrily : &apos; Trying to pick an argument, damn foreigner! &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Ох, какая прелесть!- Вскричал удивительный иностранец и завертел головой, глядя то на одного, то на другого литератора.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Oh, how delightful!&apos; exclaimed the astonishing foreigner and swivelled his head from side to side, staring at each of them in turn.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>В нашей стране атеизм никого не удивляет, - дипломатически вежливо сказал Берлиоз, - большинство нашего населения сознательно и давно перестало верить сказкам о боге.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;In our country there&apos;s nothing surprising about atheism,&apos; said Berlioz with diplomatic politeness. &apos; Most of us have long ago and quite consciously given up believing in all those fairy-tales about God.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Тут иностранец отколол такую штуку: встал и пожал изумленному редактору руку, произнеся при этом слова: - позвольте вас поблагодарить от всей души!</seg></tuv>
+<tuv xml:lang="EN"><seg>At this the foreigner did an extraordinary thing-he stood up and shook the astonished editor by the hand, saying as he did so : &apos;Allow me to thank you with all my heart!&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- За что это вы его благодарите?- Заморгав, осведомился Бездомный.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;What are you thanking him for? &apos; asked Bezdomny, blinking.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>За очень важное сведение, которое мне, как путешественнику, чрезвычайно интересно, - многозначительно подняв палец, пояснил заграничный чудак.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;For some very valuable information, which as a traveller I find extremely interesting,&apos; said the eccentric foreigner, raising his forefinger meaningfully.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Важное сведение, по-видимому, действительно произвело на путешественника сильное впечатление, потому что он испуганно обвел глазами дома, как бы опасаясь в каждом окне увидеть по атеисту.</seg></tuv>
+<tuv xml:lang="EN"><seg>This valuable piece of information had obviously made a powerful impression on the traveller, as he gave a frightened glance at the houses as though afraid of seeing an atheist at every window.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Нет, он не англичанин...&quot;- Подумал Берлиоз, а Бездомный подумал: &quot;где это он так наловчился говорить по-русски, вот что интересно!&quot;- И опять нахмурился.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;No, he&apos;s not an Englishman,&apos; thought Berlioz. Bezdomny thought: &apos; What I&apos;d like to know is-where did he manage to pick up such good Russian? &apos; and frowned again.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Но, позвольте вас спросить, - после тревожного раздумья спросил заграничный гость, - как же быть с доказательствами бытия божия, коих, как известно, существует ровно пять?</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;But might I enquire,&apos; began the visitor from abroad after some worried reflection, &apos; how you account for the proofs of the existence of God, of which there are, as you know, five? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Увы!- С сожалением ответил Берлиоз, - ни одно из этих доказательств ничего не стоит, и человечество сдало их в архив.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Alas! &apos; replied Berlioz regretfully. &apos; Not one of these proofs is valid, and mankind has long since relegated them to the archives.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Ведь согласитесь, что в области разума никакого доказательства существования бога быть не может.</seg></tuv>
+<tuv xml:lang="EN"><seg>You must agree that rationally there can be no proof of the existence of God.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Браво!- Вскричал иностранец, - браво!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Bravo!&apos; exclaimed the stranger. &apos; Bravo!</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Вы полностью повторили мысль беспокойного старика иммануила по этому поводу.</seg></tuv>
+<tuv xml:lang="EN"><seg>You have exactly repeated the views of the immortal Emmanuel on that subject.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Но вот курьез: он начисто разрушил все пять доказательств, а затем, как бы в насмешку над самим собою, соорудил собственное шестое доказательство!</seg></tuv>
+<tuv xml:lang="EN"><seg>But here&apos;s the oddity of it: he completely demolished all five proofs and then, as though to deride his own efforts, he formulated a sixth proof of his own.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Доказательство Канта, - тонко улыбнувшись, возразил образованный редактор, - также неубедительно.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Kant&apos;s proof,&apos; objected the learned editor with a thin smile, &apos; is also unconvincing.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И недаром Шиллер говорил, что кантовские рассуждения по этому вопросу могут удовлетворить только рабов, а Штраус просто смеялся над этим доказательством.</seg></tuv>
+<tuv xml:lang="EN"><seg>Not for nothing did Schiller say that Kant&apos;s reasoning on this question would only satisfy slaves, and Strauss simply laughed at his proof.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Берлиоз говорил, а сам в это время думал:&quot;но, все таки, кто же он такой? И почему так хорошо говорит по-русски?&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>As Berlioz spoke he thought to himself: &apos; But who on earth is he? And how does he speak such good Russian? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Взять бы этого Канта, да за такие доказательства года на три в Соловки!- Совершенно неожиданно бухнул Иван николаевич.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Kant ought to be arrested and given three years in Solovki asylum for that &quot; proof &quot; of his! &apos; Ivan Nikolayich burst out completely unexpectedly.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Иван!- Сконфузившись, шепнул Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Ivan!&apos; whispered Berlioz, embarrassed.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Но предложение отправить канта в соловки не только не поразило иностранца, но даже привело в восторг.</seg></tuv>
+<tuv xml:lang="EN"><seg>But the suggestion to pack Kant off to an asylum not only did not surprise the stranger but actually delighted him.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Именно, именно, - закричал он, и левый зеленый глаз его, обращенный к Берлиозу, засверкал, - ему там самое место!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; Exactly, exactly! &apos; he cried and his green left eye, turned on Berlioz glittered. &apos; That&apos;s exactly the place for him!</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Ведь говорил я ему тогда за завтраком: &quot;вы, профессор, воля ваша, что-то нескладное придумали!</seg></tuv>
+<tuv xml:lang="EN"><seg>I said to him myself that morning at breakfast: &quot; If you&apos;ll forgive me, professor, your theory is no good.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Оно, может, и умно, но больно непонятно.</seg></tuv>
+<tuv xml:lang="EN"><seg>It may be clever but it&apos;s horribly incomprehensible.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Над вами потешаться будут&quot;.</seg></tuv>
+<tuv xml:lang="EN"><seg>People will think you&apos;re mad.&quot; &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Берлиоз выпучил глаза.</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz&apos;s eyes bulged.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;За завтраком... Канту?..</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; At breakfast ...to Kant?</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Что это он плетет?&quot;- Подумал он.</seg></tuv>
+<tuv xml:lang="EN"><seg>What is he rambling about? &apos; he thought.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Но, - продолжал иноземец, не смущаясь изумлением Берлиоза и обращаясь к поэту, - отправить его в Соловки невозможно по той причине, что он уже с лишком сто лет пребывает в местах значительно более отдаленных, чем Соловки, и извлечь его оттуда никоим образом нельзя, уверяю вас!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;But,&apos; went on the foreigner, unperturbed by Berlioz&apos;s amazement and turning to the poet, &apos; sending him to Solovki is out of the question, because for over a hundred years now he has been somewhere far away from Solovki and I assure you that it is totally impossible to bring him back.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- А жаль!- Отозвался задира-поэт.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;What a pity!&apos; said the impetuous poet.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- И мне жаль!- Подтвердил неизвестный, сверкая глазом, и продолжал:- но вот какой вопрос меня беспокоит: ежели бога нет, то, спрашивается, кто же управляет жизнью человеческой и всем вообще распорядком на земле?</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;It is a pity,&apos; agreed the unknown man with a glint in his eye, and went on: &apos; But this is the question that disturbs me-if there is no God, then who, one wonders, rules the life of man and keeps the world in order? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Сам человек и управляет, - поспешил сердито ответить бездомный на этот, признаться, не очень ясный вопрос.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Man rules himself,&apos; said Bezdomny angrily in answer to such an obviously absurd question.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Виноват, - мягко отозвался неизвестный, - для того, чтобы управлять, нужно, как-никак, иметь точный план на некоторый, хоть сколько-нибудь приличный срок.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I beg your pardon,&apos; retorted the stranger quietly,&apos; but to rule one must have a precise plan worked out for some reasonable period ahead.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Позвольте же вас спросить, как же может управлять человек, если он не только лишен возможности составить какой-нибудь план хотя бы на смехотворно короткий срок, ну, лет, скажем, в тысячу, но не может ручаться даже за свой собственный завтрашний день?</seg></tuv>
+<tuv xml:lang="EN"><seg>Allow me to enquire how man can control his own affairs when he is not only incapable of compiling a plan for some laughably short term, such as, say, a thousand years, but cannot even predict what will happen to him tomorrow? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И, в самом деле, - тут неизвестный повернулся к Берлиозу, - вообразите, что вы, например, начнете управлять, распоряжаться и другими и собою, вообще, так сказать, входить во вкус, и вдруг у вас... Кхе... Кхе... Саркома легкого...- Тут иностранец сладко усмехнулся , как будто мысль о саркоме легкого доставила ему удовольствие, да, саркома, - жмурясь, как кот, повторил он звучное слово, - и вот ваше управление закончилось!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;In fact,&apos; here the stranger turned to Berlioz, &apos; imagine what would happen if you, for instance, were to start organising others and yourself, and you developed a taste for it-then suddenly you got...he, he ...a slight heart attack ... &apos; at this the foreigner smiled sweetly, as though the thought of a heart attack gave him pleasure. &apos; Yes, a heart attack,&apos; he repeated the word sonorously, grinning like a cat, &apos; and that&apos;s the end of you as an organiser!</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Ничья судьба кроме своей собственной, вас более не интересует.</seg></tuv>
+<tuv xml:lang="EN"><seg>No one&apos;s fate except your own interests you any longer.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Родные вам начинают лгать, вы, чуя неладное, бросаетесь к ученым врачам, затем к шарлатанам, а бывает, и к гадалкам.</seg></tuv>
+<tuv xml:lang="EN"><seg>Your relations start lying to you. Sensing that something is amiss you rush to a specialist, then to a charlatan, and even perhaps to a fortune-teller.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Как первое и второе, так и третье - совершенно бессмысленно, вы сами понимаете.</seg></tuv>
+<tuv xml:lang="EN"><seg>Each of them is as useless as the other, as you know perfectly well.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И все это кончается трагически: тот, кто еще недавно полагал, что он чемто управляет, оказывается вдруг лежащим неподвижно в деревянном ящике, и окружающие, понимая, что толку от лежащего нет более никакого, сжигают его в печи.</seg></tuv>
+<tuv xml:lang="EN"><seg>And it all ends in tragedy: the man who thought he was in charge is suddenly reduced to lying prone and motionless in a wooden box and his fellow men, realising that there is no more sense to be had of him, incinerate him.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>А бывает и еще хуже: только что человек соберется съездить в кисловодск, - тут иностранец прищурился на Берлиоза, - пустяковое, казалось бы, дело, но и этого совершить не может, потому что неизвестно почему вдруг возьмет - поскользнется и попадет под трамвай!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Sometimes it can be even worse : a man decides to go to Kislovodsk,&apos;-here the stranger stared at Berlioz-&apos; a trivial matter you may think, but he cannot because for no good reason he suddenly jumps up and falls under a tram!</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Неужели вы скажете, что это он сам собою управил так?</seg></tuv>
+<tuv xml:lang="EN"><seg>You&apos;re not going to tell me that he arranged to do that himself?</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Не правильнее ли думать, что управился с ним кто-то совсем другой?- И здесь незнакомец рассмеялся странным смешком.</seg></tuv>
+<tuv xml:lang="EN"><seg>Wouldn&apos;t it be nearer the truth to say that someone quite different was directing his fate?&apos; The stranger gave an eerie peal of laughter.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Берлиоз с великим вниманием слушал неприятный рассказ про саркому и трамвай, и какие-то тревожные мысли начали мучать его.</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz had been following the unpleasant story about the heart attack and the tram with great attention and some uncomfortable thoughts had begun to worry him.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Он не иностранец! Он не иностранец!- Думал он, - он престранный субъект... Но позвольте, кто же он такой?&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; He&apos;s not a foreigner ...he&apos;s not a foreigner,&apos; he thought, &apos; he&apos;s a very peculiar character...but I ask you, who is he? ...&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Вы хотите курить, как я вижу?- Неожиданно обратился к Бездомному неизвестный, - вы какие предпочитаете?</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I see you&apos;d like to smoke,&apos; said the stranger unexpectedly, turning to Bezdomny, &apos; what sort do you prefer? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- А у вас разные, что ли есть?- Мрачно спросил поэт, у которого папиросы кончились.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Do you mean you&apos;ve got different sorts? &apos; glumly asked the poet, who had run out of cigarettes.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Какие предпочитаете?- Повторил неизвестный.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Which do you prefer? &apos; repeated the mysterious stranger.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Ну, &quot;Нашу марку&quot;, - Злобно ответил Бездомный.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Well, then &quot; Our Brand &quot;,&apos; replied Bezdomny, irritated.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Незнакомец немедленно вытащил из кармана портсигар и предложил его Бездомному: - &quot;Наша марка&quot;.</seg></tuv>
+<tuv xml:lang="EN"><seg>The unknown man immediately pulled a cigarette case out of his pocket and offered it to Bezdomny. &quot; Our Brand &quot; .</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И редактора и поэта не столько поразило то, что нашлась в портсигаре именно &quot;Наша марка&quot;, сколько сам портсигар.</seg></tuv>
+<tuv xml:lang="EN"><seg>The editor and the poet were not so much surprised by the fact that the cigarette case actually contained &apos;Our Brand&apos; as by the cigarette case itself.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Он был громадных размеров, червонного золота, и на крышке его при открывании сверкнул синим и белым огнем бриллиантовый треугольник.</seg></tuv>
+<tuv xml:lang="EN"><seg>It was of enormous dimensions, made of solid gold and on the inside of the cover a triangle of diamonds flashed with blue and white fire.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Тут литераторы подумали разно.</seg></tuv>
+<tuv xml:lang="EN"><seg>Their reactions were different.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Берлиоз: &quot;нет, иностранец!&quot;, А Бездомный: &quot;вот черт его возьми! А?&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>Berlioz thought: &apos; No, he&apos;s a foreigner.&apos; Bezdomny thought: &apos; What the hell is he ...?&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Поэт и владелец портсигара закурили, а некурящий Берлиоз отказался.</seg></tuv>
+<tuv xml:lang="EN"><seg>The poet and the owner of the case lit their cigarettes and Berlioz, who did not smoke, refused.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Надо будет ему возразить так, - решил Берлиоз, - да, человек смертен, никто против этого и не спорит.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I shall refute his argument by saying&apos; Berlioz decided to himself, &apos; that of course man is mortal, no one will argue with that.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>А дело в том, что...&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>But the fact is that ...&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Однако он не успел выговорить этих слов, как заговорил иностранец: - да, человек смертен, но это было бы еще полбеды.</seg></tuv>
+<tuv xml:lang="EN"><seg>However he was not able to pronounce the words before the stranger spoke: &apos;Of course man is mortal, but that&apos;s only half the problem.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Плохо то, что он иногда внезапно смертен, вот в чем фокус!</seg></tuv>
+<tuv xml:lang="EN"><seg>The trouble is that mortality sometimes comes to him so suddenly!</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И вообще не может сказать, что он будет делать в сегодняшний вечер.</seg></tuv>
+<tuv xml:lang="EN"><seg>And he cannot even say what he will be doing this evening.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Какая-то нелепая постановка вопроса...&quot;- Помыслил Берлиоз и возразил: - ну, здесь уж есть преувеличение.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;What a stupid way of putting the question.&apos; thought Berlioz and objected : &apos;Now there you exaggerate.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Сегодняшний вечер мне известен более или менее точно.</seg></tuv>
+<tuv xml:lang="EN"><seg>I know more or less exactly what I&apos;m going to be doing this evening.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Само собой разумеется, что, если на бронной мне свалится на голову кирпич...</seg></tuv>
+<tuv xml:lang="EN"><seg>Provided of course that a brick doesn&apos;t fall on my head in the street...&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Кирпич ни с того ни с сего, - внушительно перебил неизвестный, - никому и никогда на голову не свалится.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;A brick is neither here nor there,&apos; the stranger interrupted persuasively. &apos; A brick never falls on anyone&apos;s head.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>В частности же, уверяю вас, вам он ни в коем случае не угрожает.</seg></tuv>
+<tuv xml:lang="EN"><seg>You in particular, I assure you, are in no danger from that.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Вы умрете другой смертью.</seg></tuv>
+<tuv xml:lang="EN"><seg>Your death will be different.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Может быть, вы знаете, какой именно?- С совершенно естественной иронией осведомился Берлиоз, вовлекаясь в какой-то действительно нелепый разговор, - и скажете мне? -</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Perhaps you know exactly how I am going to die? &apos; enquired Berlioz with understandable sarcasm at the ridiculous turn that the conversation seemed to be taking. &apos;Would you like to tell me?&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Охотно, - отозвался незнакомец.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Certainly,&apos; rejoined the stranger.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Он смерил Берлиоза взглядом, как будто собирался сшить ему костюм, сквозь зубы пробормотал что-то вроде:&quot;раз, два... Меркурий во втором доме... Луна ушла... Шесть- несчастье... Вечер - семь...&quot;- И громко и радостно об]явил:- вам отрежут голову!</seg></tuv>
+<tuv xml:lang="EN"><seg>He looked Berlioz up and down as though he were measuring him for a suit and muttered through his teeth something that sounded like : &apos; One, two... Mercury in the second house ... the moon waning ... six- accident... evening-seven ...&apos; then announced loudly and cheerfully : &apos; Your &apos;head will be cut off!&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Бездомный дико и злобно вытаращил глаза на развязного неизвестного, а Берлиоз спросил, криво усмехнувшись: - а кто именно?</seg></tuv>
+<tuv xml:lang="EN"><seg>Bezdomny turned to the stranger with a wild, furious stare and Berlioz asked with a sardonic grin : &apos;By whom?</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Враги?</seg></tuv>
+<tuv xml:lang="EN"><seg>Enemies?</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Интервенты?</seg></tuv>
+<tuv xml:lang="EN"><seg>Foreign spies? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Нет, - ответил собеседник, - русская женщина, комсомолка.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;No,&apos; replied their companion, &apos; by a Russian woman, a member of the Komsomol.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Гм...- Промычал раздраженный шуточкой неизвестного берлиоз, - ну, это, извините, маловероятно.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Hm,&apos; grunted Berlioz, upset by the foreigner&apos;s little joke. &apos; That, if you don&apos;t mind my saying so, is most improbable.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Прошу и меня извинить, - ответил иностранец, - но это так.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I beg your pardon,&apos; replied the foreigner, &apos; but it is so.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Да, мне хотелось бы спросить вас, что вы будете делать сегодня вечером, если это не секрет?</seg></tuv>
+<tuv xml:lang="EN"><seg>Oh yes, I was going to ask you-what are you doing this evening, if it&apos;s not a secret? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Секрета нет.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;It&apos;s no secret.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Сейчас я зайду к себе на Cадовую, а потом в десять часов вечера в массолите состоится заседание, и я буду на нем председатальствовать.</seg></tuv>
+<tuv xml:lang="EN"><seg>From here I&apos;m going home, and then at ten o&apos;clock this evening there&apos;s a meeting at the massolit and I shall be in the chair.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Нет, этого быть никак не может, - твердо возразил иностранец.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;No, that is absolutely impossible,&apos; said the stranger firmly.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Это почему?</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Why?&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Потому, - ответил иностранец и прищуреными глазами поглядел в небо, где, предчувствуя вечернюю прохладу, бесшумно чертили черные птицы, - что Аннушка уже купила подсолнечное масло, и не только купила, но даже разлила.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Because,&apos; replied the foreigner and frowned up at the sky where, sensing the oncoming cool of the evening, the birds were flying to roost, &apos; Anna has already bought the sunflower-seed oil, in fact she has not only bought it, but has already spilled it.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Так что заседание не состоится.</seg></tuv>
+<tuv xml:lang="EN"><seg>So that meeting will not take place.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Тут, как вполне понятно, под липами наступило молчание.</seg></tuv>
+<tuv xml:lang="EN"><seg>With this, as one might imagine, there was silence beneath the lime trees.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Простите, - после паузы заговорил Берлиоз, поглядывая на мелющего чепуху иностранца, - при чем здесь подсолнечное масло... И какая аннушка?</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Excuse me,&apos; said Berlioz after a pause with a glance at the stranger&apos;s jaunty beret, &apos; but what on earth has sunflower-seed oil got to do with it...and who is Anna? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Подсолнечное масло здесь вот при чем, - вдруг заговорил Бездомный, очевидно, решив объявить незванному собеседнику войну, - вам не приходилось, гражданин, бывать когда-нибудь в лечебнице для душевнобольных?</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I&apos;ll tell you what sunflower-seed oil&apos;s got to do with it,&apos; said Bezdomny suddenly, having obviously decided to declare war on their uninvited companion. &apos; Have you, citizen, ever had to spend any time in a mental hospital? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Иван!..- Тихо воскликнул Михаил Александрович.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Ivan! &apos; hissed Mikhail Alexandrovich.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Но иностранец ничуть не обиделся и превесело рассмеялся.</seg></tuv>
+<tuv xml:lang="EN"><seg>But the stranger was not in the least offended and gave a cheerful laugh.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Бывал, бывал и не раз!- Вскричал он, смеясь, но не сводя несмеющегося глаза с поэта, - где я только не бывал!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; Yes, I have, I have, and more than once! &apos; he exclaimed laughing, though the stare that he gave the poet was mirthless.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Жаль только, что я не удосужился спросить у профессора, что такое шизофрения.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; Where haven&apos;t I been! My only regret is that I didn&apos;t stay long enough to ask the professor what schizophrenia was.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Так что вы уж сами узнайте это у него, Иван николаевич!</seg></tuv>
+<tuv xml:lang="EN"><seg>But you are going to find that out from him yourself, Ivan Nikolayich!&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Откуда вы знаете, как меня зовут? - Помилуйте, Иван николаевич, кто же вас не знает?-</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;How do you know my name? &apos; &apos;My dear fellow, who doesn&apos;t know you? &apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Здесь иностранец вытащил из кармана вчерашний номер &quot;Литературной газеты&quot;, И Иван николаевич увидел на первой же странице свое изображение, а под ним свои собственные стихи.</seg></tuv>
+<tuv xml:lang="EN"><seg>With this the foreigner pulled the previous day&apos;s issue of The Literary Gazette out of his pocket and Ivan Nikolayich saw his own picture on the front page above some of his own verse.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Но вчера еще радовавшее доказательство славы и популярности на этот раз ничуть не обрадовало поэта.</seg></tuv>
+<tuv xml:lang="EN"><seg>Suddenly what had delighted him yesterday as proof of his fame and popularity no longer gave the poet any pleasure at all.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Я извиняюсь, - сказал он, и лицо его потемнело, - вы не можете подождать минутку?</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I beg your pardon,&apos; he said, his face darkening. &apos; Would you excuse us for a minute?</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Я хочу товарищу пару слов сказать.</seg></tuv>
+<tuv xml:lang="EN"><seg>I should like a word or two with my friend.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>О, с удовольствием!- Воскликнул неизвестный, - здесь так хорошо под липами, а я, кстати, никуда и не спешу.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Oh, with pleasure! &apos; exclaimed the stranger. &apos; It&apos;s so delightful sitting here under the trees and I&apos;m not in a hurry to go anywhere, as it happens.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Вот что, Миша, - зашептал поэт, оттащив Берлиоза в сторону, - он никакой не интурист, а шпион.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Look here, Misha,&apos; whispered the poet when he had drawn Berlioz aside. &apos; He&apos;s not just a foreign tourist, he&apos;s a spy.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Это русский эмигрант, перебравшийся к нам.</seg></tuv>
+<tuv xml:lang="EN"><seg>He&apos;s a Russian emigre and he&apos;s trying to catch us out.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Спрашивай у него документы, а то уйдет...</seg></tuv>
+<tuv xml:lang="EN"><seg>Ask him for his papers and then he&apos;ll go away ...&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Ты думаешь?- Встревоженно шепнул Берлиоз, а сам подумал: &quot;а ведь он прав!&quot;</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Do you think we should? &apos; whispered Berlioz anxiously, thinking to himself-&apos; He&apos;s right, of course ...&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Уж ты мне верь, - засипел ему в ухо поэт, - он дурачком прикидывается, чтобы выспросить кое-что.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Mark my words,&apos; the poet whispered to him. &apos; He&apos;s pretending to be an idiot so that he can trap us with some compromising question.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Ты слышишь, как он по-русски говорит, - поэт говорил и косился, следя, чтобы неизвестный не удрал, - идем, задержим его, а то уйдет...</seg></tuv>
+<tuv xml:lang="EN"><seg>You can hear how he speaks Russian,&apos; said the poet, glancing sideways and watching to see that the stranger was not eavesdropping. &apos; Come on, let&apos;s arrest him and then we&apos;ll get rid of him.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>И поэт за руку потянул Берлиоза к скамейке.</seg></tuv>
+<tuv xml:lang="EN"><seg>The poet led Berlioz by the arm back to the bench.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Незнакомец не сидел, а стоял возле нее, держа в руках какую-то книжечку в темно-сером переплете, плотный конверт хорошей бумаги и визитную карточку.</seg></tuv>
+<tuv xml:lang="EN"><seg>The unknown man was no longer sitting on it but standing beside it, holding a booklet in a dark grey binding, a fat envelope made of good paper and a visiting card.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>- Извините меня, что я в пылу нашего спора забыл представить себя вам.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Forgive me, but in the heat of our argument I forgot to introduce myself.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Вот моя карточка, паспорт и приглашение приехать в Москву для консультации, - веско проговорил неизвестный, проницательно глядя на обоих литераторов.</seg></tuv>
+<tuv xml:lang="EN"><seg>Here is my card, my passport and a letter inviting me to come to Moscow for consultations,&apos; said the stranger gravely, giving both writers a piercing stare.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Те сконфузились.</seg></tuv>
+<tuv xml:lang="EN"><seg>The two men were embarrassed.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;Черт, все слышал&quot;- Подумал Берлиоз и вежливым жестом показал, что в предъявлении документов нет надобности.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; Hell, he overheard us ...&apos; thought Berlioz, indicating with a polite gesture that there was no need for this show of documents.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Пока иностранец совал их редактору, поэт успел разглядеть на карточке напечатанное иностранными буквами слово &quot;Профессор&quot; и начальную букву фамилии- двойное &quot;В&quot;.</seg></tuv>
+<tuv xml:lang="EN"><seg>Whilst the stranger was offering them to the editor, the poet managed to catch sight of the visiting card. On it in foreign lettering was the word &apos; Professor &apos; and the initial letter of a surname which began with a&apos;W&apos;.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Очень приятно, - тем временем смущенно бормотал редактор, и иностранец спрятал документы в карман.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Delighted,&apos; muttered the editor awkwardly as the foreigner put his papers back into his pocket.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>Отношения таким образом были восстановлены, и все трое снова сели на скамью.</seg></tuv>
+<tuv xml:lang="EN"><seg>Good relations having been re-established, all three sat down again on the bench.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Вы в качестве консультанта приглашены к нам, профессор?Спросил Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;So you&apos;ve been invited here as a consultant, have you, professor? &apos; asked Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Да, консультантом.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Yes, I have.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Вы- немец?- Осведомился Бездомный.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Are you German? &apos; enquired Bezdomny.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Я-то?..- Переспросил профессор и вдруг задумался.- Да, пожалуй, немец...- Сказал он.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I? &apos; rejoined the professor and thought for a moment. &apos; Yes, I suppose I am German...&apos; he said.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Вы по русски здорово говорите, - заметил Бездомный.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;You speak excellent Russian,&apos; remarked Bezdomny.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-О, я вообще полиглот и знаю очень большое количество языков, - ответил профессор.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Oh, I&apos;m something of a polyglot. I know a great number of languages,&apos; replied the professor.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-А у вас какая специальность?- Осведомился Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;And what is your particular field of work? &apos; asked Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Я - специалист по черной магии.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;I specialise in black magic.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>&quot;На тебе!&quot;- Стукнуло в голове у Михаила Александровича.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Like hell you do! ...&apos; thought Mikhail Alexandrovich.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-И... И вас по этой специальности пригласили к нам?- Заикнувшись спросил он.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;And ...and you&apos;ve been invited here to give advice on that? &apos; he asked with a gulp.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Да, по этой пригласили, - подтвердил профессор и пояснил:- тут в государственной библиотеке обнаружены подлинные рукописи чернокнижника герберта аврилакского, десятого века, так вот требуется, чтобы я их разобрал.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Yes,&apos; the professor assured him, and went on : &apos; Apparently your National Library has unearthed some original manuscripts of the ninth-century necromancer Herbert Aurilachs. I have been asked to decipher them.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-Я единственный в мире специалист.</seg></tuv>
+<tuv xml:lang="EN"><seg>I am the only specialist in the world.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note">Master_RU-Master_EN</prop>
+<tuv xml:lang="RU"><seg>-А-а!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Aha!</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note"></prop>
+<tuv xml:lang="RU"><seg>-Вы историк?- С большим облегчением и уважением спросил Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>So you&apos;re a historian? &apos; asked Berlioz in a tone of considerable relief and respect.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note"></prop>
+<tuv xml:lang="RU"><seg>-Я - историк, - подтвердил ученый и добавил ни к селу ни к городу:- сегодня вечером на Патриарших прудах будет интересная история!</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos; Yes, I am a historian,&apos; adding with apparently complete inconsequence, &apos; this evening a historic event is going to take place here at Patriarch&apos;s Ponds.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note"></prop>
+<tuv xml:lang="RU"><seg>И опять крайне удивились и редактор и поэт, а профессор поманил обоих к себе и, когда они наклонились к нему, прошептал: - Имейте в виду, что Иисус существовал.</seg></tuv>
+<tuv xml:lang="EN"><seg>Again the editor and the poet showed signs of utter amazement, but the professor beckoned to them and when both had bent their heads towards him he whispered : &apos;Jesus did exist, you know.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note"></prop>
+<tuv xml:lang="RU"><seg>-Видите ли, профессор, - принужденно улыбнувшись, отозвался Берлиоз, - мы уважаем ваши большие знания, но сами по этому вопросу придерживаемся другой точки зрения.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;Look, professor,&apos; said Berlioz, with a forced smile, &apos; With all respect to you as a scholar we take a different attitude on that point.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note"></prop>
+<tuv xml:lang="RU"><seg>-А не надо никаких точек зрения!- Ответил странный профессор, - просто он существовал и больше ничего.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;It&apos;s not a question of having an attitude,&apos; replied the strange professor. &apos;He existed, that&apos;s all there is to it.&apos;</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note"></prop>
+<tuv xml:lang="RU"><seg>-Но требуется же какое-нибудь доказательство...- Начал Берлиоз.</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;But one must have some proof....&apos; began Berlioz.</seg></tuv> </tu>
+
+<tu creationdate="20150317T180958Z" creationid="LF Aligner 4.1"><prop type="Txt::Note"></prop>
+<tuv xml:lang="RU"><seg>-И доказательств никаких не требуется, - ответил профессор и заговорил негромко, причем его акцент почему-то пропал:- все просто: в белом плаще...</seg></tuv>
+<tuv xml:lang="EN"><seg>&apos;There&apos;s no need for any proof,&apos; answered the professor. In a low voice, his foreign accent vanishing altogether, he began : &apos;It&apos;s very simple-early in the morning on the fourteenth of the spring month of Nisan the Procurator of Judaea, Pontius Pilate, in a white cloak lined with blood-red...</seg></tuv> </tu>
+
+
+</body>
+</tmx>

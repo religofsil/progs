@@ -1,0 +1,1444 @@
+
+	<html>
+	<head>
+		<meta content="text/html; charset=windows-1251" http-equiv="Content-type">
+
+		
+		
+		<style><!--
+body,text,font,p,a,td,select,input,textarea {font-size:11px;font-family:Verdana,Tahoma,Arial;text-decoration:none;}
+.txt {width:100%;letter-spacing:0px;border-width:1px;border-style:inset;}
+.btn {width:100px;letter-spacing:0px;border-width:1px;border-style:outset;}
+
+.th  {color:#FFFFFF;background-color:#336699;font-weight:bold;left-padding:4px;}
+.thi  {color:#000000;background-color:#C0E0FF;padding:0px;}
+.td  {color:#003366;background-color:#AACCEE;left-padding:4px;}
+.tdi  {color:#003366;background-color:#AACCEE;padding:0px;}
+
+.err {color:#CC3333;padding:0px;}
+
+a.ath {color:#AACCEE;font-weight:bold;}
+a.ath:hover {color:#FFFFFF;}
+a.atd {color:#990000;}
+a.atd:hover {color:#CC3333;}
+--></style>
+	
+		<script src="functions.js " language="javascript"></script>
+		<title>Телефонный справочник</title>
+	</head>
+	<body bgcolor=#F0F0F0 marginwidth=0 marginheight=0 topmargin=5 >
+	
+		<div align="center">
+		<br>
+		<form action="default.asp" METHOD="GET" name="searchperson">
+<img src="phone.gif">
+	  Поиск сотрудника по фамилии : <input style="border: 1px solid #333333" type="text" name="family">
+		<input type="hidden" name="action" value="showpeople">
+		<input type="submit" name="submit" value="найти" style="border: 1px solid #EEEEEE;
+                                                            BACKGROUND-COLOR: #a4b2bc;">
+		</FORM>
+<p> 
+		
+		
+		
+<a href="default.asp?action=showpeople&letter=">
+<b><font color='red'></font></b></a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=А">
+А</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Б">
+Б</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=В">
+В</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Г">
+Г</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Д">
+Д</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Е">
+Е</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Ж">
+Ж</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=З">
+З</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=И">
+И</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=К">
+К</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Л">
+Л</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=М">
+М</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Н">
+Н</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=О">
+О</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=П">
+П</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Р">
+Р</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=С">
+С</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Т">
+Т</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=У">
+У</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Ф">
+Ф</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Х">
+Х</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Ц">
+Ц</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Ч">
+Ч</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Ш">
+Ш</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Щ">
+Щ</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Э">
+Э</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Ю">
+Ю</a>&nbsp;
+
+<a href="default.asp?action=showpeople&letter=Я">
+Я</a>&nbsp;
+
+		</div>
+		
+		
+		</div>
+	
+		<p>
+    <table  cellspacing=0 border=1 width="100%">
+	  <tr class=th>
+		<td  align="center">ФИО</td>
+		<td  align="center">Отдел</td>
+		<td  align="center">Должность</td>
+		<td  align="center">Телефон</td>
+		<td  align="center">АТС</td>
+		<td  align="center">Адрес</td>
+		</tr>
+		
+		<tr class=thi>
+		<td >
+
+
+ Абакарова<br>Ума<br>Данияловна</td>
+		
+		<td>Кафедра мировой экономики</td>
+		<td>Преподаватель</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;22208</td>
+		<td>&nbsp;Покровский бульвар 11, Ж-213 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абанкина<br>Ирина<br>Всеволодовна</td>
+		
+		<td>Институт развития образования</td>
+		<td>Директор, профессор </td>
+		<td>&nbsp;8 (495) 772-95-90*</td>
+		<td>&nbsp;22076</td>
+		<td>&nbsp;Милютинский пер.д.13.каб.220</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абанкина<br>Татьяна<br>Всеволодовна</td>
+		
+		<td>Центр прикладных экономических исследований и разработок</td>
+		<td>Директор</td>
+		<td>&nbsp;(495)772-95-90*</td>
+		<td>&nbsp;22075</td>
+		<td>&nbsp;Милютинский пер.д.13.каб.221</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абанокова<br>Ксения<br>Руслановна</td>
+		
+		<td>Центр трудовых исследований</td>
+		<td>Мл. научный сотрудник</td>
+		<td>&nbsp;624-62-10</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Корп. 3, комн. 212 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абашкин<br>Василий<br>Львович</td>
+		
+		<td>Центр научно-технической, инновационной и информационной политики</td>
+		<td>Старший научный сотрудник</td>
+		<td>&nbsp;628-86-16</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Мясницкая, д.20, ком. 18-308</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абдеева <br>Альфия <br>Рустамовна</td>
+		
+		<td>Отдел по работе с научно-педагогическими работниками</td>
+		<td>Специалист по кадрам 2 категории</td>
+		<td>&nbsp;8 (495) 772-95-90* </td>
+		<td>&nbsp;11586</td>
+		<td>&nbsp;Мясницкая, 20, комн. 552</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абдрахманова<br>Гульнара<br>Ибрагимовна</td>
+		
+		<td>Центр статистики и мониторинга информационного общества</td>
+		<td>Директор</td>
+		<td>&nbsp;628-57-72</td>
+		<td>&nbsp;11537</td>
+		<td>&nbsp;Корп.1, комн. 241</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абдулаев<br>Шамиль<br>Магомедович</td>
+		
+		<td>Центр фундаментальных исследований</td>
+		<td>Аналитик</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;11691</td>
+		<td>&nbsp;Кривоколенный пер., д.3а, комната К-302</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абдуллина<br>Зухра<br>Махмутовна</td>
+		
+		<td>Типография</td>
+		<td>Экономист</td>
+		<td>&nbsp;(495) 621-50-37, (916) 745-85-35 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Мясницкая, 20, комн. 215 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абелинскайте<br>Вера<br>Эдуардовна</td>
+		
+		<td>Кафедра сравнительной политологии</td>
+		<td>Преподаватель</td>
+		<td>&nbsp;8 499 152-12-81</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Кочновский проезд, 3, каб. 621</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аболина <br>Наталья <br>Александровна</td>
+		
+		<td>Дирекция по информационным ресурсам</td>
+		<td>Заместитель директора</td>
+		<td>&nbsp;8 (495) 771-32-43*</td>
+		<td>&nbsp;11568</td>
+		<td>&nbsp;корп. 1, комн. 540</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абрамешин   <br>Андрей<br>Евгеньевич</td>
+		
+		<td>Зам.директора  по общим вопросам </td>
+		<td>Заместитель директора по общим вопросам </td>
+		<td>&nbsp;(495) 916-39-49, (495) 916-88-05  </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Б.Трехсвятительский пер., д. 3, ком. 215</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абрамов<br>Александр<br>Евгеньевич</td>
+		
+		<td>Центр государственного регулирования финансовых рынков</td>
+		<td>Старший научный сотрудник</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;22038</td>
+		<td>&nbsp;Покровский бульвар, 11, корпус Ж, комн. 501</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абрамов<br>Александр<br>Евгеньевич</td>
+		
+		<td>Кафедра фондового рынка и рынка инвестиций</td>
+		<td>Профессор</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;22038</td>
+		<td>&nbsp;Покровский бульвар, 11, корпус Ж, комн. 501</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абрамов<br>Роман<br>Николаевич</td>
+		
+		<td>Кафедра анализа социальных институтов</td>
+		<td>Доцент</td>
+		<td>&nbsp;(499)152-09-31</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 2, комн. 429</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абрамов<br>Роман<br>Сергеевич</td>
+		
+		<td>Центр мультимедийного производства</td>
+		<td>Менеджер </td>
+		<td>&nbsp;495-772-95-90 </td>
+		<td>&nbsp;22383 </td>
+		<td>&nbsp;Хитровский переулок 2/8, строение 5, кабинет П-207 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абрамова<br>Екатерина<br>Сергеевна</td>
+		
+		<td>Отдел по работе со средними общеобразовательными учреждениями</td>
+		<td>Начальник отдела</td>
+		<td>&nbsp;8-499-611-24-70, 8-499-611-24-13</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 7, комн. 204</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абрахимов<br>Максим<br>Александрович</td>
+		
+		<td>Кафедра интегрированных коммуникаций</td>
+		<td>Преподаватель</td>
+		<td>&nbsp;(499)152-04-31</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 2, комн. 625 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аброскин<br>Александр<br>Сергеевич</td>
+		
+		<td>Отдел стратегического прогнозирования</td>
+		<td>Гл. научный сотрудник</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;11540</td>
+		<td>&nbsp;Мясницкая ул. 18, комн. 18-313</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абульханова<br>Ксения<br>Александровна</td>
+		
+		<td>Кафедра психологии личности</td>
+		<td>Профессор</td>
+		<td>&nbsp;(495) 709-65-72 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Волгоградский пр-т 46 Б </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Абэ<br>Хироси<br></td>
+		
+		<td>Кафедра восточной филологии</td>
+		<td>Старший преподаватель</td>
+		<td>&nbsp;8(495)725-30-70, 8(495) 725-30-79</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Покровский бульвар, д. 8, комн. 205</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авалиани<br>Семен <br>Леванович</td>
+		
+		<td>Центр экономики окружающей среды и природных ресурсов</td>
+		<td>Вед. научный сотрудник</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авдашева<br>Светлана<br>Борисовна</td>
+		
+		<td>Институт анализа предприятий и рынков</td>
+		<td>Зам. директора</td>
+		<td>&nbsp;298-59-48, 624-97-24 (факс)</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 3, комн. 501</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авдашева<br>Светлана<br>Борисовна</td>
+		
+		<td>Лаборатория конкурентной и антимонопольной политики</td>
+		<td>Заведующий</td>
+		<td>&nbsp;628-76-73</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 3, комн. 604</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авдашева<br>Светлана<br>Борисовна</td>
+		
+		<td>Кафедра экономического анализа организаций и рынков</td>
+		<td>Профессор</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;26172</td>
+		<td>&nbsp;119049, Москва, ул. Шаболовка, д. 26, к. 3, офис 3227</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авдашева<br>Светлана<br>Борисовна</td>
+		
+		<td>Департамент прикладной экономики</td>
+		<td>Руководитель департамента </td>
+		<td>&nbsp;(495) 772-95-90 </td>
+		<td>&nbsp;26172 </td>
+		<td>&nbsp;АУК "Шаболовка", комн.3227 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авдеева<br>Анна<br>Александровна</td>
+		
+		<td>Отдел сопровождения учебного процесса в бакалавриате</td>
+		<td>Методист</td>
+		<td>&nbsp;(495) 772-95-99</td>
+		<td>&nbsp;22080</td>
+		<td>&nbsp;Малая Пионерская улица, 12, ауд. 804</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авдошин<br>Сергей<br>Михайлович</td>
+		
+		<td>Кафедра управления разработкой программного обеспечения</td>
+		<td>Зав кафедрой, профессор</td>
+		<td>&nbsp;772-95-90</td>
+		<td>&nbsp;55151</td>
+		<td>&nbsp;корп.12, комн. 532</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авдошин<br>Сергей<br>Михайлович</td>
+		
+		<td>Отделение программной инженерии</td>
+		<td>Руководитель</td>
+		<td>&nbsp;772-95-90</td>
+		<td>&nbsp;55151</td>
+		<td>&nbsp;корп. 12, комн.532</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аверин<br>Владимир<br>Юрьевич</td>
+		
+		<td>Отдел оперативного снабжения</td>
+		<td>Начальник отдела</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;11484</td>
+		<td>&nbsp;Мясницкая 18, комн.18-401</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аверченко<br>Николай<br>Николаевич</td>
+		
+		<td>Кафедра гражданского права</td>
+		<td>Доцент</td>
+		<td>&nbsp;(495) 951-79-14</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Малая Ордынка, 17, каб.404</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авилова<br>Агнесса<br>Викторовна</td>
+		
+		<td>Кафедра мировой экономики</td>
+		<td>Доцент</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;22206, 22208</td>
+		<td>&nbsp;Покровский бульвар 11, Ж-211</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авраамова<br>Елена<br>Михайловна</td>
+		
+		<td>Лаборатория организационного поведения и развития</td>
+		<td>Ст. научный сотрудник</td>
+		<td>&nbsp;772-95-90</td>
+		<td>&nbsp;55139</td>
+		<td>&nbsp;корп. 12, комн. 724</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Авраменко<br>Владимир<br>Васильевич</td>
+		
+		<td>Административный отдел</td>
+		<td>Начальник отдела</td>
+		<td>&nbsp;628-66-14</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 1а, комн. 220-к</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Автономов <br>Алексей  <br>Станиславович</td>
+		
+		<td>Центр сравнительного права</td>
+		<td>Директор</td>
+		<td>&nbsp;(495) 953-51-46 </td>
+		<td>&nbsp;5556</td>
+		<td>&nbsp;М. Ордынка, 17, к. 401</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Автономов<br>Владимир<br>Сергеевич</td>
+		
+		<td>Кафедра экономической методологии и истории</td>
+		<td>Зав.кафедрой, профессор</td>
+		<td>&nbsp;8-495-580-89-32 </td>
+		<td>&nbsp;26143 </td>
+		<td>&nbsp;Шаболовка,д.26, кор.5,каб.5217 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Автономов<br>Владимир<br>Сергеевич</td>
+		
+		<td>Экономики</td>
+		<td>Научный руководитель</td>
+		<td>&nbsp; 8-495-580-89-32</td>
+		<td>&nbsp;26143</td>
+		<td>&nbsp;Шаболовка,д.26, кор.5,каб.5217 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Автономов<br>Юрий<br>Владимирович</td>
+		
+		<td>Кафедра микроэкономического анализа</td>
+		<td>Доцент</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;26161   </td>
+		<td>&nbsp;АИК " Шаболовка ", 4232   </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агадуллина<br>Елена<br>Рафиковна</td>
+		
+		<td>Кафедра организационной психологии</td>
+		<td>Преподаватель</td>
+		<td>&nbsp;709-65-69</td>
+		<td>&nbsp;220</td>
+		<td>&nbsp;корп. 10,комн.220</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агадуллина<br>Елена<br>Рафиковна</td>
+		
+		<td>Международная научно-учебная лаборатория социокультурных исследований</td>
+		<td>Старший научный сотрудник</td>
+		<td>&nbsp;709-65-68</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Волгоградский пр-т, д.46б, ком.220</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агапов<br>Валерий<br>Сергеевич</td>
+		
+		<td>Кафедра психологии личности</td>
+		<td>Профессор</td>
+		<td>&nbsp;(495) 709-65-72 </td>
+		<td>&nbsp;210 </td>
+		<td>&nbsp;Волгоградский пр-т 46 Б </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агапова<br>Анна<br>Юрьевна</td>
+		
+		<td>Отдел организационного сопровождения учебного процесса</td>
+		<td>Ст.администратор </td>
+		<td>&nbsp;(495) 772 95 90 </td>
+		<td>&nbsp;14305</td>
+		<td>&nbsp;М.Пионерская, 12, ком. 270</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агафонов <br>Владимир <br>Ильич </td>
+		
+		<td>Отдел по работе со студентами, социальными вопросами и внеучебной деятельности</td>
+		<td>Начальник отдела </td>
+		<td>&nbsp;(495)916-89-01 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Б.Трехсвятительский пер., д. 3, ком. 422</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агафонова<br>Ксения<br>Андреевна</td>
+		
+		<td>Кафедра конституционного и муниципального права</td>
+		<td>Ассистент</td>
+		<td>&nbsp;959-45-41</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 6, комн. 213</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агеева<br>Юлия<br>Владимировна</td>
+		
+		<td>Кафедра интегрированных коммуникаций</td>
+		<td>Старший преподаватель</td>
+		<td>&nbsp;(499)152-04-31 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 2, комн. 625 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Агранович <br>Михаил <br>Семенович </td>
+		
+		<td>Кафедра высшей математики</td>
+		<td>Профессор </td>
+		<td>&nbsp;(499)235-71-87 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Малая Пионерская, д. 12-18/4-6, стр. 1, ком.357</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аджави<br>Хуссейн<br>Ахмедович</td>
+		
+		<td>Кафедра восточной филологии</td>
+		<td>Старший преподаватель</td>
+		<td>&nbsp;8(495)725-30-70, 8(495) 725-30-79</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Покровский бульвар, д. 8, комн. 205</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Азаров <br>Владимир<br>Николаевич</td>
+		
+		<td>Зам.директора  по научной работе </td>
+		<td>Заместитель директора по научной работе</td>
+		<td>&nbsp;(495) 916-23-88 (495) 916-88-02</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Б.Трехсвятительский пер., д. 3, ком. 210</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Азарова <br>Валентина <br>Васильевна </td>
+		
+		<td>Кафедра радиоэлектроники и телекоммуникаций</td>
+		<td>Доцент </td>
+		<td>&nbsp;(495)916-88-68 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Б.Трехсвятительский пер., д. 3, ком. 403</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Азарцева<br>Екатерина<br>Сергеевна</td>
+		
+		<td>Отдел топливо-энергетического комплекса</td>
+		<td>Младший научный сотрудник </td>
+		<td>&nbsp;8(495)725-30-74 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Покровский бульвар, д.8, комн. 411-А </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Азизова <br>Роза <br>Мухамаджановна</td>
+		
+		<td>Отдел кадрового делопроизводства</td>
+		<td>Инспектор по кадрам</td>
+		<td>&nbsp;8(495) 623-25-35</td>
+		<td>&nbsp;11261</td>
+		<td>&nbsp;Мясницкая, д.20, ком. 545</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Азнаурян<br>Александр<br>Романович</td>
+		
+		<td>Институт налогового менеджмента и экономики недвижимости</td>
+		<td>Менеджер </td>
+		<td>&nbsp;(495) 771-32-48 </td>
+		<td>&nbsp;11547</td>
+		<td>&nbsp;Мясницкая, 18. ком. 18-201 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Азоева<br>Ольга<br>Валентиновна</td>
+		
+		<td>Кафедра экономической теории</td>
+		<td>Доцент</td>
+		<td>&nbsp;8(495) 772-95-90* </td>
+		<td>&nbsp;26032 </td>
+		<td>&nbsp;ул. Шаболовка, д.26, 3226 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Айвазян<br>Сергей<br>Арутюнович</td>
+		
+		<td>Кафедра математической экономики и эконометрики</td>
+		<td>Профессор</td>
+		<td>&nbsp;8 (495) 772-95-90*</td>
+		<td>&nbsp;26051</td>
+		<td>&nbsp;119049, Москва, ул. Шаболовка, д. 26, к. 4, офис 4330</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Акельев<br>Евгений<br>Владимирович</td>
+		
+		<td>Кафедра политической истории</td>
+		<td>Доцент </td>
+		<td>&nbsp;621-66-03 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Петровка 12, каб.204 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Акимов<br>Дмитрий<br>Викторович</td>
+		
+		<td>Кафедра экономической теории</td>
+		<td>Старший преподаватель</td>
+		<td>&nbsp;8(495) 772-95-90* </td>
+		<td>&nbsp;26032 </td>
+		<td>&nbsp;ул. Шаболовка, д.26, 3226 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Акимова<br>Валерия<br>Андреевна</td>
+		
+		<td>Дирекция административно-учебного комплекса «Трифоновский»</td>
+		<td>Делопроизводитель</td>
+		<td>&nbsp;8-495-688-87-98</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Трифоновская ул. д.57, стр.1, ком.515</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Акимова <br>Елена <br>Львовна </td>
+		
+		<td>Кафедра высшей математики</td>
+		<td>Заведующий лабораторией </td>
+		<td>&nbsp;(499)235-71-87 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Малая Пионерская, д. 12-18/4-6, стр. 1, ком.357</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Акиндинова <br>Наталья <br>Васильевна</td>
+		
+		<td>Институт «Центр развития» </td>
+		<td>Директор</td>
+		<td>&nbsp;(495) 625-94-74</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Славянская пл., д. 4, стр.2, комн 215</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аксенов <br>Сергей <br>Алексеевич </td>
+		
+		<td>Кафедра механики и математического моделирования</td>
+		<td>Доцент</td>
+		<td>&nbsp;(495) 916-88-68 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Б.Трехсвятительский пер., д.3, к.402 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аксенов<br>Сергей<br>Алексеевич</td>
+		
+		<td>Научно-исследовательская  лаборатория космических исследований в области технологий, систем и процессов</td>
+		<td>Старший научный сотрудник </td>
+		<td>&nbsp;(495) 772-95-90 </td>
+		<td>&nbsp;22883 </td>
+		<td>&nbsp;Б.Трехсвятительский пер., д.3, к.450 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аксенова <br>Ирина <br>Васильевна </td>
+		
+		<td>Кафедра физической химии и экологии</td>
+		<td>Старший преподаватель </td>
+		<td>&nbsp;(499) 235-39-82 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Малая Пионерская, д. 12-18/4-6, стр. 1, ком.608-614</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аксенова <br>Ольга <br>Вениаминовна </td>
+		
+		<td>Кафедра физической химии и экологии</td>
+		<td>Профессор </td>
+		<td>&nbsp;(499) 235-39-82 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Малая Пионерская, д. 12-18/4-6, стр. 1, ком.608-614</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аксенова<br>Ольга<br>Владимировна</td>
+		
+		<td>Кафедра публичной политики</td>
+		<td>Доцент</td>
+		<td>&nbsp;(495) 621-70-38</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 2, комн. 623</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Акхан<br>Ольга<br>Алексеевна</td>
+		
+		<td>Отдел централизованных ресурсов</td>
+		<td>Ведущий экономист </td>
+		<td>&nbsp;628-58-09 </td>
+		<td>&nbsp;11428 </td>
+		<td>&nbsp;корп. 1а, комн.408-к</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алавидзе <br>Гурами <br>Рубенович </td>
+		
+		<td>Кафедра высшей математики</td>
+		<td>Доцент</td>
+		<td>&nbsp;(499)235-71-87 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Малая Пионерская, д. 12-18/4-6, стр. 1, ком.357</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Албегова<br>Марина<br>Руслановна</td>
+		
+		<td>Отдел аналитики и планирования закупок</td>
+		<td>Аналитик </td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;11420</td>
+		<td>&nbsp;Кривоколенный пер., д.3а, комната К-321</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Албутова<br>Алена<br>Игоревна</td>
+		
+		<td>Кафедра экономической социологии</td>
+		<td>Лаборант </td>
+		<td>&nbsp;(499) 152-15-51	 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Кочновский пр., д.3 комн. 406 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алекперов  <br>Намаз <br>Исмайыл Оглы</td>
+		
+		<td>Кафедра высшей математики</td>
+		<td>Доцент </td>
+		<td>&nbsp;(499)235-71-87 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Малая Пионерская, д. 12-18/4-6, стр. 1, ком.357</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александров<br>Даниил<br>Александрович</td>
+		
+		<td>НИУ ВШЭ - Санкт-Петербург</td>
+		<td>Заместитель директора</td>
+		<td>&nbsp;(812) 714-56-03</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;СПб, ул. Союза Печатников 16</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александров<br>Даниил <br>Александрович</td>
+		
+		<td>Научно-учебная лаборатория «Социология образования и науки» </td>
+		<td>Зав.лабораторией</td>
+		<td>&nbsp;(812)400-13-47</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;СПб, ул. Союза Печатников, д. 16, каб. 109. </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александров<br>Даниил<br>Александрович</td>
+		
+		<td>Лаборатория сравнительных социальных исследований</td>
+		<td>Ведущий научный сотрудник</td>
+		<td>&nbsp;(812) 714-56-03</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;СПб, ул. Союза Печатников 16</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александрова<br>Елена<br>Сергеевна</td>
+		
+		<td>Лаборатория экономико-социологических исследований</td>
+		<td>Менеджер</td>
+		<td>&nbsp;(499)152-07-51</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 2, комн. 411</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александрова<br>Ирина<br>Михайловна</td>
+		
+		<td>Заместитель научного руководителя </td>
+		<td>Секретарь</td>
+		<td>&nbsp;8 (495) 772-95-90* </td>
+		<td>&nbsp;22141</td>
+		<td>&nbsp;Милютинский пер., д. 13, стр. 1, ком 317</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александрова<br>Ирина<br>Михайловна</td>
+		
+		<td>Секретариат ректора</td>
+		<td>Секретарь</td>
+		<td>&nbsp;917-98-58</td>
+		<td>&nbsp;22141</td>
+		<td>&nbsp;АИК "Покровка", Е-202</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александрова<br>Мария<br>Александровна</td>
+		
+		<td>Научно-учебная лаборатория медиевистических исследований</td>
+		<td>Менеджер</td>
+		<td>&nbsp;(495) 621-66-03</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Петровка, 12, комн. 204</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александрова<br>Ольга<br>Владимировна</td>
+		
+		<td>Отдел оперативной полиграфии</td>
+		<td>Начальник отдела</td>
+		<td>&nbsp;(812)786-58-95</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Санкт-Петербург, ул. Промышленная, д.17а, помещение 110</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Александрова де Гаспар<br>Елизавета<br>Константиновна</td>
+		
+		<td>Центр развития профессиональных квалификаций</td>
+		<td>Менеджер </td>
+		<td>&nbsp;(495) 725-30-15 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Покровский бульвар, д.8, 104в </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексахин<br>Александр<br>Александрович</td>
+		
+		<td>Советник А.А. Алексахин</td>
+		<td>Советник ректора</td>
+		<td>&nbsp;917-41-88</td>
+		<td>&nbsp;22139</td>
+		<td>&nbsp;АИК "Покровка", Е-603</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексахин<br>Александр<br>Александрович</td>
+		
+		<td>Секретариат ректора</td>
+		<td>Советник</td>
+		<td>&nbsp;917-41-88</td>
+		<td>&nbsp;22139</td>
+		<td>&nbsp;АИК "Покровка", Е-603</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексашенко<br>Сергей<br>Владимирович</td>
+		
+		<td>Директор по макроэкономическим исследованиям</td>
+		<td>Директор</td>
+		<td>&nbsp;+7 (495) 771-32-54   </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Славянская пл., д. 4, стр.2, комн. 411</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексеев<br>Александр<br>Николаевич</td>
+		
+		<td>Кафедра интегрированных коммуникаций</td>
+		<td>Преподаватель</td>
+		<td>&nbsp;(499)152-04-31</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;корп. 2, комн. 625 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексеев<br>Александр<br>Николаевич</td>
+		
+		<td>Военная кафедра</td>
+		<td>Заведующий учебно-методическим кабинетом</td>
+		<td>&nbsp;(499) 159-35-34</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексеев<br>Игорь<br>Леонидович</td>
+		
+		<td>Кафедра всеобщей и отечественной истории</td>
+		<td>Доцент</td>
+		<td>&nbsp; (495) 772-95-90</td>
+		<td>&nbsp;22524, 22091</td>
+		<td>&nbsp;Милютинский пер., 13, стр.1, комн. 303</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексеев<br>Сергей <br>Александрович</td>
+		
+		<td>Отдел по размещению персонала, контролю и учету помещений </td>
+		<td>Техник</td>
+		<td>&nbsp;(495) 531-00-33 </td>
+		<td>&nbsp;11035 </td>
+		<td>&nbsp;Большой Трехсвятительский переулок, д. 3, ком. 318 б      </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексеева<br>Елена<br>Викторовна</td>
+		
+		<td>Высшая школа юриспруденции</td>
+		<td>Менеджер</td>
+		<td>&nbsp;951-06-62</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;ул. М. Ордынка, д. 17, комн. 407</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алексеенко<br>Надежда<br>Павловна</td>
+		
+		<td>Кафедра прикладной макроэкономики</td>
+		<td>Специалист по УМР 2 кат.</td>
+		<td>&nbsp;621-82-74</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;АИК Покровка. Д-213</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алескеров<br>Фуад<br>Тагиевич</td>
+		
+		<td>Международная научно-учебная лаборатории анализа и выбора решений</td>
+		<td>Заведующий лабораторией</td>
+		<td>&nbsp;(495) 621-13-42 </td>
+		<td>&nbsp;22006</td>
+		<td>&nbsp;Покровский бульвар, 11, комната Ж-429</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алескеров<br>Фуад<br>Тагиевич</td>
+		
+		<td>Департамент математики</td>
+		<td>Зав. кафедрой</td>
+		<td>&nbsp;(495) 772 95 90* </td>
+		<td>&nbsp;26065,26068 </td>
+		<td>&nbsp;Шаболовка 26, корп.5, комн.5414 </td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алескерова<br>Инесса<br>Ивановна</td>
+		
+		<td>Базовая кафедра «Математические методы системного анализа» Института системного анализа РАН</td>
+		<td>Менеджер</td>
+		<td>&nbsp;8 (495) 772-95-90* </td>
+		<td>&nbsp;11020</td>
+		<td>&nbsp;Б.Трехсвятительский пер.3, комн. 422-А</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алехина<br>Наталия <br>Михайловна</td>
+		
+		<td>Учебно-методический кабинет по уголовно-правовой и процессуальной специализации</td>
+		<td>Зав. метод. кабинетом </td>
+		<td>&nbsp;959-45-31</td>
+		<td>&nbsp;5588</td>
+		<td>&nbsp;корп. 6, комн. 306</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алешин <br>Андрей <br>Владимирович </td>
+		
+		<td>Кафедра радиоэлектроники и телекоммуникаций</td>
+		<td>Доцент </td>
+		<td>&nbsp;(495)916-88-68 </td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Б.Трехсвятительский пер., д. 3, ком. 403</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алешин<br>Дмитрий<br>Андреевич</td>
+		
+		<td>Лаборатория сравнительного описания национальных систем конкурентного права</td>
+		<td>Менеджер</td>
+		<td>&nbsp;951-52-82</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алешин<br>Дмитрий<br>Андреевич</td>
+		
+		<td>Институт торговой политики </td>
+		<td>Старший научный сотрудник</td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;22184</td>
+		<td>&nbsp;Мытная, д. 46, с. 1, комн. 306</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алешин<br>Сергей<br>Владимирович</td>
+		
+		<td>Центральный склад</td>
+		<td>Экспедитор</td>
+		<td>&nbsp;(495) 772-95-90*</td>
+		<td>&nbsp;22888</td>
+		<td>&nbsp;Хитровский пер. дом 2/8 корп. 6</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алешина<br>Анна<br>Борисовна</td>
+		
+		<td>Хозяйственный отдел</td>
+		<td>Зав. хозяйством</td>
+		<td>&nbsp;(812) 560-01-88</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Филиал, Санкт-Петербург №1, комн. 103</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алешина<br>Наталия<br>Юрьевна</td>
+		
+		<td>Отдел зарубежных командировок, виз и регистраций</td>
+		<td>Зам. начальника отдела</td>
+		<td>&nbsp;(495) 531-00-63 </td>
+		<td>&nbsp;11860</td>
+		<td>&nbsp;ул. Мясницкая, 40, строение 1, комн. 218</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Аликова<br>Светлана<br>Анатольевна</td>
+		
+		<td>Управление делами</td>
+		<td>Заместитель  </td>
+		<td>&nbsp;772-95-90*</td>
+		<td>&nbsp;11903</td>
+		<td>&nbsp;корп. 1, комн. 441</td>
+		</tr>
+	  
+		<tr class=thi>
+		<td >
+
+
+ Алимова<br>Татьяна<br>Александровна</td>
+		
+		<td>Научно-учебная лаборатория исследований предпринимательства</td>
+		<td>Ведущий научный сотрудник</td>
+		<td>&nbsp;(499) 152-15-51</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;Кочновский пр., д. 3, комн. 406</td>
+		</tr>
+	  
+		
+		<tr class=th><td colspan="6" align="center">Показаны записи: 1-100 из 4750</td></tr></table>
+		<br>
+		
+		
+		<div align="center">
+		|<a href='default.asp?action=showpeople&numpage=1&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1-100</a>|<a href='default.asp?action=showpeople&numpage=2&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>101-200</a>|<a href='default.asp?action=showpeople&numpage=3&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>201-300</a>|<a href='default.asp?action=showpeople&numpage=4&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>301-400</a>|<a href='default.asp?action=showpeople&numpage=5&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>401-500</a>|<a href='default.asp?action=showpeople&numpage=6&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>501-600</a>|<a href='default.asp?action=showpeople&numpage=7&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>601-700</a>|<a href='default.asp?action=showpeople&numpage=8&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>701-800</a>|<a href='default.asp?action=showpeople&numpage=9&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>801-900</a>|<a href='default.asp?action=showpeople&numpage=10&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>901-1000</a><br>|<a href='default.asp?action=showpeople&numpage=11&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1001-1100</a>|<a href='default.asp?action=showpeople&numpage=12&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1101-1200</a>|<a href='default.asp?action=showpeople&numpage=13&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1201-1300</a>|<a href='default.asp?action=showpeople&numpage=14&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1301-1400</a>|<a href='default.asp?action=showpeople&numpage=15&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1401-1500</a>|<a href='default.asp?action=showpeople&numpage=16&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1501-1600</a>|<a href='default.asp?action=showpeople&numpage=17&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1601-1700</a>|<a href='default.asp?action=showpeople&numpage=18&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1701-1800</a>|<a href='default.asp?action=showpeople&numpage=19&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1801-1900</a>|<a href='default.asp?action=showpeople&numpage=20&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>1901-2000</a>|<a href='default.asp?action=showpeople&numpage=21&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2001-2100</a>|<a href='default.asp?action=showpeople&numpage=22&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2101-2200</a>|<a href='default.asp?action=showpeople&numpage=23&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2201-2300</a>|<a href='default.asp?action=showpeople&numpage=24&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2301-2400</a>|<a href='default.asp?action=showpeople&numpage=25&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2401-2500</a>|<a href='default.asp?action=showpeople&numpage=26&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2501-2600</a>|<a href='default.asp?action=showpeople&numpage=27&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2601-2700</a>|<a href='default.asp?action=showpeople&numpage=28&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2701-2800</a>|<a href='default.asp?action=showpeople&numpage=29&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2801-2900</a>|<a href='default.asp?action=showpeople&numpage=30&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>2901-3000</a>|<a href='default.asp?action=showpeople&numpage=31&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3001-3100</a>|<a href='default.asp?action=showpeople&numpage=32&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3101-3200</a>|<a href='default.asp?action=showpeople&numpage=33&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3201-3300</a>|<a href='default.asp?action=showpeople&numpage=34&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3301-3400</a>|<a href='default.asp?action=showpeople&numpage=35&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3401-3500</a>|<a href='default.asp?action=showpeople&numpage=36&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3501-3600</a>|<a href='default.asp?action=showpeople&numpage=37&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3601-3700</a>|<a href='default.asp?action=showpeople&numpage=38&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3701-3800</a>|<a href='default.asp?action=showpeople&numpage=39&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3801-3900</a>|<a href='default.asp?action=showpeople&numpage=40&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>3901-4000</a>|<a href='default.asp?action=showpeople&numpage=41&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4001-4100</a>|<a href='default.asp?action=showpeople&numpage=42&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4101-4200</a>|<a href='default.asp?action=showpeople&numpage=43&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4201-4300</a>|<a href='default.asp?action=showpeople&numpage=44&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4301-4400</a>|<a href='default.asp?action=showpeople&numpage=45&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4401-4500</a>|<a href='default.asp?action=showpeople&numpage=46&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4501-4600</a>|<a href='default.asp?action=showpeople&numpage=47&family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4601-4700</a>|<a  href='default.asp?action=showpeople&numpage=48&=family=&name=&surname=&phone=&ats=&dep=&id_dep=0&job=&letter=&korpus=&room='>4700-4750</a>|
+	</BODY>
+	</HTML>
+
+

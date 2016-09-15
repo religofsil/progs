@@ -1,0 +1,38 @@
+import codecs
+from flask import Flask, request, render_template
+app=Flask(__name__)
+##nam = {}
+##a = codecs.open (u"names.csv", "r", "utf-8-sig")
+##for line in a:
+##    line = line.strip()
+##    line = line.split(';')
+##    nam[line[0]] = line[1]
+forcsv=[]
+@app.route('/form')
+def form():
+    global forcsv
+    i=0
+    l=0
+    if len(request.args)>0:
+        forcsv[i]=request.args['Name']
+        i+=1
+        forcsv[i]=request.args['Age']
+        i+=1
+        f2=codecs.open(u"datas"+l+".csv", "w", "utf-8")
+        f2.write(forcsv[i-2]+";"+forcsv[i-1])
+        f2.close()
+        return u'<html><body>Hello,'+request.args['Name']+u'!</body></html>'
+    else:
+        return render_template('example.html')
+app.run(debug = True)
+
+forcsv2=forcsv[1::2]
+for i in forcsv2:
+    i=int(i)
+x=sum(forcsv2)/len(forcsv2)
+
+@app.route('/stats')
+def stats():
+    global x
+    return u'<html><body>Average age:'+x+u'</body></html>'
+app.run(debug = True)

@@ -19,7 +19,10 @@ def reader(filename, model='dummy.pkl'):
     data, bogus = load_svmlight_file('data.txt')
     for i in data:
         expected = clf.predict(i)
-        letter = d_inv[expected[0]]
+        if expected[0] in d_inv:
+            letter = d_inv[expected[0]]
+        else:
+            letter=d_inv[i]
         f.write(letter)
     f.write(text[-2] + text[-1])
 
@@ -40,4 +43,4 @@ def createfile(filename):
             hash(i[2])) + ' 4:' + str(hash(i[3])) + ' 5:' + str(hash(i[4])) + '\n')
 
 
-reader('rawishcorp.txt')
+reader(raw_input('Please type the name of your file: '))
