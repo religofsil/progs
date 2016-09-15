@@ -1,0 +1,28 @@
+08.09.2015
+Классы
+
+способ 1 (хороший):
+class Student:
+    def __init__(self): // init --встроенная ф-ция питона, они выделяются 2 подчеркиваниями перед и 2 после; self -- обяз. параметр.
+        self.name=u''
+        self.year=0
+    def next_year(self): // метод класса -- любая ф-ция внутри класса, кроме __init__
+        if self.year<4:
+            self.year+=1
+
+способ 2 (не очень):
+class Student:
+    name=u'' // если потом в программе изменить name для одного объекта класса, то name изменится для всех объектов класса
+
+s=Student() // s -- переменная класса Student, экземпляр класса Student
+s.name='John Smith'
+s.next_year() // метод класса, переводит Джона Смита на след. курс
+
+self указывает на конкретный объект, с которым работаем
+
+способ 3 (чуть короче):
+class Student:
+    def __init__(self, name):
+        self.name=name
+        self.year=0
+s=Student('John Smith')
