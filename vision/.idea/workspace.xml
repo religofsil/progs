@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36a85a1c-1814-4142-827e-46bd59fcd523" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd101.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd102.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd103.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd104.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd105.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd106.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd107.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd108.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd109.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd110.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd111.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd112.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd113.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd115.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd116.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd117.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd118.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd119.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd122.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd123.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd124.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd125.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd126.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd127.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd129.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd130.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd131.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd132.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd133.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd134.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd135.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd136.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd137.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd138.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd139.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd140.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd141.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd142.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd143.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd145.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd146.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd147.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd148.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd149.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd151.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd153.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd154.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd155.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd156.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd157.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd158.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd159.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd160.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd161.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd162.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd163.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd164.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd165.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd166.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd167.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd168.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd169.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd170.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd171.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd172.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd173.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd174.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd175.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd176.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd177.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd178.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd179.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd181.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd182.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd183.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd184.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd185.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd186.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd187.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd188.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd189.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd190.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd191.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd193.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd194.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd195.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd196.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd197.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd198.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd199.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd201.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd202.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd203.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd204.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd205.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd206.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd207.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd208.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd209.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd210.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd211.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd212.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd213.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd214.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd215.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd216.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd217.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd218.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd219.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd221.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd222.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd223.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd224.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd226.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd227.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd228.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd229.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd230.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd231.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd232.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd233.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd234.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd235.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd236.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd237.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd238.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd239.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd241.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd242.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd243.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd244.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd245.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd246.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd247.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd248.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd249.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd250.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd251.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd252.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd253.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd254.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd255.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd257.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd258.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd259.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd260.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd261.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd262.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd263.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd264.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd265.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd266.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd267.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd268.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd269.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd270.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd271.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd272.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd273.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd274.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd275.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd276.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd277.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd278.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd279.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd280.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd281.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd282.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd283.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd284.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd285.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd286.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd287.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd288.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd289.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd290.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd291.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd292.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd293.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd294.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd295.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd296.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd297.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd298.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd299.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd301.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd302.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd303.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd304.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd305.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd306.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd307.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd308.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd309.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd311.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd312.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd313.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd314.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd315.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd316.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd317.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd318.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd319.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd320.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd321.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd322.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd323.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd324.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd325.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd326.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd327.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd328.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd329.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd330.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd331.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd61.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd63.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd67.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd69.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd71.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd73.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd74.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd77.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd78.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd83.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd88.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd89.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd91.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocd99.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/findoutneilsemotions.py" />
+    </list>
+    <ignored path="vision.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/vision$findoutneilsemotions.coverage" NAME="findoutneilsemotions Coverage Results" MODIFIED="1473895793857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vision" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="findoutneilsemotions.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/findoutneilsemotions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/findoutneilsemotions.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+  </component>
+  <component name="RunManager" selected="Python.findoutneilsemotions">
+    <configuration default="false" name="findoutneilsemotions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findoutneilsemotions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="vision" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vision" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.findoutneilsemotions" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.findoutneilsemotions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36a85a1c-1814-4142-827e-46bd59fcd523" name="Default" comment="" />
+      <created>1473892737596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473892737596</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/findoutneilsemotions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findoutneilsemotions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
