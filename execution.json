@@ -1,0 +1,52 @@
+[
+  {
+    "current_letter": "п", 
+    "checked_letters": [
+      "п"
+    ], 
+    "guessed_part": "п***"
+  }, 
+  {
+    "current_letter": "е", 
+    "checked_letters": [
+      "п", 
+      "е"
+    ], 
+    "guessed_part": "пе**"
+  }, 
+  {
+    "current_letter": "в", 
+    "checked_letters": [
+      "п", 
+      "е", 
+      "в"
+    ]
+  }, 
+  {
+    "current_letter": "е", 
+    "checked_letters": [
+      "п", 
+      "е"
+    ], 
+    "guessed_part": "пе**"
+  }, 
+  {
+    "current_letter": "т", 
+    "checked_letters": [
+      "п", 
+      "е", 
+      "т"
+    ], 
+    "guessed_part": "пет*"
+  }, 
+  {
+    "current_letter": "я", 
+    "checked_letters": [
+      "п", 
+      "е", 
+      "т", 
+      "я"
+    ], 
+    "guessed_part": "петя"
+  }
+]

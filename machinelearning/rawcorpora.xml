@@ -1,4 +1,4 @@
-﻿<!DOCTYPE corpora [
+﻿﻿<!DOCTYPE corpora [
 <!ELEMENT corpora (yes,no+)>
 <!ATTLIST no right CDATA "">
 <!ELEMENT yes (#PCDATA)>

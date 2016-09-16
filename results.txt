@@ -1,0 +1,1559 @@
+="ae">til</w>
+ : 14
+            <w lemma="um" type="ao">um</w>
+ : 16
+родительных падежей: 4031
+            <w lemma="stór" type="lheosf">stórt</w>
+ : 1
+            <w lemma="koma" type="sng">koma</w>
+ : 1
+            <w lemma="strangur" type="lvfovm">strangari</w>
+ : 1
+            <w lemma="áhrif" type="nhfo">áhrif</w>
+ : 1
+            <w lemma="mál" type="nhfog">málin</w>
+ : 1
+            <w lemma="yfir" type="ao">yfir</w>
+ : 1
+            <w lemma="ráðningarsamningur" type="nkfn">ráðningarsamningar</w>
+ : 1
+            <w lemma="kanna" type="sþghen">kannað</w>
+ : 1
+            <w lemma="nærri" type="lhfþve">næstu</w>
+ : 1
+            <w lemma="sérstaklega" type="aa">sérstaklega</w>
+ : 1
+            <w lemma="samur" type="fbhen">Sama</w>
+ : 1
+            <w lemma="gera" type="sþghen">gert</w>
+ : 1
+            <w lemma="frumvarp" type="nhee">frumvarps</w>
+ : 1
+            <w lemma="lögð" type="nken-s">Lögð</w>
+ : 1
+            <w lemma="samtök" type="nhfþ">samtökum</w>
+ : 1
+            <w lemma="þrír" type="tfhfþ">þremur</w>
+ : 1
+            <w lemma="vinnumálastofnun" type="nveo-s">Vinnumálastofnun</w>
+ : 1
+            <w lemma="tak" type="nheþ">taki</w>
+ : 1
+            <w lemma="heimild" type="nveo">heimild</w>
+ : 1
+            <w lemma="réttur" type="lhensf">rétt</w>
+ : 1
+            <w lemma="íslenskur" type="lkeþsf">íslenskum</w>
+ : 1
+            <w lemma="hafa" type="svg3en">hafi</w>
+ : 1
+            <w lemma="sjónarmið" type="nhfn">sjónarmið</w>
+ : 1
+            <w lemma="ágreiningur" type="nken">ágreiningur</w>
+ : 1
+            <w lemma="eðlilegur" type="lhenvm">eðlilegra</w>
+ : 1
+            <w lemma="geta" type="sfg3fþ">gátu</w>
+ : 1
+            <w lemma="í" type="aa">í</w>
+ : 1
+            <w lemma="kveða" type="sng">kveða</w>
+ : 1
+            <w lemma="mark" type="nhfog">mörkin</w>
+ : 1
+            <w lemma="ákvæði" type="nhfn">Ákvæði</w>
+ : 1
+            <w lemma="hversu" type="aa">hversu</w>
+ : 1
+            <w lemma="varlega" type="aa">varlega</w>
+ : 1
+            <w lemma="ég" type="fp1en">ég</w>
+ : 1
+            <w lemma="sá" type="faken">sá</w>
+ : 1
+            <w lemma="fyrirkomulag" type="nhen">fyrirkomulag</w>
+ : 1
+            <w lemma="þykja" type="sfg3eþ">þótti</w>
+ : 1
+            <w lemma="fara" type="sng">fara</w>
+ : 1
+            <w lemma="fara" type="sþghen">farið</w>
+ : 1
+            <w lemma="í" type="aþ">Í</w>
+ : 1
+            <w lemma="samtök" type="nhfn">Samtök</w>
+ : 1
+            <w lemma="fimm" type="tfhfe">fimm</w>
+ : 1
+            <w lemma="hvernig" type="aa">hvernig</w>
+ : 1
+            <w lemma="þekkja" type="sþghen">þekkt</w>
+ : 1
+            <w lemma="starfsmaður" type="nkfe">starfsmanna</w>
+ : 1
+            <w lemma="verða" type="sfg3fn">verða</w>
+ : 1
+            <w lemma="geta" type="sfg3fn">geta</w>
+ : 1
+            <w lemma="sá" type="fakee">þess</w>
+ : 1
+            <w lemma="aðallega" type="aa">aðallega</w>
+ : 1
+            <w lemma="launafólk" type="nhee">launafólks</w>
+ : 1
+            <w lemma="meta" type="sng">meta</w>
+ : 1
+            <w lemma="einnig" type="aa">einnig</w>
+ : 1
+            <w lemma="hinn" type="gkeþ">hinum</w>
+ : 1
+            <w lemma="1." type="ta">1.</w>
+ : 1
+            <w lemma="er" type="ct">er</w>
+ : 1
+            <w lemma="leggja" type="sfg3en">leggur</w>
+ : 1
+            <w lemma="af" type="aþ">af</w>
+ : 1
+            <w lemma="slíkur" type="fbkfe">slíkra</w>
+ : 1
+            <w lemma="hinn" type="fahfþ">hinum</w>
+ : 1
+            <w lemma="hjá" type="aþ">hjá</w>
+ : 1
+            <w lemma="ákvæði" type="nhfo">ákvæði</w>
+ : 1
+            <w lemma="frekur" type="lvfovm">frekari</w>
+ : 1
+            <w lemma="annar" type="fohen">annað</w>
+ : 1
+            <w lemma="tímabundinn" type="lvfnsf">tímabundnar</w>
+ : 1
+            <w lemma="skipan" type="nveo">skipan</w>
+ : 1
+            <w lemma="gera" type="sþgkfn">gerðir</w>
+ : 1
+            <w lemma="staða" type="nvfo">stöður</w>
+ : 1
+            <w lemma="endurnýjaður" type="lkfnsf">endurnýjaðir</w>
+ : 1
+            <w lemma="tími" type="nkeþ">tíma</w>
+ : 1
+            <w lemma="tillit" type="nheþ">tilliti</w>
+ : 1
+            <w lemma="misnota" type="sþgvfn">misnotaðar</w>
+ : 1
+            <w lemma="ár" type="nhfo">ár</w>
+ : 1
+            <w lemma="takmörkun" type="nvfn">takmarkanir</w>
+ : 1
+            <w lemma="dómstóll" type="nkfe">dómstóla</w>
+ : 1
+            <w lemma="saman" type="aa">saman</w>
+ : 1
+            <w lemma="endurnýja" type="sþgkfn">endurnýjaðir</w>
+ : 1
+            <w lemma="regla" type="nven">regla</w>
+ : 1
+            <w lemma="þegar" type="c">þegar</w>
+ : 1
+            <w lemma="vera" type="sfg3eþ">var</w>
+ : 1
+            <w lemma="samfellt" type="aa">samfellt</w>
+ : 1
+            <w lemma="starfsmaður" type="nkfo">starfsmenn</w>
+ : 1
+            <w lemma="leiða" type="sfg3en">leiðir</w>
+ : 1
+            <w lemma="aukinn" type="lveosf">aukna</w>
+ : 1
+            <w lemma="upplýsa" type="sng">upplýsa</w>
+ : 1
+            <w lemma="eiga" type="svg3en">eigi</w>
+ : 1
+            <w lemma="viðbót" type="nvee">viðbótar</w>
+ : 1
+            <w lemma="taka" type="sþghen">tekið</w>
+ : 1
+            <w lemma="draga" type="sng">draga</w>
+ : 1
+            <w lemma="sjónarmið" type="nheo">sjónarmið</w>
+ : 1
+            <w lemma="afstaða" type="nven">afstaða</w>
+ : 1
+            <w lemma="taka" type="sfg1en">tek</w>
+ : 1
+            <w lemma="sá" type="favfo">þær</w>
+ : 1
+            <w lemma="hv" type="nhen">hv</w>
+ : 1
+            <w lemma="tveir" type="tfhfo">tvö</w>
+ : 1
+            <w lemma="lengi" type="aam">lengur</w>
+ : 1
+            <w lemma="raunverulega" type="aa">raunverulega</w>
+ : 1
+            <w lemma="annar" type="fohfþ">öðrum</w>
+ : 1
+            <w lemma="því" type="aa">því</w>
+ : 1
+            <w lemma="erfiður" type="lhensf">Erfitt</w>
+ : 1
+            <w lemma="aðili" type="nkfo">aðila</w>
+ : 1
+            <w lemma="munu" type="sfg1en">mun</w>
+ : 1
+            <w lemma="kast" type="nhfe">kasta</w>
+ : 1
+            <w lemma="þrennur" type="lkeesf">þrenns</w>
+ : 1
+            <w lemma="fár" type="lvfnsf">fáar</w>
+ : 1
+            <w lemma="rammasamningur" type="nkeeg">rammasamningsins</w>
+ : 1
+            <w lemma="slíkur" type="fbkfn">slíkir</w>
+ : 1
+            <w lemma="skipun" type="nveo">skipun</w>
+ : 1
+            <w lemma="þykja" type="sfg3en">Þykir</w>
+ : 1
+            <w lemma="ætlaður" type="lveosf">ætlaða</w>
+ : 1
+            <w lemma="enn" type="aa">enn</w>
+ : 1
+            <w lemma="þykja" type="svg3en">þyki</w>
+ : 1
+            <w lemma="virða" type="sfm3en">virðist</w>
+ : 1
+            <w lemma="svigrúm" type="nheo">svigrúm</w>
+ : 1
+            <w lemma="við" type="aa">við</w>
+ : 1
+            <w lemma="sá" type="faheþ">því</w>
+ : 1
+            <w lemma="hátta" type="sþghen">háttað</w>
+ : 1
+            <w lemma="skjal" type="nhfeg">skjalanna</w>
+ : 1
+            <w lemma="fyrir" type="aþ">fyrir</w>
+ : 1
+            <w lemma="skyn" type="nheþ">skyni</w>
+ : 1
+            <w lemma="verndun" type="nveo">verndun</w>
+ : 1
+            <w lemma="eða" type="c">eða</w>
+ : 1
+            <w lemma="ég" type="fp1eþ">mér</w>
+ : 1
+            <w lemma="lag" type="nhfe">laga</w>
+ : 1
+            <w lemma="sinn" type="fekfo">sína</w>
+ : 1
+            <w lemma="sig" type="fpkfþ">sér</w>
+ : 1
+            <w lemma="hann" type="fpkfn">þeir</w>
+ : 1
+            <w lemma="aðili" type="nkfn">aðilar</w>
+ : 1
+            <w lemma="hverfa" type="sþghen">horfið</w>
+ : 1
+            <w lemma="einstakur" type="lhfþsf">einstökum</w>
+ : 1
+            <w lemma="heimill" type="lhensf">heimilt</w>
+ : 1
+            <w lemma="til" type="ae">Til</w>
+ : 1
+            <w lemma="samtök" type="nhfo">samtök</w>
+ : 1
+            <w lemma="laus" type="lvfosf">lausar</w>
+ : 1
+            <w lemma="réttindi" type="nhfo">réttindi</w>
+ : 1
+            <w lemma="aðili" type="nkee">aðila</w>
+ : 1
+            <w lemma="það" type="fphfe">þeirra</w>
+ : 1
+            <w lemma="ár" type="nhfþ">árum</w>
+ : 1
+            <w lemma="leggja" type="svg3en">leggi</w>
+ : 1
+            <w lemma="einkenni" type="nhfe">einkenna</w>
+ : 1
+            <w lemma="fremur" type="aam">fremur</w>
+ : 1
+            <w lemma="verða" type="sfg3en">verður</w>
+ : 1
+            <w lemma="samstarfshópur" type="nkee">samstarfshóps</w>
+ : 1
+            <w lemma="m.a." type="as">m.a.</w>
+ : 1
+            <w lemma="þessi" type="faveo">þessa</w>
+ : 1
+            <w lemma="annar" type="foveo">aðra</w>
+ : 1
+            <w lemma="velja" type="ssg">valið</w>
+ : 1
+            <w lemma="áhersla" type="nven">áhersla</w>
+ : 1
+            <w lemma="endurnýja" type="sng">endurnýja</w>
+ : 1
+            <w lemma="rúma" type="snm">rúmast</w>
+ : 1
+            <w lemma="vera" type="svg3fn">séu</w>
+ : 1
+            <w lemma="gerð" type="nveo">gerð</w>
+ : 1
+            <w lemma="varða" type="sfg3en">varðar</w>
+ : 1
+            <w lemma="frekur" type="lvfnvm">frekari</w>
+ : 1
+            <w lemma="annar" type="fokfþ">öðrum</w>
+ : 1
+            <w lemma="það" type="fphen">Það</w>
+ : 1
+            <w lemma="samvinna" type="nveþ">samvinnu</w>
+ : 1
+            <w lemma="hvort" type="c">hvort</w>
+ : 1
+            <w lemma="rammasamningur" type="nkee">rammasamnings</w>
+ : 1
+            <w lemma="vari" type="nken">vari</w>
+ : 1
+            <w lemma="efni" type="nheþ">efni</w>
+ : 1
+            <w lemma="koma" type="sfg3fn">koma</w>
+ : 1
+            <w lemma="ríkur" type="lvensf">rík</w>
+ : 1
+            <w lemma="hafa" type="sfg3fn">hafa</w>
+ : 1
+            <w lemma="stjórnandi" type="nkfe">stjórnenda</w>
+ : 1
+            <w lemma="telja" type="sþgken">talinn</w>
+ : 1
+            <w lemma="frá" type="aa">frá</w>
+ : 1
+            <w lemma="tilvik" type="nhfþ">tilvikum</w>
+ : 1
+            <w lemma="samtök" type="nhfn">samtök</w>
+ : 1
+            <w lemma="hver" type="foken">hver</w>
+ : 1
+            <w lemma="senn" type="aa">senn</w>
+ : 1
+            <w lemma="gera" type="sþghen">Gert</w>
+ : 1
+            <w lemma="kveða" type="sþghen">kveðið</w>
+ : 1
+            <w lemma="ráða" type="sþgkfn">ráðnir</w>
+ : 1
+            <w lemma="vangaveltur" type="nvfn">vangaveltur</w>
+ : 1
+            <w lemma="sá" type="fahfþ">þeim</w>
+ : 1
+            <w lemma="þráður" type="nkeog">þráðinn</w>
+ : 1
+            <w lemma="vera" type="svg3en">sé</w>
+ : 1
+            <w lemma="land" type="nheþ">landi</w>
+ : 1
+            <w lemma="vernd" type="nveo">vernd</w>
+ : 1
+            <w lemma="fyrirtæki" type="nheeg">fyrirtækisins</w>
+ : 1
+            <w lemma="taka" type="snm">takast</w>
+ : 1
+            <w lemma="undanskilinn" type="lheþsf">undanskildu</w>
+ : 1
+            <w lemma="stjórnendur" type="nken">stjórnendur</w>
+ : 1
+            <w lemma="eins" type="nken-s">Eins</w>
+ : 1
+            <w lemma="morgunn" type="nkeo">morgun</w>
+ : 1
+            <w lemma="misnotkun" type="nveo">misnotkun</w>
+ : 1
+            <w lemma="beita" type="sng">beita</w>
+ : 1
+            <w lemma="tímabundinn" type="lkfþsf">tímabundnum</w>
+ : 1
+            <w lemma="leggja" type="sþgvfn">lagðar</w>
+ : 1
+            <w lemma="umfjöllun" type="nveþ">umfjöllun</w>
+ : 1
+            <w lemma="vinnuveitandi" type="nkfn">vinnuveitendur</w>
+ : 1
+            <w lemma="skýrsla" type="nveo">skýrslu</w>
+ : 1
+            <w lemma="gildandi" type="lhfeof">gildandi</w>
+ : 1
+            <w lemma="tímabundinn" type="lhensf">tímabundið</w>
+ : 1
+            <w lemma="stjórnvald" type="nhfn">stjórnvöld</w>
+ : 1
+            <w lemma="konar" type="nkee">konar</w>
+ : 1
+            <w lemma="milli" type="ae">milli</w>
+ : 1
+            <w lemma="fjórir" type="tfhfe">fjögurra</w>
+ : 1
+            <w lemma="hvar" type="aa">hvar</w>
+ : 1
+            <w lemma="taka" type="sfm3eþ">tókst</w>
+ : 1
+            <w lemma="hafa" type="svg3fn">hafi</w>
+ : 1
+            <w lemma="nauðsyn" type="nven">nauðsyn</w>
+ : 1
+            <w lemma="lokinn" type="lveþsf">lokinni</w>
+ : 1
+            <w lemma="leggja" type="sfg1en">legg</w>
+ : 1
+            <w lemma="langur" type="lkeovm">lengri</w>
+ : 1
+            <w lemma="2." type="ta">2.</w>
+ : 1
+            <w lemma="áður" type="aa">áður</w>
+ : 1
+            <w lemma="sveigjanleiki" type="nkee">sveigjanleika</w>
+ : 1
+            <w lemma="vel" type="aa">vel</w>
+ : 1
+            <w lemma="orð" type="nhfþ">orðum</w>
+ : 1
+            <w lemma="skulu" type="sfg3fn">skulu</w>
+ : 1
+            <w lemma="íslenskur" type="lkfesf">íslenskra</w>
+ : 1
+            <w lemma="ræða" type="sfg3en">ræðir</w>
+ : 1
+            <w lemma="oft" type="aa">oft</w>
+ : 1
+            <w lemma="kjarasamningur" type="nkfþ">kjarasamningum</w>
+ : 1
+            <w lemma="setja" type="sþgvfn">settar</w>
+ : 1
+            <w lemma="innlendur" type="lkeþsf">innlendum</w>
+ : 1
+            <w lemma="þannig" type="aa">þannig</w>
+ : 1
+            <w lemma="algengur" type="lhensf">algengt</w>
+ : 1
+            <w lemma="rammasamningur" type="nkengs">Rammasamningurinn</w>
+ : 1
+            <w lemma="teknur" type="lheþsf">teknu</w>
+ : 1
+            <w lemma="vera" type="sfg3en">Er</w>
+ : 1
+            <w lemma="sveitarfélag" type="nhfþ">sveitarfélögum</w>
+ : 1
+            <w lemma="félmn" type="nkeog">félmn</w>
+ : 1
+            <w lemma="vegur" type="nkeo">veg</w>
+ : 1
+            <w lemma="samstarfshópur" type="nken">samstarfshópur</w>
+ : 1
+            <w lemma="viðganga" type="sfm3en">viðgengst</w>
+ : 1
+            <w lemma="ráðningarsamningur" type="nkfo">ráðningarsamninga</w>
+ : 2
+            <w lemma="þessi" type="faheþ">þessu</w>
+ : 2
+            <w lemma="jafnlangur" type="lkeesf">jafnlangs</w>
+ : 2
+            <w lemma="að" type="aþ">Að</w>
+ : 2
+            <w lemma="upp" type="aa">upp</w>
+ : 2
+            <w lemma="kjarasamningur" type="nkfe">kjarasamninga</w>
+ : 2
+            <w lemma="þá" type="aa">Þá</w>
+ : 2
+            <w lemma="leggja" type="sþghen">lagt</w>
+ : 2
+            <w lemma="innan" type="ae">innan</w>
+ : 2
+            <w lemma="opinber" type="lkeþvf">opinbera</w>
+ : 2
+            <w lemma="vísa" type="sþghen">vísað</w>
+ : 2
+            <w lemma="regla" type="nvfn">reglur</w>
+ : 2
+            <w lemma="fram" type="aa">fram</w>
+ : 2
+            <w lemma="tími" type="nkee">tíma</w>
+ : 2
+            <w lemma="tímabundnur" type="lkfosf">tímabundna</w>
+ : 2
+            <w lemma="útfærsla" type="nveo">útfærslu</w>
+ : 2
+            <w lemma="mæla" type="sþghen">mælt</w>
+ : 2
+            <w lemma="þá" type="aa">þá</w>
+ : 2
+            <w lemma="íslenskur" type="lkeosf">íslenskan</w>
+ : 2
+            <w lemma="ráð" type="nhen">ráð</w>
+ : 2
+            <w lemma="á" type="aa">á</w>
+ : 2
+            <w lemma="það" type="fphee">þess</w>
+ : 2
+            <w lemma="gilda" type="ssg">gilt</w>
+ : 2
+            <w lemma="hæstv" type="nken-s">Hæstv</w>
+ : 2
+            <w lemma="skylda" type="nvfo">skyldur</w>
+ : 2
+            <w lemma="ég" type="fp1en">Ég</w>
+ : 2
+            <w lemma="liggja" type="sfg3en">liggur</w>
+ : 2
+            <w lemma="embættismaður" type="nkfe">embættismanna</w>
+ : 2
+            <w lemma="sá" type="favfn">þær</w>
+ : 2
+            <w lemma="umr." type="sbg2en">umr.</w>
+ : 2
+            <w lemma="takmörkun" type="nvfo">takmarkanir</w>
+ : 2
+            <w lemma="koma" type="ssg">komið</w>
+ : 2
+            <w lemma="virðulegur" type="lkenvf">Virðulegi</w>
+ : 2
+            <w lemma="tímabundinn" type="lhfþsf">tímabundnum</w>
+ : 2
+            <w lemma="taka" type="sþgven">tekin</w>
+ : 2
+            <w lemma="tímabundinn" type="lkensf">tímabundinn</w>
+ : 2
+            <w lemma="vinnumarkaður" type="nkeo">vinnumarkað</w>
+ : 2
+            <w lemma="skulu" type="svg3en">skuli</w>
+ : 2
+            <w lemma="sá" type="fakfo">þá</w>
+ : 2
+            <w lemma="ákveða" type="sng">ákveða</w>
+ : 2
+            <w lemma="þar" type="aa">Þar</w>
+ : 2
+            <w lemma="starfsmannalag" type="nhfe">starfsmannalaga</w>
+ : 2
+            <w lemma="samráð" type="nheþ">samráði</w>
+ : 2
+            <w lemma="ár" type="nhfe">ára</w>
+ : 2
+            <w lemma="þó" type="aa">þó</w>
+ : 2
+            <w lemma="ráðningarsamningur" type="nken">ráðningarsamningur</w>
+ : 2
+            <w lemma="aðili" type="nkfe">aðila</w>
+ : 3
+            <w lemma="það" type="fpheþ">því</w>
+ : 3
+            <w lemma="sá" type="fahee">þess</w>
+ : 3
+            <w lemma="framvegis" type="aa">frv.</w>
+ : 3
+            <w lemma="til" type="aa">til</w>
+ : 3
+            <w lemma="með" type="aþ">með</w>
+ : 3
+            <w lemma="hér" type="aa">hér</w>
+ : 3
+            <w lemma="að" type="aþ">að</w>
+ : 3
+            <w lemma="lag" type="nhfþ">lögum</w>
+ : 3
+            <w lemma="semja" type="sng">semja</w>
+ : 3
+            <w lemma="tímabundinn" type="lvfosf">tímabundnar</w>
+ : 3
+            <w lemma="hafa" type="sng">hafa</w>
+ : 3
+            <w lemma="í" type="ao">í</w>
+ : 3
+            <w lemma="um" type="aa">um</w>
+ : 3
+            <w lemma="ráðningarsamningur" type="nkfþ">ráðningarsamningum</w>
+ : 3
+            <w lemma="fyrir" type="aa">fyrir</w>
+ : 3
+            <w lemma="við" type="ao">við</w>
+ : 4
+            <w lemma="þar" type="aa">þar</w>
+ : 4
+            <w lemma="ekki" type="aa">ekki</w>
+ : 4
+            <w lemma="á" type="ao">á</w>
+ : 4
+            <w lemma="forseti" type="nken">forseti</w>
+ : 4
+            <w lemma="ráðning" type="nvee">ráðningar</w>
+ : 4
+            <w lemma="fyrir" type="ao">fyrir</w>
+ : 4
+            <w lemma="sem" type="c">sem</w>
+ : 4
+            <w lemma="vinnumarkaður" type="nkeþ">vinnumarkaði</w>
+ : 5
+            <w lemma="vera" type="sfg3fn">eru</w>
+ : 5
+            <w lemma="verða" type="svg3en">verði</w>
+ : 6
+            <w lemma="vinnumarkaður" type="nkeeg">vinnumarkaðarins</w>
+ : 6
+            <w lemma="en" type="c">en</w>
+ : 6
+            <w lemma="í" type="aþ">í</w>
+ : 8
+            <w lemma="og" type="c">og</w>
+ : 9
+            <w lemma="sem" type="ct">sem</w>
+ : 10
+            <w lemma="að" type="cn">að</w>
+ : 12
+            <w lemma="á" type="aþ">á</w>
+ : 12
+            <w lemma="að" type="c">að</w>
+ : 13
+            <w lemma="vera" type="sfg3en">er</w>
+ : 13
+            <w lemma="til" type="ae">til</w>
+ : 14
+            <w lemma="um" type="ao">um</w>
+ : 16
+родительных падежей: 4031
+            <w lemma="meta" type="sng">meta</w> : 1
+            <w lemma="fár" type="lvfnsf">fáar</w> : 1
+            <w lemma="virða" type="sfm3en">virðist</w> : 1
+            <w lemma="samstarfshópur" type="nkee">samstarfshóps</w> : 1
+            <w lemma="ríkur" type="lvensf">rík</w> : 1
+            <w lemma="samtök" type="nhfn">samtök</w> : 1
+            <w lemma="kveða" type="sng">kveða</w> : 1
+            <w lemma="stjórnvald" type="nhfn">stjórnvöld</w> : 1
+            <w lemma="skyn" type="nheþ">skyni</w> : 1
+            <w lemma="eins" type="nken-s">Eins</w> : 1
+            <w lemma="takmörkun" type="nvfn">takmarkanir</w> : 1
+            <w lemma="geta" type="sfg3fþ">gátu</w> : 1
+            <w lemma="samvinna" type="nveþ">samvinnu</w> : 1
+            <w lemma="félmn" type="nkeog">félmn</w> : 1
+            <w lemma="þykja" type="sfg3en">Þykir</w> : 1
+            <w lemma="oft" type="aa">oft</w> : 1
+            <w lemma="tímabundinn" type="lhensf">tímabundið</w> : 1
+            <w lemma="samfellt" type="aa">samfellt</w> : 1
+            <w lemma="geta" type="sfg3fn">geta</w> : 1
+            <w lemma="hvernig" type="aa">hvernig</w> : 1
+            <w lemma="skjal" type="nhfeg">skjalanna</w> : 1
+            <w lemma="þannig" type="aa">þannig</w> : 1
+            <w lemma="eiga" type="svg3en">eigi</w> : 1
+            <w lemma="eðlilegur" type="lhenvm">eðlilegra</w> : 1
+            <w lemma="ágreiningur" type="nken">ágreiningur</w> : 1
+            <w lemma="hjá" type="aþ">hjá</w> : 1
+            <w lemma="því" type="aa">því</w> : 1
+            <w lemma="gera" type="sþghen">gert</w> : 1
+            <w lemma="hafa" type="sfg3fn">hafa</w> : 1
+            <w lemma="til" type="ae">Til</w> : 1
+            <w lemma="fimm" type="tfhfe">fimm</w> : 1
+            <w lemma="annar" type="fohen">annað</w> : 1
+            <w lemma="slíkur" type="fbkfe">slíkra</w> : 1
+            <w lemma="vera" type="svg3en">sé</w> : 1
+            <w lemma="vernd" type="nveo">vernd</w> : 1
+            <w lemma="telja" type="sþgken">talinn</w> : 1
+            <w lemma="samtök" type="nhfo">samtök</w> : 1
+            <w lemma="upplýsa" type="sng">upplýsa</w> : 1
+            <w lemma="ég" type="fp1eþ">mér</w> : 1
+            <w lemma="varlega" type="aa">varlega</w> : 1
+            <w lemma="hinn" type="fahfþ">hinum</w> : 1
+            <w lemma="er" type="ct">er</w> : 1
+            <w lemma="annar" type="foveo">aðra</w> : 1
+            <w lemma="regla" type="nven">regla</w> : 1
+            <w lemma="ár" type="nhfþ">árum</w> : 1
+            <w lemma="sá" type="favfo">þær</w> : 1
+            <w lemma="misnota" type="sþgvfn">misnotaðar</w> : 1
+            <w lemma="heimill" type="lhensf">heimilt</w> : 1
+            <w lemma="eða" type="c">eða</w> : 1
+            <w lemma="efni" type="nheþ">efni</w> : 1
+            <w lemma="einkenni" type="nhfe">einkenna</w> : 1
+            <w lemma="morgunn" type="nkeo">morgun</w> : 1
+            <w lemma="vari" type="nken">vari</w> : 1
+            <w lemma="koma" type="sng">koma</w> : 1
+            <w lemma="ákvæði" type="nhfn">Ákvæði</w> : 1
+            <w lemma="aukinn" type="lveosf">aukna</w> : 1
+            <w lemma="vangaveltur" type="nvfn">vangaveltur</w> : 1
+            <w lemma="enn" type="aa">enn</w> : 1
+            <w lemma="frekur" type="lvfnvm">frekari</w> : 1
+            <w lemma="kanna" type="sþghen">kannað</w> : 1
+            <w lemma="teknur" type="lheþsf">teknu</w> : 1
+            <w lemma="undanskilinn" type="lheþsf">undanskildu</w> : 1
+            <w lemma="það" type="fphfe">þeirra</w> : 1
+            <w lemma="leiða" type="sfg3en">leiðir</w> : 1
+            <w lemma="gera" type="sþghen">Gert</w> : 1
+            <w lemma="í" type="aa">í</w> : 1
+            <w lemma="hátta" type="sþghen">háttað</w> : 1
+            <w lemma="af" type="aþ">af</w> : 1
+            <w lemma="slíkur" type="fbkfn">slíkir</w> : 1
+            <w lemma="vera" type="sfg3en">Er</w> : 1
+            <w lemma="þessi" type="faveo">þessa</w> : 1
+            <w lemma="verndun" type="nveo">verndun</w> : 1
+            <w lemma="vinnumálastofnun" type="nveo-s">Vinnumálastofnun</w> : 1
+            <w lemma="leggja" type="sfg1en">legg</w> : 1
+            <w lemma="nauðsyn" type="nven">nauðsyn</w> : 1
+            <w lemma="tímabundinn" type="lvfnsf">tímabundnar</w> : 1
+            <w lemma="leggja" type="sþgvfn">lagðar</w> : 1
+            <w lemma="sá" type="faken">sá</w> : 1
+            <w lemma="beita" type="sng">beita</w> : 1
+            <w lemma="þrír" type="tfhfþ">þremur</w> : 1
+            <w lemma="rúma" type="snm">rúmast</w> : 1
+            <w lemma="íslenskur" type="lkeþsf">íslenskum</w> : 1
+            <w lemma="þráður" type="nkeog">þráðinn</w> : 1
+            <w lemma="endurnýjaður" type="lkfnsf">endurnýjaðir</w> : 1
+            <w lemma="einnig" type="aa">einnig</w> : 1
+            <w lemma="taka" type="snm">takast</w> : 1
+            <w lemma="fara" type="sþghen">farið</w> : 1
+            <w lemma="langur" type="lkeovm">lengri</w> : 1
+            <w lemma="rammasamningur" type="nkengs">Rammasamningurinn</w> : 1
+            <w lemma="afstaða" type="nven">afstaða</w> : 1
+            <w lemma="áhersla" type="nven">áhersla</w> : 1
+            <w lemma="sig" type="fpkfþ">sér</w> : 1
+            <w lemma="innlendur" type="lkeþsf">innlendum</w> : 1
+            <w lemma="við" type="aa">við</w> : 1
+            <w lemma="verða" type="sfg3fn">verða</w> : 1
+            <w lemma="mark" type="nhfog">mörkin</w> : 1
+            <w lemma="dómstóll" type="nkfe">dómstóla</w> : 1
+            <w lemma="skipun" type="nveo">skipun</w> : 1
+            <w lemma="starfsmaður" type="nkfo">starfsmenn</w> : 1
+            <w lemma="saman" type="aa">saman</w> : 1
+            <w lemma="rammasamningur" type="nkeeg">rammasamningsins</w> : 1
+            <w lemma="leggja" type="svg3en">leggi</w> : 1
+            <w lemma="sinn" type="fekfo">sína</w> : 1
+            <w lemma="launafólk" type="nhee">launafólks</w> : 1
+            <w lemma="skipan" type="nveo">skipan</w> : 1
+            <w lemma="hverfa" type="sþghen">horfið</w> : 1
+            <w lemma="varða" type="sfg3en">varðar</w> : 1
+            <w lemma="þegar" type="c">þegar</w> : 1
+            <w lemma="kast" type="nhfe">kasta</w> : 1
+            <w lemma="sveitarfélag" type="nhfþ">sveitarfélögum</w> : 1
+            <w lemma="sá" type="fakee">þess</w> : 1
+            <w lemma="skulu" type="sfg3fn">skulu</w> : 1
+            <w lemma="endurnýja" type="sng">endurnýja</w> : 1
+            <w lemma="mál" type="nhfog">málin</w> : 1
+            <w lemma="taka" type="sþghen">tekið</w> : 1
+            <w lemma="hvar" type="aa">hvar</w> : 1
+            <w lemma="ræða" type="sfg3en">ræðir</w> : 1
+            <w lemma="munu" type="sfg1en">mun</w> : 1
+            <w lemma="sjónarmið" type="nhfn">sjónarmið</w> : 1
+            <w lemma="áður" type="aa">áður</w> : 1
+            <w lemma="samur" type="fbhen">Sama</w> : 1
+            <w lemma="vel" type="aa">vel</w> : 1
+            <w lemma="ár" type="nhfo">ár</w> : 1
+            <w lemma="draga" type="sng">draga</w> : 1
+            <w lemma="tak" type="nheþ">taki</w> : 1
+            <w lemma="milli" type="ae">milli</w> : 1
+            <w lemma="ráðningarsamningur" type="nkfn">ráðningarsamningar</w> : 1
+            <w lemma="2." type="ta">2.</w> : 1
+            <w lemma="staða" type="nvfo">stöður</w> : 1
+            <w lemma="nærri" type="lhfþve">næstu</w> : 1
+            <w lemma="lengi" type="aam">lengur</w> : 1
+            <w lemma="orð" type="nhfþ">orðum</w> : 1
+            <w lemma="sá" type="faheþ">því</w> : 1
+            <w lemma="tveir" type="tfhfo">tvö</w> : 1
+            <w lemma="hv" type="nhen">hv</w> : 1
+            <w lemma="taka" type="sfm3eþ">tókst</w> : 1
+            <w lemma="strangur" type="lvfovm">strangari</w> : 1
+            <w lemma="gildandi" type="lhfeof">gildandi</w> : 1
+            <w lemma="fara" type="sng">fara</w> : 1
+            <w lemma="viðganga" type="sfm3en">viðgengst</w> : 1
+            <w lemma="vera" type="svg3fn">séu</w> : 1
+            <w lemma="ákvæði" type="nhfo">ákvæði</w> : 1
+            <w lemma="heimild" type="nveo">heimild</w> : 1
+            <w lemma="þrennur" type="lkeesf">þrenns</w> : 1
+            <w lemma="tillit" type="nheþ">tilliti</w> : 1
+            <w lemma="sá" type="fahfþ">þeim</w> : 1
+            <w lemma="vinnuveitandi" type="nkfn">vinnuveitendur</w> : 1
+            <w lemma="aðili" type="nkfn">aðilar</w> : 1
+            <w lemma="hvort" type="c">hvort</w> : 1
+            <w lemma="leggja" type="sfg3en">leggur</w> : 1
+            <w lemma="samstarfshópur" type="nken">samstarfshópur</w> : 1
+            <w lemma="þykja" type="sfg3eþ">þótti</w> : 1
+            <w lemma="hver" type="foken">hver</w> : 1
+            <w lemma="fyrirkomulag" type="nhen">fyrirkomulag</w> : 1
+            <w lemma="hafa" type="svg3en">hafi</w> : 1
+            <w lemma="það" type="fphen">Það</w> : 1
+            <w lemma="íslenskur" type="lkfesf">íslenskra</w> : 1
+            <w lemma="1." type="ta">1.</w> : 1
+            <w lemma="lögð" type="nken-s">Lögð</w> : 1
+            <w lemma="velja" type="ssg">valið</w> : 1
+            <w lemma="ætlaður" type="lveosf">ætlaða</w> : 1
+            <w lemma="fyrirtæki" type="nheeg">fyrirtækisins</w> : 1
+            <w lemma="samtök" type="nhfn">Samtök</w> : 1
+            <w lemma="laus" type="lvfosf">lausar</w> : 1
+            <w lemma="sjónarmið" type="nheo">sjónarmið</w> : 1
+            <w lemma="setja" type="sþgvfn">settar</w> : 1
+            <w lemma="umfjöllun" type="nveþ">umfjöllun</w> : 1
+            <w lemma="rammasamningur" type="nkee">rammasamnings</w> : 1
+            <w lemma="hafa" type="svg3fn">hafi</w> : 1
+            <w lemma="starfsmaður" type="nkfe">starfsmanna</w> : 1
+            <w lemma="einstakur" type="lhfþsf">einstökum</w> : 1
+            <w lemma="ég" type="fp1en">ég</w> : 1
+            <w lemma="land" type="nheþ">landi</w> : 1
+            <w lemma="koma" type="sfg3fn">koma</w> : 1
+            <w lemma="vera" type="sfg3eþ">var</w> : 1
+            <w lemma="annar" type="fohfþ">öðrum</w> : 1
+            <w lemma="vegur" type="nkeo">veg</w> : 1
+            <w lemma="stjórnendur" type="nken">stjórnendur</w> : 1
+            <w lemma="aðallega" type="aa">aðallega</w> : 1
+            <w lemma="samtök" type="nhfþ">samtökum</w> : 1
+            <w lemma="tími" type="nkeþ">tíma</w> : 1
+            <w lemma="aðili" type="nkee">aðila</w> : 1
+            <w lemma="hann" type="fpkfn">þeir</w> : 1
+            <w lemma="verða" type="sfg3en">verður</w> : 1
+            <w lemma="hinn" type="gkeþ">hinum</w> : 1
+            <w lemma="kjarasamningur" type="nkfþ">kjarasamningum</w> : 1
+            <w lemma="svigrúm" type="nheo">svigrúm</w> : 1
+            <w lemma="endurnýja" type="sþgkfn">endurnýjaðir</w> : 1
+            <w lemma="frá" type="aa">frá</w> : 1
+            <w lemma="þykja" type="svg3en">þyki</w> : 1
+            <w lemma="áhrif" type="nhfo">áhrif</w> : 1
+            <w lemma="ráða" type="sþgkfn">ráðnir</w> : 1
+            <w lemma="konar" type="nkee">konar</w> : 1
+            <w lemma="tímabundinn" type="lkfþsf">tímabundnum</w> : 1
+            <w lemma="réttindi" type="nhfo">réttindi</w> : 1
+            <w lemma="aðili" type="nkfo">aðila</w> : 1
+            <w lemma="gera" type="sþgkfn">gerðir</w> : 1
+            <w lemma="í" type="aþ">Í</w> : 1
+            <w lemma="fjórir" type="tfhfe">fjögurra</w> : 1
+            <w lemma="m.a." type="as">m.a.</w> : 1
+            <w lemma="sérstaklega" type="aa">sérstaklega</w> : 1
+            <w lemma="sveigjanleiki" type="nkee">sveigjanleika</w> : 1
+            <w lemma="tilvik" type="nhfþ">tilvikum</w> : 1
+            <w lemma="annar" type="fokfþ">öðrum</w> : 1
+            <w lemma="fremur" type="aam">fremur</w> : 1
+            <w lemma="lag" type="nhfe">laga</w> : 1
+            <w lemma="yfir" type="ao">yfir</w> : 1
+            <w lemma="hversu" type="aa">hversu</w> : 1
+            <w lemma="frumvarp" type="nhee">frumvarps</w> : 1
+            <w lemma="lokinn" type="lveþsf">lokinni</w> : 1
+            <w lemma="viðbót" type="nvee">viðbótar</w> : 1
+            <w lemma="senn" type="aa">senn</w> : 1
+            <w lemma="kveða" type="sþghen">kveðið</w> : 1
+            <w lemma="frekur" type="lvfovm">frekari</w> : 1
+            <w lemma="stór" type="lheosf">stórt</w> : 1
+            <w lemma="stjórnandi" type="nkfe">stjórnenda</w> : 1
+            <w lemma="raunverulega" type="aa">raunverulega</w> : 1
+            <w lemma="gerð" type="nveo">gerð</w> : 1
+            <w lemma="réttur" type="lhensf">rétt</w> : 1
+            <w lemma="erfiður" type="lhensf">Erfitt</w> : 1
+            <w lemma="algengur" type="lhensf">algengt</w> : 1
+            <w lemma="skýrsla" type="nveo">skýrslu</w> : 1
+            <w lemma="fyrir" type="aþ">fyrir</w> : 1
+            <w lemma="þekkja" type="sþghen">þekkt</w> : 1
+            <w lemma="misnotkun" type="nveo">misnotkun</w> : 1
+            <w lemma="taka" type="sfg1en">tek</w> : 1
+            <w lemma="skylda" type="nvfo">skyldur</w> : 2
+            <w lemma="þó" type="aa">þó</w> : 2
+            <w lemma="sá" type="fakfo">þá</w> : 2
+            <w lemma="tími" type="nkee">tíma</w> : 2
+            <w lemma="ráðningarsamningur" type="nkfo">ráðningarsamninga</w> : 2
+            <w lemma="útfærsla" type="nveo">útfærslu</w> : 2
+            <w lemma="þar" type="aa">Þar</w> : 2
+            <w lemma="ár" type="nhfe">ára</w> : 2
+            <w lemma="íslenskur" type="lkeosf">íslenskan</w> : 2
+            <w lemma="gilda" type="ssg">gilt</w> : 2
+            <w lemma="ráð" type="nhen">ráð</w> : 2
+            <w lemma="þessi" type="faheþ">þessu</w> : 2
+            <w lemma="taka" type="sþgven">tekin</w> : 2
+            <w lemma="vísa" type="sþghen">vísað</w> : 2
+            <w lemma="sá" type="favfn">þær</w> : 2
+            <w lemma="hæstv" type="nken-s">Hæstv</w> : 2
+            <w lemma="embættismaður" type="nkfe">embættismanna</w> : 2
+            <w lemma="liggja" type="sfg3en">liggur</w> : 2
+            <w lemma="samráð" type="nheþ">samráði</w> : 2
+            <w lemma="mæla" type="sþghen">mælt</w> : 2
+            <w lemma="tímabundinn" type="lkensf">tímabundinn</w> : 2
+            <w lemma="þá" type="aa">þá</w> : 2
+            <w lemma="jafnlangur" type="lkeesf">jafnlangs</w> : 2
+            <w lemma="leggja" type="sþghen">lagt</w> : 2
+            <w lemma="tímabundnur" type="lkfosf">tímabundna</w> : 2
+            <w lemma="ákveða" type="sng">ákveða</w> : 2
+            <w lemma="kjarasamningur" type="nkfe">kjarasamninga</w> : 2
+            <w lemma="ég" type="fp1en">Ég</w> : 2
+            <w lemma="regla" type="nvfn">reglur</w> : 2
+            <w lemma="virðulegur" type="lkenvf">Virðulegi</w> : 2
+            <w lemma="umr." type="sbg2en">umr.</w> : 2
+            <w lemma="innan" type="ae">innan</w> : 2
+            <w lemma="skulu" type="svg3en">skuli</w> : 2
+            <w lemma="takmörkun" type="nvfo">takmarkanir</w> : 2
+            <w lemma="það" type="fphee">þess</w> : 2
+            <w lemma="tímabundinn" type="lhfþsf">tímabundnum</w> : 2
+            <w lemma="koma" type="ssg">komið</w> : 2
+            <w lemma="upp" type="aa">upp</w> : 2
+            <w lemma="á" type="aa">á</w> : 2
+            <w lemma="opinber" type="lkeþvf">opinbera</w> : 2
+            <w lemma="ráðningarsamningur" type="nken">ráðningarsamningur</w> : 2
+            <w lemma="að" type="aþ">Að</w> : 2
+            <w lemma="starfsmannalag" type="nhfe">starfsmannalaga</w> : 2
+            <w lemma="þá" type="aa">Þá</w> : 2
+            <w lemma="fram" type="aa">fram</w> : 2
+            <w lemma="vinnumarkaður" type="nkeo">vinnumarkað</w> : 2
+            <w lemma="í" type="ao">í</w> : 3
+            <w lemma="hafa" type="sng">hafa</w> : 3
+            <w lemma="að" type="aþ">að</w> : 3
+            <w lemma="fyrir" type="aa">fyrir</w> : 3
+            <w lemma="ráðningarsamningur" type="nkfþ">ráðningarsamningum</w> : 3
+            <w lemma="aðili" type="nkfe">aðila</w> : 3
+            <w lemma="það" type="fpheþ">því</w> : 3
+            <w lemma="tímabundinn" type="lvfosf">tímabundnar</w> : 3
+            <w lemma="um" type="aa">um</w> : 3
+            <w lemma="framvegis" type="aa">frv.</w> : 3
+            <w lemma="sá" type="fahee">þess</w> : 3
+            <w lemma="með" type="aþ">með</w> : 3
+            <w lemma="til" type="aa">til</w> : 3
+            <w lemma="semja" type="sng">semja</w> : 3
+            <w lemma="hér" type="aa">hér</w> : 3
+            <w lemma="lag" type="nhfþ">lögum</w> : 3
+            <w lemma="fyrir" type="ao">fyrir</w> : 4
+            <w lemma="á" type="ao">á</w> : 4
+            <w lemma="forseti" type="nken">forseti</w> : 4
+            <w lemma="sem" type="c">sem</w> : 4
+            <w lemma="við" type="ao">við</w> : 4
+            <w lemma="ekki" type="aa">ekki</w> : 4
+            <w lemma="ráðning" type="nvee">ráðningar</w> : 4
+            <w lemma="þar" type="aa">þar</w> : 4
+            <w lemma="vinnumarkaður" type="nkeþ">vinnumarkaði</w> : 5
+            <w lemma="vera" type="sfg3fn">eru</w> : 5
+            <w lemma="vinnumarkaður" type="nkeeg">vinnumarkaðarins</w> : 6
+            <w lemma="verða" type="svg3en">verði</w> : 6
+            <w lemma="en" type="c">en</w> : 6
+            <w lemma="í" type="aþ">í</w> : 8
+            <w lemma="og" type="c">og</w> : 9
+            <w lemma="sem" type="ct">sem</w> : 10
+            <w lemma="á" type="aþ">á</w> : 12
+            <w lemma="að" type="cn">að</w> : 12
+            <w lemma="að" type="c">að</w> : 13
+            <w lemma="vera" type="sfg3en">er</w> : 13
+            <w lemma="til" type="ae">til</w> : 14
+            <w lemma="um" type="ao">um</w> : 16
+родительных падежей: 4031
+            <w lemma="meta" type="sng">meta</w> -- 1 вхождения
+            <w lemma="fár" type="lvfnsf">fáar</w> -- 1 вхождения
+            <w lemma="virða" type="sfm3en">virðist</w> -- 1 вхождения
+            <w lemma="samstarfshópur" type="nkee">samstarfshóps</w> -- 1 вхождения
+            <w lemma="ríkur" type="lvensf">rík</w> -- 1 вхождения
+            <w lemma="samtök" type="nhfn">samtök</w> -- 1 вхождения
+            <w lemma="kveða" type="sng">kveða</w> -- 1 вхождения
+            <w lemma="stjórnvald" type="nhfn">stjórnvöld</w> -- 1 вхождения
+            <w lemma="skyn" type="nheþ">skyni</w> -- 1 вхождения
+            <w lemma="eins" type="nken-s">Eins</w> -- 1 вхождения
+            <w lemma="takmörkun" type="nvfn">takmarkanir</w> -- 1 вхождения
+            <w lemma="geta" type="sfg3fþ">gátu</w> -- 1 вхождения
+            <w lemma="samvinna" type="nveþ">samvinnu</w> -- 1 вхождения
+            <w lemma="félmn" type="nkeog">félmn</w> -- 1 вхождения
+            <w lemma="þykja" type="sfg3en">Þykir</w> -- 1 вхождения
+            <w lemma="oft" type="aa">oft</w> -- 1 вхождения
+            <w lemma="tímabundinn" type="lhensf">tímabundið</w> -- 1 вхождения
+            <w lemma="samfellt" type="aa">samfellt</w> -- 1 вхождения
+            <w lemma="geta" type="sfg3fn">geta</w> -- 1 вхождения
+            <w lemma="hvernig" type="aa">hvernig</w> -- 1 вхождения
+            <w lemma="skjal" type="nhfeg">skjalanna</w> -- 1 вхождения
+            <w lemma="þannig" type="aa">þannig</w> -- 1 вхождения
+            <w lemma="eiga" type="svg3en">eigi</w> -- 1 вхождения
+            <w lemma="eðlilegur" type="lhenvm">eðlilegra</w> -- 1 вхождения
+            <w lemma="ágreiningur" type="nken">ágreiningur</w> -- 1 вхождения
+            <w lemma="hjá" type="aþ">hjá</w> -- 1 вхождения
+            <w lemma="því" type="aa">því</w> -- 1 вхождения
+            <w lemma="gera" type="sþghen">gert</w> -- 1 вхождения
+            <w lemma="hafa" type="sfg3fn">hafa</w> -- 1 вхождения
+            <w lemma="til" type="ae">Til</w> -- 1 вхождения
+            <w lemma="fimm" type="tfhfe">fimm</w> -- 1 вхождения
+            <w lemma="annar" type="fohen">annað</w> -- 1 вхождения
+            <w lemma="slíkur" type="fbkfe">slíkra</w> -- 1 вхождения
+            <w lemma="vera" type="svg3en">sé</w> -- 1 вхождения
+            <w lemma="vernd" type="nveo">vernd</w> -- 1 вхождения
+            <w lemma="telja" type="sþgken">talinn</w> -- 1 вхождения
+            <w lemma="samtök" type="nhfo">samtök</w> -- 1 вхождения
+            <w lemma="upplýsa" type="sng">upplýsa</w> -- 1 вхождения
+            <w lemma="ég" type="fp1eþ">mér</w> -- 1 вхождения
+            <w lemma="varlega" type="aa">varlega</w> -- 1 вхождения
+            <w lemma="hinn" type="fahfþ">hinum</w> -- 1 вхождения
+            <w lemma="er" type="ct">er</w> -- 1 вхождения
+            <w lemma="annar" type="foveo">aðra</w> -- 1 вхождения
+            <w lemma="regla" type="nven">regla</w> -- 1 вхождения
+            <w lemma="ár" type="nhfþ">árum</w> -- 1 вхождения
+            <w lemma="sá" type="favfo">þær</w> -- 1 вхождения
+            <w lemma="misnota" type="sþgvfn">misnotaðar</w> -- 1 вхождения
+            <w lemma="heimill" type="lhensf">heimilt</w> -- 1 вхождения
+            <w lemma="eða" type="c">eða</w> -- 1 вхождения
+            <w lemma="efni" type="nheþ">efni</w> -- 1 вхождения
+            <w lemma="einkenni" type="nhfe">einkenna</w> -- 1 вхождения
+            <w lemma="morgunn" type="nkeo">morgun</w> -- 1 вхождения
+            <w lemma="vari" type="nken">vari</w> -- 1 вхождения
+            <w lemma="koma" type="sng">koma</w> -- 1 вхождения
+            <w lemma="ákvæði" type="nhfn">Ákvæði</w> -- 1 вхождения
+            <w lemma="aukinn" type="lveosf">aukna</w> -- 1 вхождения
+            <w lemma="vangaveltur" type="nvfn">vangaveltur</w> -- 1 вхождения
+            <w lemma="enn" type="aa">enn</w> -- 1 вхождения
+            <w lemma="frekur" type="lvfnvm">frekari</w> -- 1 вхождения
+            <w lemma="kanna" type="sþghen">kannað</w> -- 1 вхождения
+            <w lemma="teknur" type="lheþsf">teknu</w> -- 1 вхождения
+            <w lemma="undanskilinn" type="lheþsf">undanskildu</w> -- 1 вхождения
+            <w lemma="það" type="fphfe">þeirra</w> -- 1 вхождения
+            <w lemma="leiða" type="sfg3en">leiðir</w> -- 1 вхождения
+            <w lemma="gera" type="sþghen">Gert</w> -- 1 вхождения
+            <w lemma="í" type="aa">í</w> -- 1 вхождения
+            <w lemma="hátta" type="sþghen">háttað</w> -- 1 вхождения
+            <w lemma="af" type="aþ">af</w> -- 1 вхождения
+            <w lemma="slíkur" type="fbkfn">slíkir</w> -- 1 вхождения
+            <w lemma="vera" type="sfg3en">Er</w> -- 1 вхождения
+            <w lemma="þessi" type="faveo">þessa</w> -- 1 вхождения
+            <w lemma="verndun" type="nveo">verndun</w> -- 1 вхождения
+            <w lemma="vinnumálastofnun" type="nveo-s">Vinnumálastofnun</w> -- 1 вхождения
+            <w lemma="leggja" type="sfg1en">legg</w> -- 1 вхождения
+            <w lemma="nauðsyn" type="nven">nauðsyn</w> -- 1 вхождения
+            <w lemma="tímabundinn" type="lvfnsf">tímabundnar</w> -- 1 вхождения
+            <w lemma="leggja" type="sþgvfn">lagðar</w> -- 1 вхождения
+            <w lemma="sá" type="faken">sá</w> -- 1 вхождения
+            <w lemma="beita" type="sng">beita</w> -- 1 вхождения
+            <w lemma="þrír" type="tfhfþ">þremur</w> -- 1 вхождения
+            <w lemma="rúma" type="snm">rúmast</w> -- 1 вхождения
+            <w lemma="íslenskur" type="lkeþsf">íslenskum</w> -- 1 вхождения
+            <w lemma="þráður" type="nkeog">þráðinn</w> -- 1 вхождения
+            <w lemma="endurnýjaður" type="lkfnsf">endurnýjaðir</w> -- 1 вхождения
+            <w lemma="einnig" type="aa">einnig</w> -- 1 вхождения
+            <w lemma="taka" type="snm">takast</w> -- 1 вхождения
+            <w lemma="fara" type="sþghen">farið</w> -- 1 вхождения
+            <w lemma="langur" type="lkeovm">lengri</w> -- 1 вхождения
+            <w lemma="rammasamningur" type="nkengs">Rammasamningurinn</w> -- 1 вхождения
+            <w lemma="afstaða" type="nven">afstaða</w> -- 1 вхождения
+            <w lemma="áhersla" type="nven">áhersla</w> -- 1 вхождения
+            <w lemma="sig" type="fpkfþ">sér</w> -- 1 вхождения
+            <w lemma="innlendur" type="lkeþsf">innlendum</w> -- 1 вхождения
+            <w lemma="við" type="aa">við</w> -- 1 вхождения
+            <w lemma="verða" type="sfg3fn">verða</w> -- 1 вхождения
+            <w lemma="mark" type="nhfog">mörkin</w> -- 1 вхождения
+            <w lemma="dómstóll" type="nkfe">dómstóla</w> -- 1 вхождения
+            <w lemma="skipun" type="nveo">skipun</w> -- 1 вхождения
+            <w lemma="starfsmaður" type="nkfo">starfsmenn</w> -- 1 вхождения
+            <w lemma="saman" type="aa">saman</w> -- 1 вхождения
+            <w lemma="rammasamningur" type="nkeeg">rammasamningsins</w> -- 1 вхождения
+            <w lemma="leggja" type="svg3en">leggi</w> -- 1 вхождения
+            <w lemma="sinn" type="fekfo">sína</w> -- 1 вхождения
+            <w lemma="launafólk" type="nhee">launafólks</w> -- 1 вхождения
+            <w lemma="skipan" type="nveo">skipan</w> -- 1 вхождения
+            <w lemma="hverfa" type="sþghen">horfið</w> -- 1 вхождения
+            <w lemma="varða" type="sfg3en">varðar</w> -- 1 вхождения
+            <w lemma="þegar" type="c">þegar</w> -- 1 вхождения
+            <w lemma="kast" type="nhfe">kasta</w> -- 1 вхождения
+            <w lemma="sveitarfélag" type="nhfþ">sveitarfélögum</w> -- 1 вхождения
+            <w lemma="sá" type="fakee">þess</w> -- 1 вхождения
+            <w lemma="skulu" type="sfg3fn">skulu</w> -- 1 вхождения
+            <w lemma="endurnýja" type="sng">endurnýja</w> -- 1 вхождения
+            <w lemma="mál" type="nhfog">málin</w> -- 1 вхождения
+            <w lemma="taka" type="sþghen">tekið</w> -- 1 вхождения
+            <w lemma="hvar" type="aa">hvar</w> -- 1 вхождения
+            <w lemma="ræða" type="sfg3en">ræðir</w> -- 1 вхождения
+            <w lemma="munu" type="sfg1en">mun</w> -- 1 вхождения
+            <w lemma="sjónarmið" type="nhfn">sjónarmið</w> -- 1 вхождения
+            <w lemma="áður" type="aa">áður</w> -- 1 вхождения
+            <w lemma="samur" type="fbhen">Sama</w> -- 1 вхождения
+            <w lemma="vel" type="aa">vel</w> -- 1 вхождения
+            <w lemma="ár" type="nhfo">ár</w> -- 1 вхождения
+            <w lemma="draga" type="sng">draga</w> -- 1 вхождения
+            <w lemma="tak" type="nheþ">taki</w> -- 1 вхождения
+            <w lemma="milli" type="ae">milli</w> -- 1 вхождения
+            <w lemma="ráðningarsamningur" type="nkfn">ráðningarsamningar</w> -- 1 вхождения
+            <w lemma="2." type="ta">2.</w> -- 1 вхождения
+            <w lemma="staða" type="nvfo">stöður</w> -- 1 вхождения
+            <w lemma="nærri" type="lhfþve">næstu</w> -- 1 вхождения
+            <w lemma="lengi" type="aam">lengur</w> -- 1 вхождения
+            <w lemma="orð" type="nhfþ">orðum</w> -- 1 вхождения
+            <w lemma="sá" type="faheþ">því</w> -- 1 вхождения
+            <w lemma="tveir" type="tfhfo">tvö</w> -- 1 вхождения
+            <w lemma="hv" type="nhen">hv</w> -- 1 вхождения
+            <w lemma="taka" type="sfm3eþ">tókst</w> -- 1 вхождения
+            <w lemma="strangur" type="lvfovm">strangari</w> -- 1 вхождения
+            <w lemma="gildandi" type="lhfeof">gildandi</w> -- 1 вхождения
+            <w lemma="fara" type="sng">fara</w> -- 1 вхождения
+            <w lemma="viðganga" type="sfm3en">viðgengst</w> -- 1 вхождения
+            <w lemma="vera" type="svg3fn">séu</w> -- 1 вхождения
+            <w lemma="ákvæði" type="nhfo">ákvæði</w> -- 1 вхождения
+            <w lemma="heimild" type="nveo">heimild</w> -- 1 вхождения
+            <w lemma="þrennur" type="lkeesf">þrenns</w> -- 1 вхождения
+            <w lemma="tillit" type="nheþ">tilliti</w> -- 1 вхождения
+            <w lemma="sá" type="fahfþ">þeim</w> -- 1 вхождения
+            <w lemma="vinnuveitandi" type="nkfn">vinnuveitendur</w> -- 1 вхождения
+            <w lemma="aðili" type="nkfn">aðilar</w> -- 1 вхождения
+            <w lemma="hvort" type="c">hvort</w> -- 1 вхождения
+            <w lemma="leggja" type="sfg3en">leggur</w> -- 1 вхождения
+            <w lemma="samstarfshópur" type="nken">samstarfshópur</w> -- 1 вхождения
+            <w lemma="þykja" type="sfg3eþ">þótti</w> -- 1 вхождения
+            <w lemma="hver" type="foken">hver</w> -- 1 вхождения
+            <w lemma="fyrirkomulag" type="nhen">fyrirkomulag</w> -- 1 вхождения
+            <w lemma="hafa" type="svg3en">hafi</w> -- 1 вхождения
+            <w lemma="það" type="fphen">Það</w> -- 1 вхождения
+            <w lemma="íslenskur" type="lkfesf">íslenskra</w> -- 1 вхождения
+            <w lemma="1." type="ta">1.</w> -- 1 вхождения
+            <w lemma="lögð" type="nken-s">Lögð</w> -- 1 вхождения
+            <w lemma="velja" type="ssg">valið</w> -- 1 вхождения
+            <w lemma="ætlaður" type="lveosf">ætlaða</w> -- 1 вхождения
+            <w lemma="fyrirtæki" type="nheeg">fyrirtækisins</w> -- 1 вхождения
+            <w lemma="samtök" type="nhfn">Samtök</w> -- 1 вхождения
+            <w lemma="laus" type="lvfosf">lausar</w> -- 1 вхождения
+            <w lemma="sjónarmið" type="nheo">sjónarmið</w> -- 1 вхождения
+            <w lemma="setja" type="sþgvfn">settar</w> -- 1 вхождения
+            <w lemma="umfjöllun" type="nveþ">umfjöllun</w> -- 1 вхождения
+            <w lemma="rammasamningur" type="nkee">rammasamnings</w> -- 1 вхождения
+            <w lemma="hafa" type="svg3fn">hafi</w> -- 1 вхождения
+            <w lemma="starfsmaður" type="nkfe">starfsmanna</w> -- 1 вхождения
+            <w lemma="einstakur" type="lhfþsf">einstökum</w> -- 1 вхождения
+            <w lemma="ég" type="fp1en">ég</w> -- 1 вхождения
+            <w lemma="land" type="nheþ">landi</w> -- 1 вхождения
+            <w lemma="koma" type="sfg3fn">koma</w> -- 1 вхождения
+            <w lemma="vera" type="sfg3eþ">var</w> -- 1 вхождения
+            <w lemma="annar" type="fohfþ">öðrum</w> -- 1 вхождения
+            <w lemma="vegur" type="nkeo">veg</w> -- 1 вхождения
+            <w lemma="stjórnendur" type="nken">stjórnendur</w> -- 1 вхождения
+            <w lemma="aðallega" type="aa">aðallega</w> -- 1 вхождения
+            <w lemma="samtök" type="nhfþ">samtökum</w> -- 1 вхождения
+            <w lemma="tími" type="nkeþ">tíma</w> -- 1 вхождения
+            <w lemma="aðili" type="nkee">aðila</w> -- 1 вхождения
+            <w lemma="hann" type="fpkfn">þeir</w> -- 1 вхождения
+            <w lemma="verða" type="sfg3en">verður</w> -- 1 вхождения
+            <w lemma="hinn" type="gkeþ">hinum</w> -- 1 вхождения
+            <w lemma="kjarasamningur" type="nkfþ">kjarasamningum</w> -- 1 вхождения
+            <w lemma="svigrúm" type="nheo">svigrúm</w> -- 1 вхождения
+            <w lemma="endurnýja" type="sþgkfn">endurnýjaðir</w> -- 1 вхождения
+            <w lemma="frá" type="aa">frá</w> -- 1 вхождения
+            <w lemma="þykja" type="svg3en">þyki</w> -- 1 вхождения
+            <w lemma="áhrif" type="nhfo">áhrif</w> -- 1 вхождения
+            <w lemma="ráða" type="sþgkfn">ráðnir</w> -- 1 вхождения
+            <w lemma="konar" type="nkee">konar</w> -- 1 вхождения
+            <w lemma="tímabundinn" type="lkfþsf">tímabundnum</w> -- 1 вхождения
+            <w lemma="réttindi" type="nhfo">réttindi</w> -- 1 вхождения
+            <w lemma="aðili" type="nkfo">aðila</w> -- 1 вхождения
+            <w lemma="gera" type="sþgkfn">gerðir</w> -- 1 вхождения
+            <w lemma="í" type="aþ">Í</w> -- 1 вхождения
+            <w lemma="fjórir" type="tfhfe">fjögurra</w> -- 1 вхождения
+            <w lemma="m.a." type="as">m.a.</w> -- 1 вхождения
+            <w lemma="sérstaklega" type="aa">sérstaklega</w> -- 1 вхождения
+            <w lemma="sveigjanleiki" type="nkee">sveigjanleika</w> -- 1 вхождения
+            <w lemma="tilvik" type="nhfþ">tilvikum</w> -- 1 вхождения
+            <w lemma="annar" type="fokfþ">öðrum</w> -- 1 вхождения
+            <w lemma="fremur" type="aam">fremur</w> -- 1 вхождения
+            <w lemma="lag" type="nhfe">laga</w> -- 1 вхождения
+            <w lemma="yfir" type="ao">yfir</w> -- 1 вхождения
+            <w lemma="hversu" type="aa">hversu</w> -- 1 вхождения
+            <w lemma="frumvarp" type="nhee">frumvarps</w> -- 1 вхождения
+            <w lemma="lokinn" type="lveþsf">lokinni</w> -- 1 вхождения
+            <w lemma="viðbót" type="nvee">viðbótar</w> -- 1 вхождения
+            <w lemma="senn" type="aa">senn</w> -- 1 вхождения
+            <w lemma="kveða" type="sþghen">kveðið</w> -- 1 вхождения
+            <w lemma="frekur" type="lvfovm">frekari</w> -- 1 вхождения
+            <w lemma="stór" type="lheosf">stórt</w> -- 1 вхождения
+            <w lemma="stjórnandi" type="nkfe">stjórnenda</w> -- 1 вхождения
+            <w lemma="raunverulega" type="aa">raunverulega</w> -- 1 вхождения
+            <w lemma="gerð" type="nveo">gerð</w> -- 1 вхождения
+            <w lemma="réttur" type="lhensf">rétt</w> -- 1 вхождения
+            <w lemma="erfiður" type="lhensf">Erfitt</w> -- 1 вхождения
+            <w lemma="algengur" type="lhensf">algengt</w> -- 1 вхождения
+            <w lemma="skýrsla" type="nveo">skýrslu</w> -- 1 вхождения
+            <w lemma="fyrir" type="aþ">fyrir</w> -- 1 вхождения
+            <w lemma="þekkja" type="sþghen">þekkt</w> -- 1 вхождения
+            <w lemma="misnotkun" type="nveo">misnotkun</w> -- 1 вхождения
+            <w lemma="taka" type="sfg1en">tek</w> -- 1 вхождения
+            <w lemma="skylda" type="nvfo">skyldur</w> -- 2 вхождения
+            <w lemma="þó" type="aa">þó</w> -- 2 вхождения
+            <w lemma="sá" type="fakfo">þá</w> -- 2 вхождения
+            <w lemma="tími" type="nkee">tíma</w> -- 2 вхождения
+            <w lemma="ráðningarsamningur" type="nkfo">ráðningarsamninga</w> -- 2 вхождения
+            <w lemma="útfærsla" type="nveo">útfærslu</w> -- 2 вхождения
+            <w lemma="þar" type="aa">Þar</w> -- 2 вхождения
+            <w lemma="ár" type="nhfe">ára</w> -- 2 вхождения
+            <w lemma="íslenskur" type="lkeosf">íslenskan</w> -- 2 вхождения
+            <w lemma="gilda" type="ssg">gilt</w> -- 2 вхождения
+            <w lemma="ráð" type="nhen">ráð</w> -- 2 вхождения
+            <w lemma="þessi" type="faheþ">þessu</w> -- 2 вхождения
+            <w lemma="taka" type="sþgven">tekin</w> -- 2 вхождения
+            <w lemma="vísa" type="sþghen">vísað</w> -- 2 вхождения
+            <w lemma="sá" type="favfn">þær</w> -- 2 вхождения
+            <w lemma="hæstv" type="nken-s">Hæstv</w> -- 2 вхождения
+            <w lemma="embættismaður" type="nkfe">embættismanna</w> -- 2 вхождения
+            <w lemma="liggja" type="sfg3en">liggur</w> -- 2 вхождения
+            <w lemma="samráð" type="nheþ">samráði</w> -- 2 вхождения
+            <w lemma="mæla" type="sþghen">mælt</w> -- 2 вхождения
+            <w lemma="tímabundinn" type="lkensf">tímabundinn</w> -- 2 вхождения
+            <w lemma="þá" type="aa">þá</w> -- 2 вхождения
+            <w lemma="jafnlangur" type="lkeesf">jafnlangs</w> -- 2 вхождения
+            <w lemma="leggja" type="sþghen">lagt</w> -- 2 вхождения
+            <w lemma="tímabundnur" type="lkfosf">tímabundna</w> -- 2 вхождения
+            <w lemma="ákveða" type="sng">ákveða</w> -- 2 вхождения
+            <w lemma="kjarasamningur" type="nkfe">kjarasamninga</w> -- 2 вхождения
+            <w lemma="ég" type="fp1en">Ég</w> -- 2 вхождения
+            <w lemma="regla" type="nvfn">reglur</w> -- 2 вхождения
+            <w lemma="virðulegur" type="lkenvf">Virðulegi</w> -- 2 вхождения
+            <w lemma="umr." type="sbg2en">umr.</w> -- 2 вхождения
+            <w lemma="innan" type="ae">innan</w> -- 2 вхождения
+            <w lemma="skulu" type="svg3en">skuli</w> -- 2 вхождения
+            <w lemma="takmörkun" type="nvfo">takmarkanir</w> -- 2 вхождения
+            <w lemma="það" type="fphee">þess</w> -- 2 вхождения
+            <w lemma="tímabundinn" type="lhfþsf">tímabundnum</w> -- 2 вхождения
+            <w lemma="koma" type="ssg">komið</w> -- 2 вхождения
+            <w lemma="upp" type="aa">upp</w> -- 2 вхождения
+            <w lemma="á" type="aa">á</w> -- 2 вхождения
+            <w lemma="opinber" type="lkeþvf">opinbera</w> -- 2 вхождения
+            <w lemma="ráðningarsamningur" type="nken">ráðningarsamningur</w> -- 2 вхождения
+            <w lemma="að" type="aþ">Að</w> -- 2 вхождения
+            <w lemma="starfsmannalag" type="nhfe">starfsmannalaga</w> -- 2 вхождения
+            <w lemma="þá" type="aa">Þá</w> -- 2 вхождения
+            <w lemma="fram" type="aa">fram</w> -- 2 вхождения
+            <w lemma="vinnumarkaður" type="nkeo">vinnumarkað</w> -- 2 вхождения
+            <w lemma="í" type="ao">í</w> -- 3 вхождения
+            <w lemma="hafa" type="sng">hafa</w> -- 3 вхождения
+            <w lemma="að" type="aþ">að</w> -- 3 вхождения
+            <w lemma="fyrir" type="aa">fyrir</w> -- 3 вхождения
+            <w lemma="ráðningarsamningur" type="nkfþ">ráðningarsamningum</w> -- 3 вхождения
+            <w lemma="aðili" type="nkfe">aðila</w> -- 3 вхождения
+            <w lemma="það" type="fpheþ">því</w> -- 3 вхождения
+            <w lemma="tímabundinn" type="lvfosf">tímabundnar</w> -- 3 вхождения
+            <w lemma="um" type="aa">um</w> -- 3 вхождения
+            <w lemma="framvegis" type="aa">frv.</w> -- 3 вхождения
+            <w lemma="sá" type="fahee">þess</w> -- 3 вхождения
+            <w lemma="með" type="aþ">með</w> -- 3 вхождения
+            <w lemma="til" type="aa">til</w> -- 3 вхождения
+            <w lemma="semja" type="sng">semja</w> -- 3 вхождения
+            <w lemma="hér" type="aa">hér</w> -- 3 вхождения
+            <w lemma="lag" type="nhfþ">lögum</w> -- 3 вхождения
+            <w lemma="fyrir" type="ao">fyrir</w> -- 4 вхождения
+            <w lemma="á" type="ao">á</w> -- 4 вхождения
+            <w lemma="forseti" type="nken">forseti</w> -- 4 вхождения
+            <w lemma="sem" type="c">sem</w> -- 4 вхождения
+            <w lemma="við" type="ao">við</w> -- 4 вхождения
+            <w lemma="ekki" type="aa">ekki</w> -- 4 вхождения
+            <w lemma="ráðning" type="nvee">ráðningar</w> -- 4 вхождения
+            <w lemma="þar" type="aa">þar</w> -- 4 вхождения
+            <w lemma="vinnumarkaður" type="nkeþ">vinnumarkaði</w> -- 5 вхождения
+            <w lemma="vera" type="sfg3fn">eru</w> -- 5 вхождения
+            <w lemma="vinnumarkaður" type="nkeeg">vinnumarkaðarins</w> -- 6 вхождения
+            <w lemma="verða" type="svg3en">verði</w> -- 6 вхождения
+            <w lemma="en" type="c">en</w> -- 6 вхождения
+            <w lemma="í" type="aþ">í</w> -- 8 вхождения
+            <w lemma="og" type="c">og</w> -- 9 вхождения
+            <w lemma="sem" type="ct">sem</w> -- 10 вхождения
+            <w lemma="á" type="aþ">á</w> -- 12 вхождения
+            <w lemma="að" type="cn">að</w> -- 12 вхождения
+            <w lemma="að" type="c">að</w> -- 13 вхождения
+            <w lemma="vera" type="sfg3en">er</w> -- 13 вхождения
+            <w lemma="til" type="ae">til</w> -- 14 вхождения
+            <w lemma="um" type="ao">um</w> -- 16 вхождения
+родительных падежей: 4031
+            <w lemma="meta" type="sng">meta</w> -- 1 шт
+            <w lemma="fár" type="lvfnsf">fáar</w> -- 1 шт
+            <w lemma="virða" type="sfm3en">virðist</w> -- 1 шт
+            <w lemma="samstarfshópur" type="nkee">samstarfshóps</w> -- 1 шт
+            <w lemma="ríkur" type="lvensf">rík</w> -- 1 шт
+            <w lemma="samtök" type="nhfn">samtök</w> -- 1 шт
+            <w lemma="kveða" type="sng">kveða</w> -- 1 шт
+            <w lemma="stjórnvald" type="nhfn">stjórnvöld</w> -- 1 шт
+            <w lemma="skyn" type="nheþ">skyni</w> -- 1 шт
+            <w lemma="eins" type="nken-s">Eins</w> -- 1 шт
+            <w lemma="takmörkun" type="nvfn">takmarkanir</w> -- 1 шт
+            <w lemma="geta" type="sfg3fþ">gátu</w> -- 1 шт
+            <w lemma="samvinna" type="nveþ">samvinnu</w> -- 1 шт
+            <w lemma="félmn" type="nkeog">félmn</w> -- 1 шт
+            <w lemma="þykja" type="sfg3en">Þykir</w> -- 1 шт
+            <w lemma="oft" type="aa">oft</w> -- 1 шт
+            <w lemma="tímabundinn" type="lhensf">tímabundið</w> -- 1 шт
+            <w lemma="samfellt" type="aa">samfellt</w> -- 1 шт
+            <w lemma="geta" type="sfg3fn">geta</w> -- 1 шт
+            <w lemma="hvernig" type="aa">hvernig</w> -- 1 шт
+            <w lemma="skjal" type="nhfeg">skjalanna</w> -- 1 шт
+            <w lemma="þannig" type="aa">þannig</w> -- 1 шт
+            <w lemma="eiga" type="svg3en">eigi</w> -- 1 шт
+            <w lemma="eðlilegur" type="lhenvm">eðlilegra</w> -- 1 шт
+            <w lemma="ágreiningur" type="nken">ágreiningur</w> -- 1 шт
+            <w lemma="hjá" type="aþ">hjá</w> -- 1 шт
+            <w lemma="því" type="aa">því</w> -- 1 шт
+            <w lemma="gera" type="sþghen">gert</w> -- 1 шт
+            <w lemma="hafa" type="sfg3fn">hafa</w> -- 1 шт
+            <w lemma="til" type="ae">Til</w> -- 1 шт
+            <w lemma="fimm" type="tfhfe">fimm</w> -- 1 шт
+            <w lemma="annar" type="fohen">annað</w> -- 1 шт
+            <w lemma="slíkur" type="fbkfe">slíkra</w> -- 1 шт
+            <w lemma="vera" type="svg3en">sé</w> -- 1 шт
+            <w lemma="vernd" type="nveo">vernd</w> -- 1 шт
+            <w lemma="telja" type="sþgken">talinn</w> -- 1 шт
+            <w lemma="samtök" type="nhfo">samtök</w> -- 1 шт
+            <w lemma="upplýsa" type="sng">upplýsa</w> -- 1 шт
+            <w lemma="ég" type="fp1eþ">mér</w> -- 1 шт
+            <w lemma="varlega" type="aa">varlega</w> -- 1 шт
+            <w lemma="hinn" type="fahfþ">hinum</w> -- 1 шт
+            <w lemma="er" type="ct">er</w> -- 1 шт
+            <w lemma="annar" type="foveo">aðra</w> -- 1 шт
+            <w lemma="regla" type="nven">regla</w> -- 1 шт
+            <w lemma="ár" type="nhfþ">árum</w> -- 1 шт
+            <w lemma="sá" type="favfo">þær</w> -- 1 шт
+            <w lemma="misnota" type="sþgvfn">misnotaðar</w> -- 1 шт
+            <w lemma="heimill" type="lhensf">heimilt</w> -- 1 шт
+            <w lemma="eða" type="c">eða</w> -- 1 шт
+            <w lemma="efni" type="nheþ">efni</w> -- 1 шт
+            <w lemma="einkenni" type="nhfe">einkenna</w> -- 1 шт
+            <w lemma="morgunn" type="nkeo">morgun</w> -- 1 шт
+            <w lemma="vari" type="nken">vari</w> -- 1 шт
+            <w lemma="koma" type="sng">koma</w> -- 1 шт
+            <w lemma="ákvæði" type="nhfn">Ákvæði</w> -- 1 шт
+            <w lemma="aukinn" type="lveosf">aukna</w> -- 1 шт
+            <w lemma="vangaveltur" type="nvfn">vangaveltur</w> -- 1 шт
+            <w lemma="enn" type="aa">enn</w> -- 1 шт
+            <w lemma="frekur" type="lvfnvm">frekari</w> -- 1 шт
+            <w lemma="kanna" type="sþghen">kannað</w> -- 1 шт
+            <w lemma="teknur" type="lheþsf">teknu</w> -- 1 шт
+            <w lemma="undanskilinn" type="lheþsf">undanskildu</w> -- 1 шт
+            <w lemma="það" type="fphfe">þeirra</w> -- 1 шт
+            <w lemma="leiða" type="sfg3en">leiðir</w> -- 1 шт
+            <w lemma="gera" type="sþghen">Gert</w> -- 1 шт
+            <w lemma="í" type="aa">í</w> -- 1 шт
+            <w lemma="hátta" type="sþghen">háttað</w> -- 1 шт
+            <w lemma="af" type="aþ">af</w> -- 1 шт
+            <w lemma="slíkur" type="fbkfn">slíkir</w> -- 1 шт
+            <w lemma="vera" type="sfg3en">Er</w> -- 1 шт
+            <w lemma="þessi" type="faveo">þessa</w> -- 1 шт
+            <w lemma="verndun" type="nveo">verndun</w> -- 1 шт
+            <w lemma="vinnumálastofnun" type="nveo-s">Vinnumálastofnun</w> -- 1 шт
+            <w lemma="leggja" type="sfg1en">legg</w> -- 1 шт
+            <w lemma="nauðsyn" type="nven">nauðsyn</w> -- 1 шт
+            <w lemma="tímabundinn" type="lvfnsf">tímabundnar</w> -- 1 шт
+            <w lemma="leggja" type="sþgvfn">lagðar</w> -- 1 шт
+            <w lemma="sá" type="faken">sá</w> -- 1 шт
+            <w lemma="beita" type="sng">beita</w> -- 1 шт
+            <w lemma="þrír" type="tfhfþ">þremur</w> -- 1 шт
+            <w lemma="rúma" type="snm">rúmast</w> -- 1 шт
+            <w lemma="íslenskur" type="lkeþsf">íslenskum</w> -- 1 шт
+            <w lemma="þráður" type="nkeog">þráðinn</w> -- 1 шт
+            <w lemma="endurnýjaður" type="lkfnsf">endurnýjaðir</w> -- 1 шт
+            <w lemma="einnig" type="aa">einnig</w> -- 1 шт
+            <w lemma="taka" type="snm">takast</w> -- 1 шт
+            <w lemma="fara" type="sþghen">farið</w> -- 1 шт
+            <w lemma="langur" type="lkeovm">lengri</w> -- 1 шт
+            <w lemma="rammasamningur" type="nkengs">Rammasamningurinn</w> -- 1 шт
+            <w lemma="afstaða" type="nven">afstaða</w> -- 1 шт
+            <w lemma="áhersla" type="nven">áhersla</w> -- 1 шт
+            <w lemma="sig" type="fpkfþ">sér</w> -- 1 шт
+            <w lemma="innlendur" type="lkeþsf">innlendum</w> -- 1 шт
+            <w lemma="við" type="aa">við</w> -- 1 шт
+            <w lemma="verða" type="sfg3fn">verða</w> -- 1 шт
+            <w lemma="mark" type="nhfog">mörkin</w> -- 1 шт
+            <w lemma="dómstóll" type="nkfe">dómstóla</w> -- 1 шт
+            <w lemma="skipun" type="nveo">skipun</w> -- 1 шт
+            <w lemma="starfsmaður" type="nkfo">starfsmenn</w> -- 1 шт
+            <w lemma="saman" type="aa">saman</w> -- 1 шт
+            <w lemma="rammasamningur" type="nkeeg">rammasamningsins</w> -- 1 шт
+            <w lemma="leggja" type="svg3en">leggi</w> -- 1 шт
+            <w lemma="sinn" type="fekfo">sína</w> -- 1 шт
+            <w lemma="launafólk" type="nhee">launafólks</w> -- 1 шт
+            <w lemma="skipan" type="nveo">skipan</w> -- 1 шт
+            <w lemma="hverfa" type="sþghen">horfið</w> -- 1 шт
+            <w lemma="varða" type="sfg3en">varðar</w> -- 1 шт
+            <w lemma="þegar" type="c">þegar</w> -- 1 шт
+            <w lemma="kast" type="nhfe">kasta</w> -- 1 шт
+            <w lemma="sveitarfélag" type="nhfþ">sveitarfélögum</w> -- 1 шт
+            <w lemma="sá" type="fakee">þess</w> -- 1 шт
+            <w lemma="skulu" type="sfg3fn">skulu</w> -- 1 шт
+            <w lemma="endurnýja" type="sng">endurnýja</w> -- 1 шт
+            <w lemma="mál" type="nhfog">málin</w> -- 1 шт
+            <w lemma="taka" type="sþghen">tekið</w> -- 1 шт
+            <w lemma="hvar" type="aa">hvar</w> -- 1 шт
+            <w lemma="ræða" type="sfg3en">ræðir</w> -- 1 шт
+            <w lemma="munu" type="sfg1en">mun</w> -- 1 шт
+            <w lemma="sjónarmið" type="nhfn">sjónarmið</w> -- 1 шт
+            <w lemma="áður" type="aa">áður</w> -- 1 шт
+            <w lemma="samur" type="fbhen">Sama</w> -- 1 шт
+            <w lemma="vel" type="aa">vel</w> -- 1 шт
+            <w lemma="ár" type="nhfo">ár</w> -- 1 шт
+            <w lemma="draga" type="sng">draga</w> -- 1 шт
+            <w lemma="tak" type="nheþ">taki</w> -- 1 шт
+            <w lemma="milli" type="ae">milli</w> -- 1 шт
+            <w lemma="ráðningarsamningur" type="nkfn">ráðningarsamningar</w> -- 1 шт
+            <w lemma="2." type="ta">2.</w> -- 1 шт
+            <w lemma="staða" type="nvfo">stöður</w> -- 1 шт
+            <w lemma="nærri" type="lhfþve">næstu</w> -- 1 шт
+            <w lemma="lengi" type="aam">lengur</w> -- 1 шт
+            <w lemma="orð" type="nhfþ">orðum</w> -- 1 шт
+            <w lemma="sá" type="faheþ">því</w> -- 1 шт
+            <w lemma="tveir" type="tfhfo">tvö</w> -- 1 шт
+            <w lemma="hv" type="nhen">hv</w> -- 1 шт
+            <w lemma="taka" type="sfm3eþ">tókst</w> -- 1 шт
+            <w lemma="strangur" type="lvfovm">strangari</w> -- 1 шт
+            <w lemma="gildandi" type="lhfeof">gildandi</w> -- 1 шт
+            <w lemma="fara" type="sng">fara</w> -- 1 шт
+            <w lemma="viðganga" type="sfm3en">viðgengst</w> -- 1 шт
+            <w lemma="vera" type="svg3fn">séu</w> -- 1 шт
+            <w lemma="ákvæði" type="nhfo">ákvæði</w> -- 1 шт
+            <w lemma="heimild" type="nveo">heimild</w> -- 1 шт
+            <w lemma="þrennur" type="lkeesf">þrenns</w> -- 1 шт
+            <w lemma="tillit" type="nheþ">tilliti</w> -- 1 шт
+            <w lemma="sá" type="fahfþ">þeim</w> -- 1 шт
+            <w lemma="vinnuveitandi" type="nkfn">vinnuveitendur</w> -- 1 шт
+            <w lemma="aðili" type="nkfn">aðilar</w> -- 1 шт
+            <w lemma="hvort" type="c">hvort</w> -- 1 шт
+            <w lemma="leggja" type="sfg3en">leggur</w> -- 1 шт
+            <w lemma="samstarfshópur" type="nken">samstarfshópur</w> -- 1 шт
+            <w lemma="þykja" type="sfg3eþ">þótti</w> -- 1 шт
+            <w lemma="hver" type="foken">hver</w> -- 1 шт
+            <w lemma="fyrirkomulag" type="nhen">fyrirkomulag</w> -- 1 шт
+            <w lemma="hafa" type="svg3en">hafi</w> -- 1 шт
+            <w lemma="það" type="fphen">Það</w> -- 1 шт
+            <w lemma="íslenskur" type="lkfesf">íslenskra</w> -- 1 шт
+            <w lemma="1." type="ta">1.</w> -- 1 шт
+            <w lemma="lögð" type="nken-s">Lögð</w> -- 1 шт
+            <w lemma="velja" type="ssg">valið</w> -- 1 шт
+            <w lemma="ætlaður" type="lveosf">ætlaða</w> -- 1 шт
+            <w lemma="fyrirtæki" type="nheeg">fyrirtækisins</w> -- 1 шт
+            <w lemma="samtök" type="nhfn">Samtök</w> -- 1 шт
+            <w lemma="laus" type="lvfosf">lausar</w> -- 1 шт
+            <w lemma="sjónarmið" type="nheo">sjónarmið</w> -- 1 шт
+            <w lemma="setja" type="sþgvfn">settar</w> -- 1 шт
+            <w lemma="umfjöllun" type="nveþ">umfjöllun</w> -- 1 шт
+            <w lemma="rammasamningur" type="nkee">rammasamnings</w> -- 1 шт
+            <w lemma="hafa" type="svg3fn">hafi</w> -- 1 шт
+            <w lemma="starfsmaður" type="nkfe">starfsmanna</w> -- 1 шт
+            <w lemma="einstakur" type="lhfþsf">einstökum</w> -- 1 шт
+            <w lemma="ég" type="fp1en">ég</w> -- 1 шт
+            <w lemma="land" type="nheþ">landi</w> -- 1 шт
+            <w lemma="koma" type="sfg3fn">koma</w> -- 1 шт
+            <w lemma="vera" type="sfg3eþ">var</w> -- 1 шт
+            <w lemma="annar" type="fohfþ">öðrum</w> -- 1 шт
+            <w lemma="vegur" type="nkeo">veg</w> -- 1 шт
+            <w lemma="stjórnendur" type="nken">stjórnendur</w> -- 1 шт
+            <w lemma="aðallega" type="aa">aðallega</w> -- 1 шт
+            <w lemma="samtök" type="nhfþ">samtökum</w> -- 1 шт
+            <w lemma="tími" type="nkeþ">tíma</w> -- 1 шт
+            <w lemma="aðili" type="nkee">aðila</w> -- 1 шт
+            <w lemma="hann" type="fpkfn">þeir</w> -- 1 шт
+            <w lemma="verða" type="sfg3en">verður</w> -- 1 шт
+            <w lemma="hinn" type="gkeþ">hinum</w> -- 1 шт
+            <w lemma="kjarasamningur" type="nkfþ">kjarasamningum</w> -- 1 шт
+            <w lemma="svigrúm" type="nheo">svigrúm</w> -- 1 шт
+            <w lemma="endurnýja" type="sþgkfn">endurnýjaðir</w> -- 1 шт
+            <w lemma="frá" type="aa">frá</w> -- 1 шт
+            <w lemma="þykja" type="svg3en">þyki</w> -- 1 шт
+            <w lemma="áhrif" type="nhfo">áhrif</w> -- 1 шт
+            <w lemma="ráða" type="sþgkfn">ráðnir</w> -- 1 шт
+            <w lemma="konar" type="nkee">konar</w> -- 1 шт
+            <w lemma="tímabundinn" type="lkfþsf">tímabundnum</w> -- 1 шт
+            <w lemma="réttindi" type="nhfo">réttindi</w> -- 1 шт
+            <w lemma="aðili" type="nkfo">aðila</w> -- 1 шт
+            <w lemma="gera" type="sþgkfn">gerðir</w> -- 1 шт
+            <w lemma="í" type="aþ">Í</w> -- 1 шт
+            <w lemma="fjórir" type="tfhfe">fjögurra</w> -- 1 шт
+            <w lemma="m.a." type="as">m.a.</w> -- 1 шт
+            <w lemma="sérstaklega" type="aa">sérstaklega</w> -- 1 шт
+            <w lemma="sveigjanleiki" type="nkee">sveigjanleika</w> -- 1 шт
+            <w lemma="tilvik" type="nhfþ">tilvikum</w> -- 1 шт
+            <w lemma="annar" type="fokfþ">öðrum</w> -- 1 шт
+            <w lemma="fremur" type="aam">fremur</w> -- 1 шт
+            <w lemma="lag" type="nhfe">laga</w> -- 1 шт
+            <w lemma="yfir" type="ao">yfir</w> -- 1 шт
+            <w lemma="hversu" type="aa">hversu</w> -- 1 шт
+            <w lemma="frumvarp" type="nhee">frumvarps</w> -- 1 шт
+            <w lemma="lokinn" type="lveþsf">lokinni</w> -- 1 шт
+            <w lemma="viðbót" type="nvee">viðbótar</w> -- 1 шт
+            <w lemma="senn" type="aa">senn</w> -- 1 шт
+            <w lemma="kveða" type="sþghen">kveðið</w> -- 1 шт
+            <w lemma="frekur" type="lvfovm">frekari</w> -- 1 шт
+            <w lemma="stór" type="lheosf">stórt</w> -- 1 шт
+            <w lemma="stjórnandi" type="nkfe">stjórnenda</w> -- 1 шт
+            <w lemma="raunverulega" type="aa">raunverulega</w> -- 1 шт
+            <w lemma="gerð" type="nveo">gerð</w> -- 1 шт
+            <w lemma="réttur" type="lhensf">rétt</w> -- 1 шт
+            <w lemma="erfiður" type="lhensf">Erfitt</w> -- 1 шт
+            <w lemma="algengur" type="lhensf">algengt</w> -- 1 шт
+            <w lemma="skýrsla" type="nveo">skýrslu</w> -- 1 шт
+            <w lemma="fyrir" type="aþ">fyrir</w> -- 1 шт
+            <w lemma="þekkja" type="sþghen">þekkt</w> -- 1 шт
+            <w lemma="misnotkun" type="nveo">misnotkun</w> -- 1 шт
+            <w lemma="taka" type="sfg1en">tek</w> -- 1 шт
+            <w lemma="skylda" type="nvfo">skyldur</w> -- 2 шт
+            <w lemma="þó" type="aa">þó</w> -- 2 шт
+            <w lemma="sá" type="fakfo">þá</w> -- 2 шт
+            <w lemma="tími" type="nkee">tíma</w> -- 2 шт
+            <w lemma="ráðningarsamningur" type="nkfo">ráðningarsamninga</w> -- 2 шт
+            <w lemma="útfærsla" type="nveo">útfærslu</w> -- 2 шт
+            <w lemma="þar" type="aa">Þar</w> -- 2 шт
+            <w lemma="ár" type="nhfe">ára</w> -- 2 шт
+            <w lemma="íslenskur" type="lkeosf">íslenskan</w> -- 2 шт
+            <w lemma="gilda" type="ssg">gilt</w> -- 2 шт
+            <w lemma="ráð" type="nhen">ráð</w> -- 2 шт
+            <w lemma="þessi" type="faheþ">þessu</w> -- 2 шт
+            <w lemma="taka" type="sþgven">tekin</w> -- 2 шт
+            <w lemma="vísa" type="sþghen">vísað</w> -- 2 шт
+            <w lemma="sá" type="favfn">þær</w> -- 2 шт
+            <w lemma="hæstv" type="nken-s">Hæstv</w> -- 2 шт
+            <w lemma="embættismaður" type="nkfe">embættismanna</w> -- 2 шт
+            <w lemma="liggja" type="sfg3en">liggur</w> -- 2 шт
+            <w lemma="samráð" type="nheþ">samráði</w> -- 2 шт
+            <w lemma="mæla" type="sþghen">mælt</w> -- 2 шт
+            <w lemma="tímabundinn" type="lkensf">tímabundinn</w> -- 2 шт
+            <w lemma="þá" type="aa">þá</w> -- 2 шт
+            <w lemma="jafnlangur" type="lkeesf">jafnlangs</w> -- 2 шт
+            <w lemma="leggja" type="sþghen">lagt</w> -- 2 шт
+            <w lemma="tímabundnur" type="lkfosf">tímabundna</w> -- 2 шт
+            <w lemma="ákveða" type="sng">ákveða</w> -- 2 шт
+            <w lemma="kjarasamningur" type="nkfe">kjarasamninga</w> -- 2 шт
+            <w lemma="ég" type="fp1en">Ég</w> -- 2 шт
+            <w lemma="regla" type="nvfn">reglur</w> -- 2 шт
+            <w lemma="virðulegur" type="lkenvf">Virðulegi</w> -- 2 шт
+            <w lemma="umr." type="sbg2en">umr.</w> -- 2 шт
+            <w lemma="innan" type="ae">innan</w> -- 2 шт
+            <w lemma="skulu" type="svg3en">skuli</w> -- 2 шт
+            <w lemma="takmörkun" type="nvfo">takmarkanir</w> -- 2 шт
+            <w lemma="það" type="fphee">þess</w> -- 2 шт
+            <w lemma="tímabundinn" type="lhfþsf">tímabundnum</w> -- 2 шт
+            <w lemma="koma" type="ssg">komið</w> -- 2 шт
+            <w lemma="upp" type="aa">upp</w> -- 2 шт
+            <w lemma="á" type="aa">á</w> -- 2 шт
+            <w lemma="opinber" type="lkeþvf">opinbera</w> -- 2 шт
+            <w lemma="ráðningarsamningur" type="nken">ráðningarsamningur</w> -- 2 шт
+            <w lemma="að" type="aþ">Að</w> -- 2 шт
+            <w lemma="starfsmannalag" type="nhfe">starfsmannalaga</w> -- 2 шт
+            <w lemma="þá" type="aa">Þá</w> -- 2 шт
+            <w lemma="fram" type="aa">fram</w> -- 2 шт
+            <w lemma="vinnumarkaður" type="nkeo">vinnumarkað</w> -- 2 шт
+            <w lemma="í" type="ao">í</w> -- 3 шт
+            <w lemma="hafa" type="sng">hafa</w> -- 3 шт
+            <w lemma="að" type="aþ">að</w> -- 3 шт
+            <w lemma="fyrir" type="aa">fyrir</w> -- 3 шт
+            <w lemma="ráðningarsamningur" type="nkfþ">ráðningarsamningum</w> -- 3 шт
+            <w lemma="aðili" type="nkfe">aðila</w> -- 3 шт
+            <w lemma="það" type="fpheþ">því</w> -- 3 шт
+            <w lemma="tímabundinn" type="lvfosf">tímabundnar</w> -- 3 шт
+            <w lemma="um" type="aa">um</w> -- 3 шт
+            <w lemma="framvegis" type="aa">frv.</w> -- 3 шт
+            <w lemma="sá" type="fahee">þess</w> -- 3 шт
+            <w lemma="með" type="aþ">með</w> -- 3 шт
+            <w lemma="til" type="aa">til</w> -- 3 шт
+            <w lemma="semja" type="sng">semja</w> -- 3 шт
+            <w lemma="hér" type="aa">hér</w> -- 3 шт
+            <w lemma="lag" type="nhfþ">lögum</w> -- 3 шт
+            <w lemma="fyrir" type="ao">fyrir</w> -- 4 шт
+            <w lemma="á" type="ao">á</w> -- 4 шт
+            <w lemma="forseti" type="nken">forseti</w> -- 4 шт
+            <w lemma="sem" type="c">sem</w> -- 4 шт
+            <w lemma="við" type="ao">við</w> -- 4 шт
+            <w lemma="ekki" type="aa">ekki</w> -- 4 шт
+            <w lemma="ráðning" type="nvee">ráðningar</w> -- 4 шт
+            <w lemma="þar" type="aa">þar</w> -- 4 шт
+            <w lemma="vinnumarkaður" type="nkeþ">vinnumarkaði</w> -- 5 шт
+            <w lemma="vera" type="sfg3fn">eru</w> -- 5 шт
+            <w lemma="vinnumarkaður" type="nkeeg">vinnumarkaðarins</w> -- 6 шт
+            <w lemma="verða" type="svg3en">verði</w> -- 6 шт
+            <w lemma="en" type="c">en</w> -- 6 шт
+            <w lemma="í" type="aþ">í</w> -- 8 шт
+            <w lemma="og" type="c">og</w> -- 9 шт
+            <w lemma="sem" type="ct">sem</w> -- 10 шт
+            <w lemma="á" type="aþ">á</w> -- 12 шт
+            <w lemma="að" type="cn">að</w> -- 12 шт
+            <w lemma="að" type="c">að</w> -- 13 шт
+            <w lemma="vera" type="sfg3en">er</w> -- 13 шт
+            <w lemma="til" type="ae">til</w> -- 14 шт
+            <w lemma="um" type="ao">um</w> -- 16 шт
+родительных падежей: 40

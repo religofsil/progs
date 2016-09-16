@@ -1,0 +1,15 @@
+# -*- coding:utf-8 -*-
+import re
+import codecs
+import random
+
+def shuffle (x):
+    letrus=u"йцукенгшщзхъфывапролджэячсмитьбюё"
+    def randlet (a):
+        l=random.randint(0, len(a)-1)
+        return a[l]
+    i=0
+    while i<len(x)/2:
+        x=re.sub(randlet(x), randlet(letrus), x)
+        i+=1
+    return x

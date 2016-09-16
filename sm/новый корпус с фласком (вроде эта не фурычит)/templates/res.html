@@ -1,0 +1,15 @@
+<html>
+<body>
+<title>korpus!</title>
+<p>{% for i in arr_res %}
+	{% for j in i %}
+	{% if j == word %}
+	<b><span style = "color:blue">{{j}}</span></b>
+	{% else %}
+	<span style = "color:black">{{j}}</span>
+	{% endif %}
+	{% endfor %}
+	<br>
+	{% endfor %}</p>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿# -*- codecs: utf-8 -*-
+import codecs, random, re
+
+f=codecs.open("Master_RU.txt", "r", "utf-8")
+
+arrlet=[]
+arrlen=[]
+arr=[]
+arr2=[]
+
+for line in f:
+    line=line.lower()
+    line=re.sub(u"[—\.,!?\"»«…:]", "", line)
+    line=re.sub(u"-", " ", line)
+##    for i in line:
+##        arr2.append(i)
+##        if i not in arr:
+##            arr.append(i)
+    line=line.split(" ")
+    for i in line:
+        arrlen.append(len(i))
+        for a in i:
+            if a!=u"":
+                arrlet.append(a)
+print arrlet
+print arrlen
