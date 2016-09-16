@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6bfe7c73-7e19-4bf8-bdd5-542a1eeaf885" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faster.py" afterPath="$PROJECT_DIR$/faster.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../rawcorpora.txt" afterPath="$PROJECT_DIR$/../rawcorpora.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../rawcorpora.xml" afterPath="$PROJECT_DIR$/../rawcorpora.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sample.xhtml" afterPath="$PROJECT_DIR$/../sample.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../shinyR/server.R" afterPath="$PROJECT_DIR$/../shinyR/server.R" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../shinyR/ui.R" afterPath="$PROJECT_DIR$/../shinyR/ui.R" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test.txt" afterPath="$PROJECT_DIR$/../test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_input.txt" afterPath="$PROJECT_DIR$/../test_input.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../the_fixer.py" afterPath="$PROJECT_DIR$/../the_fixer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../yoursin/yoursin.txt" afterPath="$PROJECT_DIR$/../yoursin/yoursin.txt" />
     </list>
     <ignored path="lastcourse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,8 +77,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
-    <option name="height" value="772" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -435,14 +425,21 @@
       <option name="project" value="LOCAL" />
       <updated>1473954734182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update lastcourse">
+      <created>1473962371772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1473962371772</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5029542" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
